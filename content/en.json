@@ -1,0 +1,1154 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Christmas market 2026: dates & hours"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T005": {
+  "ctx": "ul > li > a",
+  "en": "La Petite Venise"
+ },
+ "T006": {
+  "ctx": "ul > li > a",
+  "en": "How to get to Colmar"
+ },
+ "T007": {
+  "ctx": "ul > li > a",
+  "en": "The Alsace Wine Route"
+ },
+ "T008": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T009": {
+  "ctx": "div.hero > div.wrap > div.chip",
+  "en": "Over 1,000 travellers have walked this route · rated 4.6/5"
+ },
+ "T010": {
+  "ctx": "div.hero > div.wrap > h1",
+  "en": "Colmar: the old town, Little Venice and the Christmas markets"
+ },
+ "T011": {
+  "ctx": "div.hero > div.wrap > p",
+  "en": "Everything worth knowing before you go — what's free, what costs money, when to come, and how to see the best of it in an afternoon."
+ },
+ "T012": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "See What's Inside"
+ },
+ "T013": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Buy the Audio Guide — €9.99"
+ },
+ "T014": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Listen to Preview"
+ },
+ "T015": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Unterlinden Tickets"
+ },
+ "T016": {
+  "ctx": "section#preview > div.wrap > h2",
+  "en": "Hear the guide before you go"
+ },
+ "T017": {
+  "ctx": "section#preview > div.wrap > p.lede",
+  "en": "One minute of the opening track. This is the voice you'll have in your ear for the whole walk."
+ },
+ "T018": {
+  "ctx": "section.soft#audio > div.wrap > h2",
+  "en": "What is this tour?"
+ },
+ "T019": {
+  "ctx": "section.soft#audio > div.wrap > p.lede",
+  "en": "A self-guided audio walk through Colmar's old town — 27 stops, about an hour and a half, at whatever pace you feel like."
+ },
+ "T020": {
+  "ctx": "section.soft#audio > div.wrap > p",
+  "en": "It starts at Parc du Champ de Mars, winds through the painted houses and the market squares, and finishes in Little Venice. You'll hear why Colmar minted its own money, which house inspired a Studio Ghibli film, and what the Star of David on a brewery actually means. No group to keep up with, no umbrella to follow."
+ },
+ "T021": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "Colmar Old Town Walking Tour"
+ },
+ "T022": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one payment, no subscription</small>"
+ },
+ "T023": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "27 audio stops narrated by a professional historian"
+ },
+ "T024": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "100% offline once downloaded — no data needed in Colmar"
+ },
+ "T025": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Offline GPS map shows where you are; you start each track yourself at the spot"
+ },
+ "T026": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "English, French, German, Italian and Polish"
+ },
+ "T027": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android · 1 year of access"
+ },
+ "T028": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "About 1.5 hours, entirely at your own pace"
+ },
+ "T029": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T030": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Why visit Colmar?"
+ },
+ "T031": {
+  "ctx": "section > div.wrap > p",
+  "en": "Because it survived. Two world wars rolled over Alsace and somehow left Colmar's centre almost untouched — which is why the old town still looks like an illustration rather than a reconstruction. The painted half-timbered houses aren't a heritage-district pastiche. They're the originals, lived in, with laundry in the windows."
+ },
+ "T032": {
+  "ctx": "section > div.wrap > p",
+  "en": "It's also small. You can walk the whole historic centre in ninety minutes, which makes it one of the rare French towns you can genuinely see in a day. Our <a href=\"/colmar-walking-tour/\">27-stop audio walk</a> is built around exactly that: a loop that hits everything worth stopping for and ends where you'd want to end anyway, on the water in Little Venice."
+ },
+ "T033": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The story in five minutes"
+ },
+ "T034": {
+  "ctx": "section > div.wrap > p",
+  "en": "In 1226 Colmar became a free imperial city — answerable to the emperor and nobody else. No duke, no bishop, no local lord taking a cut. It minted its own currency. The bishop over in Strasbourg took this badly, and in 1262 sent troops. Colmar's council president, Johannes Roesselmann, died defending the walls; his body was smuggled home in a barrel so the besiegers couldn't desecrate it. He's the bronze figure on the fountain today — sculpted, like half of Colmar's public art, by a local boy called Bartholdi."
+ },
+ "T035": {
+  "ctx": "section > div.wrap > p",
+  "en": "That would be Frédéric Auguste Bartholdi. Born here in 1834, on the street now named after him, in the house that's now his museum. He went on to build the Statue of Liberty. Colmar has a scale replica at the northern entrance to town, which surprises a lot of American visitors who came for the gingerbread houses."
+ },
+ "T036": {
+  "ctx": "section > div.wrap > p",
+  "en": "The independence habit outlasted the empire. Colmar joined the Décapole, a league of Alsatian towns that banded together against anyone trying to tax them — a structure that looks a lot like Switzerland's, and that tells you most of what you need to know about the Alsatian temperament. French rule, German rule, French again, German again, French again: the town changed nationality four times in seventy-five years and kept ordering beer with its wine list throughout."
+ },
+ "T037": {
+  "ctx": "div.wrap > div.callout > h3",
+  "en": "Still deciding where to base yourself?"
+ },
+ "T038": {
+  "ctx": "div.wrap > div.callout > p",
+  "en": "Colmar works better than Strasbourg as a base for the wine villages — it's 30 minutes closer to all of them and beds cost less in December. We compare both properly in <a href=\"/colmar-vs-strasbourg-christmas-market/\">Colmar vs Strasbourg</a>."
+ },
+ "T039": {
+  "ctx": "section.soft#discover > div.wrap > h2",
+  "en": "What you'll discover on the walk"
+ },
+ "T040": {
+  "ctx": "section.soft#discover > div.wrap > p.lede",
+  "en": "Six of the twenty-seven stops."
+ },
+ "T041": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "La Petite Venise"
+ },
+ "T042": {
+  "ctx": "div.card > div.pad > p",
+  "en": "The canal quarter the postcards are made of. Flat-bottomed boats, geraniums, and the tanners' houses with their open top floors — built that way to dry hides."
+ },
+ "T043": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Maison Pfister & the painted houses"
+ },
+ "T044": {
+  "ctx": "div.card > div.pad > p",
+  "en": "1537, and still the most photographed façade in Alsace. Next door, the Maison des Têtes wears 105 carved faces."
+ },
+ "T045": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "The Christmas markets"
+ },
+ "T046": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Six separate markets across the old town, 23 November to 29 December. The walk ends inside one of them in December."
+ },
+ "T047": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "The Marché Couvert"
+ },
+ "T048": {
+  "ctx": "div.card > div.pad > p",
+  "en": "An 1865 iron-and-brick hall that's still a working market. Cheese, charcuterie, Alsatian wine by the glass at 10am, nobody judging."
+ },
+ "T049": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "The tanners' quarter"
+ },
+ "T050": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Wooden top floors left open to dry hides, and the Quai de la Poissonnerie behind them. A short walk on to the Koïfhus, where the Décapole met and goods were taxed."
+ },
+ "T051": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Rue des Marchands at dusk"
+ },
+ "T052": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Bartholdi was born at number 30. Somewhere along here is also the smallest house in Colmar — barely wider than its own door, for reasons involving medieval property tax."
+ },
+ "T053": {
+  "ctx": "section > div.wrap > h2",
+  "en": "How the audio tour works"
+ },
+ "T054": {
+  "ctx": "div.steps > div > h3",
+  "en": "Buy the guide"
+ },
+ "T055": {
+  "ctx": "div.steps > div > p",
+  "en": "One payment, instant access. No subscription. Your activation email arrives within a few minutes."
+ },
+ "T056": {
+  "ctx": "div.steps > div > h3",
+  "en": "Download the app"
+ },
+ "T057": {
+  "ctx": "div.steps > div > p",
+  "en": "Get TouringBee on iOS or Android, activate, and download the Colmar tour over Wi-Fi before you set off."
+ },
+ "T058": {
+  "ctx": "div.steps > div > h3",
+  "en": "Start at Champ de Mars"
+ },
+ "T059": {
+  "ctx": "div.steps > div > p",
+  "en": "Open the guide when you arrive, follow the offline map, and start each track yourself when you reach the stop."
+ },
+ "T060": {
+  "ctx": "div.steps > div > h3",
+  "en": "Pause and resume"
+ },
+ "T061": {
+  "ctx": "div.steps > div > p",
+  "en": "Stop for a coffee, take a detour, come back tomorrow. The tour waits. Access lasts a year."
+ },
+ "T062": {
+  "ctx": "div.wrap > p > a.btn",
+  "en": "See what's in the guide"
+ },
+ "T063": {
+  "ctx": "section.soft > div.wrap > h2",
+  "en": "Visiting Colmar: the practical part"
+ },
+ "T064": {
+  "ctx": "div.factgrid > div.fg > h3",
+  "en": "What it costs"
+ },
+ "T065": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>Old town, canals, squares</span><b>Free</b>"
+ },
+ "T066": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>Musée Unterlinden</span><b>€14</b>"
+ },
+ "T067": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>This audio guide</span><b>€9.99</b>"
+ },
+ "T068": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>A full day, one museum + lunch</span><b>€40–60</b>"
+ },
+ "T069": {
+  "ctx": "div.factgrid > div.fg > h3",
+  "en": "When things are open"
+ },
+ "T070": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>Musée Unterlinden</span><b>Wed–Mon 9:00–18:00<i>closed Tuesdays</i></b>"
+ },
+ "T071": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>Musée Bartholdi</span><b>Tue–Sun 10–12 &amp; 14–18<i>closed Mondays</i></b>"
+ },
+ "T072": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>Christmas markets 2026</span><b>23 Nov – 29 Dec<i>six markets</i></b>"
+ },
+ "T073": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>Old town</span><b>Always open<i>nothing to book</i></b>"
+ },
+ "T074": {
+  "ctx": "div.factgrid > div.fg > h3",
+  "en": "Getting there"
+ },
+ "T075": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>From Paris (Gare de l'Est)</span><b>~2h20 TGV</b>"
+ },
+ "T076": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>From Strasbourg</span><b>~30 min</b>"
+ },
+ "T077": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>From Basel</span><b>~45 min</b>"
+ },
+ "T078": {
+  "ctx": "div.factgrid > div.fg > div.row",
+  "en": "<span>Time you need</span><b>A full day</b>"
+ },
+ "T079": {
+  "ctx": "section.soft > div.wrap > p",
+  "en": "Almost everything that makes Colmar worth the trip costs nothing. The old town, the canals, the market squares, the façades — all free, all open, all the time. What you pay for is the inside of things: the Unterlinden, the Bartholdi, a boat on the canal, and whatever you drink."
+ },
+ "T080": {
+  "ctx": "div.wrap > div.ticketbox > h3",
+  "en": "The one ticket worth buying in advance"
+ },
+ "T081": {
+  "ctx": "div.wrap > div.ticketbox > p",
+  "en": "The <strong>Musée Unterlinden</strong> holds the Isenheim Altarpiece — a folding polyptych that is, without much competition, the most extraordinary painting in eastern France. €14, closed Tuesdays, last entry 17:30. In December the queue is real; book ahead."
+ },
+ "T082": {
+  "ctx": "div.ticketbox > p > a.btn",
+  "en": "Check Unterlinden tickets"
+ },
+ "T083": {
+  "ctx": "div.ticketbox > p > a.btn",
+  "en": "Full Unterlinden guide"
+ },
+ "T084": {
+  "ctx": "div.wrap > div.callout > h3",
+  "en": "Getting here by train"
+ },
+ "T085": {
+  "ctx": "div.wrap > div.callout > p",
+  "en": "Colmar sits on the Paris–Strasbourg–Basel line, and the station is a ten-minute walk from the old town. Paris Gare de l'Est to Colmar is about 2h20 direct; from Strasbourg it's half an hour and trains run all day. Booking early is where the savings are."
+ },
+ "T086": {
+  "ctx": "div.callout > p > a.btn",
+  "en": "Book train tickets on SNCF"
+ },
+ "T087": {
+  "ctx": "div.callout > p > a.btn",
+  "en": "How to get to Colmar"
+ },
+ "T088": {
+  "ctx": "div.wrap > div.callout > h3",
+  "en": "Driving the Wine Route"
+ },
+ "T089": {
+  "ctx": "div.wrap > div.callout > p",
+  "en": "Eguisheim, Riquewihr, Kaysersberg and Turckheim are all inside a 20-minute radius. Buses exist but they're sparse; a car turns a frustrating day into an easy one. (Turckheim is the exception — it has a station nine minutes from Colmar.)"
+ },
+ "T090": {
+  "ctx": "div.callout > p > a.btn",
+  "en": "Compare car hire"
+ },
+ "T091": {
+  "ctx": "div.callout > p > a.btn",
+  "en": "The Alsace Wine Route"
+ },
+ "T092": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Book tickets & guided tours"
+ },
+ "T093": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "If you'd rather have a person than an app for part of the trip, these are the operators worth looking at."
+ },
+ "T094": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "GetYourGuide"
+ },
+ "T095": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Wine Route day trips, Christmas market tours, Eguisheim and Riquewihr runs, boat rides in Little Venice."
+ },
+ "T096": {
+  "ctx": "div.pad > p > a.btn",
+  "en": "Browse Colmar tours"
+ },
+ "T097": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Tiqets"
+ },
+ "T098": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Museum entry and attraction tickets, including the Unterlinden. Skip the December queue."
+ },
+ "T099": {
+  "ctx": "div.pad > p > a.btn",
+  "en": "Check tickets"
+ },
+ "T100": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Booking.com"
+ },
+ "T101": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Beds in the old town, and car hire for the wine villages. December fills up by September."
+ },
+ "T102": {
+  "ctx": "div.pad > p > a.btn",
+  "en": "Find a hotel"
+ },
+ "T103": {
+  "ctx": "section#reviews > div.wrap > h2",
+  "en": "What travellers say"
+ },
+ "T104": {
+  "ctx": "div.wrap > div.ratingbar > div.score",
+  "en": "4.6<span>/5</span>"
+ },
+ "T105": {
+  "ctx": "div.ratingbar > div > div.stars",
+  "en": "★★★★★"
+ },
+ "T106": {
+  "ctx": "div.ratingbar > div > p",
+  "en": "Average rating for the Colmar audio guide across <strong>Tripadvisor</strong> and <strong>Viator</strong>. Over 1,000 travellers have taken it; 14 of their reviews are below, word for word."
+ },
+ "T107": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T108": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Viator"
+ },
+ "T109": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Wonderful moment"
+ },
+ "T110": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "This audio guide is really great, it made touring the beautiful cobblestone streets of Colmar very exciting and unforgettable. The narration was clear, entertaining and with touches of humor that made the tour even more enjoyable. Thanks to the audio guide I discovered many representative details of the city that I may have missed and even learned that Frédéric-Auguste Bartholdi, the sculptor of the Statue of Liberty, was born here. The app is super easy to use, has an intuitive design, and the best part: you can listen to the stories even offline."
+ },
+ "T111": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Thomas_L</b> · July 2025"
+ },
+ "T112": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T113": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T114": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Great audio tour, very simple to use"
+ },
+ "T115": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Great tour of colmar. I feel like I learned a lot, but most importantly I had a wonderful day. I recommend this audio tour. Easy to use."
+ },
+ "T116": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Cathy M</b> · Brisbane, Australia · August 2025 · Solo"
+ },
+ "T117": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T118": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Viator"
+ },
+ "T119": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "A helpful, no pressure way to learn about Colmar"
+ },
+ "T120": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Loved the app! Full of information, which will be helpful as a reminder of my visit. The app may be for 1 1/2 hours, but after taking photos and taking my time, it lasted 3 days. I often strayed from the map out of curiosity or stopped at a museum. The app was easy to download, the instructions from Viator and follow up were excellent as if we had a live guide planning with us."
+ },
+ "T121": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Colleen_L</b> · January 2026"
+ },
+ "T122": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T123": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T124": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Nice!"
+ },
+ "T125": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Very nice to discover Colmar. You walk past most things like that. Now you can walk and listen at the same time. Even my teenagers were interested."
+ },
+ "T126": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Nienke S</b> · August 2025 · Family"
+ },
+ "T127": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T128": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Viator"
+ },
+ "T129": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Great experience"
+ },
+ "T130": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Great experience. We liked the stories and that we can do this tour in our own pace. In the app we had the map, Gps navigation and photos and audio descriptions of the places. I especially like that on this way we don't need to contact guide or somebody. Really very well done."
+ },
+ "T131": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Ewan_T</b> · July 2025"
+ },
+ "T132": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T133": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T134": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Very well narrated"
+ },
+ "T135": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Very well narrated audio guide. Easy to follow. Downloading was seamless. Only issue is we run out of battery fast as the tour is quite long."
+ },
+ "T136": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>kaz</b> · New South Wales, Australia · October 2025 · Couples"
+ },
+ "T137": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T138": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T139": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Did this early morning"
+ },
+ "T140": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Did this early morning before the town got crowded — highly recommend that timing! Peaceful, colorful, and the audio made it even more magical."
+ },
+ "T141": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Hery Nandraina</b> · June 2025 · Family"
+ },
+ "T142": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T143": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Viator"
+ },
+ "T144": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Interesting and informative tour — a great way to see Colmar!"
+ },
+ "T145": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Once downloaded, easy to follow and great history and stories of Colmar. I would plan on more than 90 minutes, especially if you make stops along the way."
+ },
+ "T146": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Amy_B</b> · May 2025"
+ },
+ "T147": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T148": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T149": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Very nice"
+ },
+ "T150": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Very nice tour! Colmar is like a fairy tale book, and the tour brings you closer to history without being boring. Please do more in other cities!"
+ },
+ "T151": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Alan Mowen</b> · June 2025 · Family"
+ },
+ "T152": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T153": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T154": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Highly recommended"
+ },
+ "T155": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Very interesting. Have seen a lot and learned a lot about Colmar and the sights. Highly recommended."
+ },
+ "T156": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Urlaub-Hartis</b> · July 2025"
+ },
+ "T157": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T158": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T159": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "The journey"
+ },
+ "T160": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "The route is charming, especially towards Little Venice. I would have liked a little more funny anecdotes about locals or specialties."
+ },
+ "T161": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Fearle</b> · Warrington, United Kingdom · June 2025 · Family"
+ },
+ "T162": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T163": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T164": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Very nice experience with the audio guide in Colmar"
+ },
+ "T165": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Great content. Very informative. You can stroll nicely. Sharing was a bit tricky, but if you read everything carefully after buying, you can see that you have to share a link."
+ },
+ "T166": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Specht</b> · Nuremberg, Germany · June 2025"
+ },
+ "T167": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T168": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T169": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Very nice, we can stop"
+ },
+ "T170": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Very nice, we can stop for a pie or coffee and resume. I loved not being in a band that hangs out. Do it again!"
+ },
+ "T171": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Ivy Arbella</b> · June 2025 · Family"
+ },
+ "T172": {
+  "ctx": "div.rev > div.top > div.st",
+  "en": "★★★★★"
+ },
+ "T173": {
+  "ctx": "div.rev > div.top > div.src",
+  "en": "Tripadvisor"
+ },
+ "T174": {
+  "ctx": "div.reviews > div.rev > h3",
+  "en": "Have the tour"
+ },
+ "T175": {
+  "ctx": "div.reviews > div.rev > p",
+  "en": "Did the tour on my own and it was really relaxing. You can let yourself drift. GPS was sometimes inaccurate, but not bad."
+ },
+ "T176": {
+  "ctx": "div.reviews > div.rev > p.who",
+  "en": "<b>Tom L</b> · July 2025 · Family"
+ },
+ "T177": {
+  "ctx": "div.wrap > p > a.btn",
+  "en": "Get the audio guide — €9.99"
+ },
+ "T178": {
+  "ctx": "section.soft > div.wrap > h2",
+  "en": "More audio tours by TouringBee"
+ },
+ "T179": {
+  "ctx": "section.soft > div.wrap > p.lede",
+  "en": "Doing more of Alsace, or heading on somewhere else?"
+ },
+ "T180": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Strasbourg"
+ },
+ "T181": {
+  "ctx": "div.card > div.pad > p",
+  "en": "33 stops from the cathedral through Petite France. Thirty minutes up the line."
+ },
+ "T182": {
+  "ctx": "div.pad > p > a.btn",
+  "en": "Strasbourg guide"
+ },
+ "T183": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Paris"
+ },
+ "T184": {
+  "ctx": "div.card > div.pad > p",
+  "en": "The Louvre, the Musée d'Orsay, Montmartre and Père-Lachaise, each as its own walk."
+ },
+ "T185": {
+  "ctx": "div.pad > p > a.btn",
+  "en": "Browse Paris tours"
+ },
+ "T186": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "All tours"
+ },
+ "T187": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Cities across Europe and beyond, same format: offline, self-paced, one payment."
+ },
+ "T188": {
+  "ctx": "div.pad > p > a.btn",
+  "en": "See all tours"
+ },
+ "T189": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Plan your visit"
+ },
+ "T190": {
+  "ctx": "div.pad > h3 > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T191": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Six markets, what's at each one, and how to do them without spending the day in a queue."
+ },
+ "T192": {
+  "ctx": "div.pad > h3 > a",
+  "en": "Colmar walking tour: the 27-stop route"
+ },
+ "T193": {
+  "ctx": "div.card > div.pad > p",
+  "en": "The full route, stop by stop, with the map and roughly how long each leg takes."
+ },
+ "T194": {
+  "ctx": "div.pad > h3 > a",
+  "en": "One day in Colmar"
+ },
+ "T195": {
+  "ctx": "div.card > div.pad > p",
+  "en": "A realistic itinerary built around the Unterlinden being shut on Tuesdays."
+ },
+ "T196": {
+  "ctx": "div.pad > h3 > a",
+  "en": "The Alsace Wine Route from Colmar"
+ },
+ "T197": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Which villages are worth it, in what order, and whether you actually need a car."
+ },
+ "T198": {
+  "ctx": "div.pad > h3 > a",
+  "en": "Best time to visit"
+ },
+ "T199": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Markets, harvest, crowds and the shoulder weeks nobody tells you about."
+ },
+ "T200": {
+  "ctx": "div.pad > h3 > a",
+  "en": "Where to stay"
+ },
+ "T201": {
+  "ctx": "div.card > div.pad > p",
+  "en": "Old town versus the edges, and why December bookings need to happen in September."
+ },
+ "T202": {
+  "ctx": "section.soft > div.wrap > h2",
+  "en": "Frequently asked questions"
+ },
+ "T203": {
+  "ctx": "div.wrap > details > summary",
+  "en": "Is Colmar worth visiting?"
+ },
+ "T204": {
+  "ctx": "div.wrap > details > p",
+  "en": "Yes, with one caveat: it's small. You can see the historic centre properly in half a day, so build the rest of the trip around it — the wine villages, Strasbourg, or a slow afternoon on the canal. As a standalone three-day destination it will run out before you do."
+ },
+ "T205": {
+  "ctx": "div.wrap > details > summary",
+  "en": "How much does it cost to visit Colmar?"
+ },
+ "T206": {
+  "ctx": "div.wrap > details > p",
+  "en": "The old town is free — streets, canals, squares, façades, all of it. You pay for the Musée Unterlinden (€14), the Musée Bartholdi, a boat ride in Little Venice, and food. A full day including one museum and lunch runs roughly €40–60 per person."
+ },
+ "T207": {
+  "ctx": "div.wrap > details > summary",
+  "en": "When are the Colmar Christmas markets in 2026?"
+ },
+ "T208": {
+  "ctx": "div.wrap > details > p",
+  "en": "23 November to 29 December 2026, across six separate markets in the old town. Weekends in December are extremely busy; a weekday morning is a different experience entirely."
+ },
+ "T209": {
+  "ctx": "div.wrap > details > summary",
+  "en": "How do I get to Colmar from Paris?"
+ },
+ "T210": {
+  "ctx": "div.wrap > details > p",
+  "en": "Direct TGV from Paris Gare de l'Est, about 2h20. From Strasbourg it's roughly 30 minutes, from Basel about 45. The station is a ten-minute walk from the old town, so no onward transport is needed."
+ },
+ "T211": {
+  "ctx": "div.wrap > details > summary",
+  "en": "Do I need a car for the Alsace Wine Route?"
+ },
+ "T212": {
+  "ctx": "div.wrap > details > p",
+  "en": "It helps a great deal. Eguisheim, Riquewihr and Kaysersberg are all within 20 minutes of Colmar by road but poorly served by bus. Turckheim is the exception — nine minutes by train. Otherwise, hire a car or take a day tour."
+ },
+ "T213": {
+  "ctx": "div.wrap > details > summary",
+  "en": "Does the audio guide work without internet?"
+ },
+ "T214": {
+  "ctx": "div.wrap > details > p",
+  "en": "Yes. Download it over Wi-Fi before you set out and it runs completely offline — no data, no roaming. The offline GPS map shows where you are; you start each track yourself when you reach the stop."
+ },
+ "T215": {
+  "ctx": "div.wrap > details > summary",
+  "en": "What languages is the Colmar audio guide available in?"
+ },
+ "T216": {
+  "ctx": "div.wrap > details > p",
+  "en": "English, French, German, Italian and Polish. You choose the language when you buy."
+ },
+ "T217": {
+  "ctx": "div.wrap > details > summary",
+  "en": "How long does the audio walk take?"
+ },
+ "T218": {
+  "ctx": "div.wrap > details > p",
+  "en": "About an hour and a half of walking and listening, covering 27 stops. In practice most people take two to three hours because they stop for coffee, photographs, or a boat."
+ },
+ "T219": {
+  "ctx": "section > div.wrap > h2",
+  "en": "About the author"
+ },
+ "T220": {
+  "ctx": "div.author > div > p",
+  "en": "<strong>Eugene</strong> has lived in France for sixteen years, worked as a guide, and visited more than 300 French towns and villages. He founded the paris10.travel content network and writes the TouringBee audio tours. This site is his Colmar notebook, cleaned up."
+ },
+ "T221": {
+  "ctx": "div.author > div > p",
+  "en": "Prices, hours and dates are checked against official sources before publication and re-checked each season. If something here is out of date, <a href=\"mailto:info@touringbee.com\">tell him</a>."
+ },
+ "T222": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T223": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, yours for a year."
+ },
+ "T224": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T225": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T226": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Tiqets, GetYourGuide, Booking.com and SNCF. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T227": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T228": {
+  "ctx": "ul > li > a",
+  "en": "Audio walking tour"
+ },
+ "T229": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T230": {
+  "ctx": "ul > li > a",
+  "en": "Alsace Wine Route"
+ },
+ "T231": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T232": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T233": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T234": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T235": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T236": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T237": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T238": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T239": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T240": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T241": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T242": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T243": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T244": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T245": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T246": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T247": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T248": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T249": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T250": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T251": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T252": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T253": {
+  "ctx": "img alt (/img/hero-colmar-1536.webp)",
+  "en": "Little Venice in Colmar at dusk, painted half-timbered houses reflected in the canal"
+ },
+ "T254": {
+  "ctx": "img alt (/img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T255": {
+  "ctx": "img alt (/img/tile-little-venice.webp)",
+  "en": "Colourful houses along the canal in La Petite Venise, Colmar"
+ },
+ "T256": {
+  "ctx": "img alt (/img/tile-old-town.webp)",
+  "en": "Half-timbered houses on a busy street in Colmar's old town"
+ },
+ "T257": {
+  "ctx": "img alt (/img/tile-christmas-market.webp)",
+  "en": "Colmar Christmas market at night with illuminated chalets and a decorated tree"
+ },
+ "T258": {
+  "ctx": "img alt (/img/tile-covered-market-night.webp)",
+  "en": "Colmar's covered market building illuminated at night"
+ },
+ "T259": {
+  "ctx": "img alt (/img/tile-canal-day.webp)",
+  "en": "The tanners' quarter in Colmar, wooden-balconied houses along the canal under a blue sky"
+ },
+ "T260": {
+  "ctx": "img alt (/img/tile-winter-street.webp)",
+  "en": "Rue des Marchands in Colmar at dusk, lit shopfronts and Christmas decorations"
+ },
+ "T261": {
+  "ctx": "img alt (/img/tile-rooftops-600.webp)",
+  "en": "View over Colmar rooftops"
+ },
+ "T262": {
+  "ctx": "img alt (/img/tile-canal-day-600.webp)",
+  "en": "Colmar canal with flowers"
+ },
+ "T263": {
+  "ctx": "img alt (/img/tile-old-town-600.webp)",
+  "en": "Colmar old town street"
+ },
+ "T264": {
+  "ctx": "img alt (/img/author-eugene.webp)",
+  "en": "Eugene, author of the ColmarTour guide"
+ },
+ "T265": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Visiting Colmar: The Complete Guide | TouringBee"
+ },
+ "T266": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Colmar in one guide: the painted old town, Little Venice, Unterlinden and the Christmas markets — with prices, hours and a self-paced 27-stop audio walk."
+ },
+ "T267": {
+  "ctx": "og:title",
+  "en": "Visiting Colmar: The Complete Guide"
+ },
+ "T268": {
+  "ctx": "og:description",
+  "en": "The painted old town, Little Venice, Unterlinden and the Christmas markets — with a self-paced 27-stop audio walk."
+ },
+ "S01": {
+  "ctx": "schema Person.description",
+  "en": "Sixteen years in France, 300+ French towns and villages, author of the TouringBee audio tours."
+ },
+ "S02": {
+  "ctx": "schema TouristAttraction.description",
+  "en": "A preserved Alsatian old town of painted half-timbered houses, canals and market squares, known for La Petite Venise and its Christmas markets."
+ },
+ "S03": {
+  "ctx": "schema Product.name",
+  "en": "Colmar Old Town Walking Tour — TouringBee Audio Guide"
+ },
+ "S04": {
+  "ctx": "schema Product.description",
+  "en": "A self-guided audio walking tour of Colmar's old town: 27 stops, about 1.5 hours, fully offline, in English, French, German, Italian and Polish."
+ },
+ "S05": {
+  "ctx": "schema FAQ question",
+  "en": "Is Colmar worth visiting?"
+ },
+ "S06": {
+  "ctx": "schema FAQ answer",
+  "en": "Yes, with one caveat: it's small. You can see the historic centre properly in half a day, so build the rest of the trip around it — the wine villages, Strasbourg, or a slow afternoon on the canal."
+ },
+ "S07": {
+  "ctx": "schema FAQ question",
+  "en": "How much does it cost to visit Colmar?"
+ },
+ "S08": {
+  "ctx": "schema FAQ answer",
+  "en": "The old town is free. You pay for the Musée Unterlinden (€14), the Musée Bartholdi, a boat ride in Little Venice, and food. A full day including one museum and lunch runs roughly €40–60 per person."
+ },
+ "S09": {
+  "ctx": "schema FAQ question",
+  "en": "When are the Colmar Christmas markets in 2026?"
+ },
+ "S10": {
+  "ctx": "schema FAQ answer",
+  "en": "23 November to 29 December 2026, across six separate markets in the old town."
+ },
+ "S11": {
+  "ctx": "schema FAQ question",
+  "en": "How do I get to Colmar from Paris?"
+ },
+ "S12": {
+  "ctx": "schema FAQ answer",
+  "en": "Direct TGV from Paris Gare de l'Est, about 2h20. From Strasbourg it's roughly 30 minutes, from Basel about 45. The station is a ten-minute walk from the old town."
+ },
+ "S13": {
+  "ctx": "schema FAQ question",
+  "en": "Do I need a car for the Alsace Wine Route?"
+ },
+ "S14": {
+  "ctx": "schema FAQ answer",
+  "en": "It helps a great deal. Eguisheim, Riquewihr and Kaysersberg are within 20 minutes by road but poorly served by bus. Turckheim is the exception — nine minutes by train."
+ },
+ "S15": {
+  "ctx": "schema FAQ question",
+  "en": "Does the audio guide work without internet?"
+ },
+ "S16": {
+  "ctx": "schema FAQ answer",
+  "en": "Yes. Download it over Wi-Fi before you set out and it runs completely offline. The offline GPS map shows where you are; you start each track yourself when you reach the stop."
+ },
+ "S17": {
+  "ctx": "schema FAQ question",
+  "en": "What languages is the Colmar audio guide available in?"
+ },
+ "S18": {
+  "ctx": "schema FAQ answer",
+  "en": "English, French, German, Italian and Polish. You choose the language when you buy."
+ },
+ "S19": {
+  "ctx": "schema FAQ question",
+  "en": "How long does the audio walk take?"
+ },
+ "S20": {
+  "ctx": "schema FAQ answer",
+  "en": "About an hour and a half of walking and listening across 27 stops. Most people take two to three hours with stops."
+ }
+}
