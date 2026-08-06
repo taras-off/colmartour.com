@@ -1,0 +1,31 @@
+# ColmarTour — Colmar Travel Guide
+
+> An independent, fact-checked guide to visiting Colmar in Alsace, France: the painted
+> old town, La Petite Venise, the Musée Unterlinden and the Christmas markets. Written
+> by Eugene, a former guide who has lived in France for sixteen years. Published by
+> Touringbee Limited (Ireland, reg. 660321), maker of the TouringBee self-guided audio tours.
+
+## Key facts
+- Colmar old town: free to walk. Compact enough to see in half a day.
+- Musée Unterlinden (Isenheim Altarpiece): EUR 14, Wed-Mon 09:00-18:00, closed Tuesdays.
+- Musée Bartholdi (birthplace of the Statue of Liberty's sculptor): Tue-Sun 10:00-12:00 and 14:00-18:00, closed Mondays.
+- Christmas markets 2026: 23 November - 29 December, six separate markets.
+- Rail: Paris Gare de l'Est ~2h20 (TGV) · Strasbourg ~30 min · Basel ~45 min.
+- TouringBee Colmar audio guide: 27 stops, ~1.5 hours, offline, EUR 9.99, in English, French, German, Italian and Polish.
+
+## Guides
+- [Visiting Colmar: the complete guide](https://colmartour.com/): the pillar guide to the town.
+- [Colmar Christmas markets](https://colmartour.com/colmar-christmas-market/): all six markets, what is at each.
+- [Christmas market 2026 dates and hours](https://colmartour.com/colmar-christmas-market-dates/): confirmed dates.
+- [Colmar walking tour](https://colmartour.com/colmar-walking-tour/): the self-guided 27-stop route.
+- [La Petite Venise](https://colmartour.com/petite-venise-colmar/): the canal quarter and the boat ride.
+- [How to get to Colmar](https://colmartour.com/how-to-get-to-colmar/): train from Paris, Strasbourg and Basel.
+- [The Alsace Wine Route](https://colmartour.com/alsace-wine-route/): the villages, in order, with and without a car.
+- [All guides](https://colmartour.com/guides/)
+
+## Languages
+Every page exists in English, French, German, Spanish, Italian, Portuguese, Polish and Russian
+at https://colmartour.com/<lang>/<slug>/ (English at the root).
+
+## Contact
+info@touringbee.com
