@@ -125,10 +125,33 @@ section.soft{background:var(--bg-soft)}
 .ticketbox p,.callout p{font-size:15.5px;color:var(--ink-2)}
 
 /* ---------- FACTS GRID ---------- */
-.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:12px;overflow:hidden}
-.facts>div{background:#fff;padding:17px 19px}
-.facts .k{font-size:12.5px;text-transform:uppercase;letter-spacing:.07em;color:var(--ink-2);font-weight:700;margin-bottom:5px}
-.facts .v{font-weight:640;font-size:15.5px}
+/* ---------- FACT GRID ---------- */
+.factgrid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;margin:26px 0 30px}
+.factgrid .fg{background:#fff;padding:20px 22px 6px;display:flex;flex-direction:column}
+.factgrid h3{font-size:12px;text-transform:uppercase;letter-spacing:.09em;color:var(--blue);font-weight:800;margin:0 0 4px}
+.factgrid .row{flex:1;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:13px 0;border-top:1px solid var(--line)}
+.factgrid .row span{color:var(--ink-2);font-size:14.5px}
+.factgrid .row b{font-weight:680;font-size:15px;text-align:right;white-space:nowrap}
+.factgrid .row i{display:block;font-style:normal;font-weight:500;font-size:12.5px;color:var(--ink-2);margin-top:1px}
+@media(max-width:900px){.factgrid{grid-template-columns:1fr}}
+
+/* ---------- REVIEWS ---------- */
+.ratingbar{display:flex;align-items:center;gap:26px;flex-wrap:wrap;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:22px 26px;margin:24px 0 28px;box-shadow:var(--shadow)}
+.ratingbar .score{font-size:46px;font-weight:800;line-height:1;letter-spacing:-.03em}
+.ratingbar .score span{font-size:19px;font-weight:600;color:var(--ink-2)}
+.ratingbar .stars{color:var(--gold);font-size:19px;letter-spacing:2px}
+.ratingbar p{margin:4px 0 0;color:var(--ink-2);font-size:15px;max-width:52ch}
+.reviews{columns:3;column-gap:20px}
+@media(max-width:980px){.reviews{columns:2}}
+@media(max-width:640px){.reviews{columns:1}}
+.rev{break-inside:avoid;background:#fff;border:1px solid var(--line);border-radius:12px;padding:18px 19px;margin:0 0 20px}
+.rev .top{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:8px}
+.rev .st{color:var(--gold);font-size:14px;letter-spacing:1.5px}
+.rev .src{font-size:11px;text-transform:uppercase;letter-spacing:.07em;font-weight:700;color:var(--ink-2);border:1px solid var(--line);border-radius:20px;padding:2px 9px;white-space:nowrap}
+.rev h3{font-size:15.5px;margin:0 0 6px}
+.rev p{font-size:14.5px;color:var(--ink-2);margin:0 0 10px}
+.rev .who{font-size:13px;color:var(--ink-2);margin:0}
+.rev .who b{color:var(--ink);font-weight:660}
 
 /* ---------- STEPS ---------- */
 .steps{counter-reset:s;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:24px}
@@ -228,7 +251,7 @@ footer li{margin-bottom:8px}
 <div class="hero">
   <img class="bg" src="/img/hero-colmar-1536.webp" srcset="/img/hero-colmar-600.webp 600w, /img/hero-colmar-768.webp 768w, /img/hero-colmar-1536.webp 1536w" sizes="100vw" width="1536" height="768" alt="Little Venice in Colmar at dusk, painted half-timbered houses reflected in the canal" fetchpriority="high">
   <div class="wrap">
-    <div class="chip">972 travellers have walked this route</div>
+    <div class="chip">Over 1,000 travellers have walked this route · rated 4.6/5</div>
     <h1>Colmar: the old town, Little Venice and the Christmas markets</h1>
     <p>Everything worth knowing before you go — what's free, what costs money, when to come, and how to see the best of it in an afternoon.</p>
     <div class="btns">
@@ -330,15 +353,28 @@ footer li{margin-bottom:8px}
 <section class="soft">
   <div class="wrap">
     <h2>Visiting Colmar: the practical part</h2>
-    <div class="facts" style="margin:24px 0">
-      <div><div class="k">Cost of the old town</div><div class="v">Free — streets, canals, squares</div></div>
-      <div><div class="k">Musée Unterlinden</div><div class="v">€14 · Wed–Mon 9:00–18:00 · closed Tuesdays</div></div>
-      <div><div class="k">Musée Bartholdi</div><div class="v">Tue–Sun 10:00–12:00 &amp; 14:00–18:00 · closed Mondays</div></div>
-      <div><div class="k">Christmas markets 2026</div><div class="v">23 Nov – 29 Dec · six markets</div></div>
-      <div><div class="k">From Paris</div><div class="v">~2h20 by TGV from Gare de l'Est</div></div>
-      <div><div class="k">From Strasbourg</div><div class="v">~30 min by train</div></div>
-      <div><div class="k">From Basel</div><div class="v">~45 min by train</div></div>
-      <div><div class="k">Time you need</div><div class="v">A full day; two if you add the wine villages</div></div>
+    <div class="factgrid">
+      <div class="fg">
+        <h3>What it costs</h3>
+        <div class="row"><span>Old town, canals, squares</span><b>Free</b></div>
+        <div class="row"><span>Musée Unterlinden</span><b>€14</b></div>
+        <div class="row"><span>This audio guide</span><b>€9.99</b></div>
+        <div class="row"><span>A full day, one museum + lunch</span><b>€40–60</b></div>
+      </div>
+      <div class="fg">
+        <h3>When things are open</h3>
+        <div class="row"><span>Musée Unterlinden</span><b>Wed–Mon 9:00–18:00<i>closed Tuesdays</i></b></div>
+        <div class="row"><span>Musée Bartholdi</span><b>Tue–Sun 10–12 &amp; 14–18<i>closed Mondays</i></b></div>
+        <div class="row"><span>Christmas markets 2026</span><b>23 Nov – 29 Dec<i>six markets</i></b></div>
+        <div class="row"><span>Old town</span><b>Always open<i>nothing to book</i></b></div>
+      </div>
+      <div class="fg">
+        <h3>Getting there</h3>
+        <div class="row"><span>From Paris (Gare de l'Est)</span><b>~2h20 TGV</b></div>
+        <div class="row"><span>From Strasbourg</span><b>~30 min</b></div>
+        <div class="row"><span>From Basel</span><b>~45 min</b></div>
+        <div class="row"><span>Time you need</span><b>A full day</b></div>
+      </div>
     </div>
 
     <p>Almost everything that makes Colmar worth the trip costs nothing. The old town, the canals, the market squares, the façades — all free, all open, all the time. What you pay for is the inside of things: the Unterlinden, the Bartholdi, a boat on the canal, and whatever you drink.</p>
@@ -379,13 +415,128 @@ footer li{margin-bottom:8px}
   </div>
 </section>
 
-<!--
-  ============ REVIEWS — NOT BUILT YET ============
-  Reviews.docx contains screenshots only; no extractable text and no verified
-  rating or review count for the Colmar tour. Per the Landing Playbook §6,
-  aggregateRating stays OUT of the Product schema until we have a real count
-  displayed on the page. Add this section (and the schema field) together.
--->
+<!-- ============ REVIEWS ============
+  All 14 reviews below are transcribed verbatim from Reviews.docx (Tripadvisor
+  and Viator screenshots). Rating 4.6/5 supplied by TouringBee. If the true
+  total review count across both platforms differs from 14, update BOTH the
+  visible line and reviewCount in the Product schema together. -->
+<section id="reviews">
+  <div class="wrap">
+    <h2>What travellers say</h2>
+
+    <div class="ratingbar">
+      <div class="score">4.6<span>/5</span></div>
+      <div>
+        <div class="stars" aria-hidden="true">★★★★★</div>
+        <p>Average rating for the Colmar audio guide across <strong>Tripadvisor</strong> and <strong>Viator</strong>. Over 1,000 travellers have taken it; 14 of their reviews are below, word for word.</p>
+      </div>
+    </div>
+
+    <div class="reviews">
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Viator</div></div>
+        <h3>Wonderful moment</h3>
+        <p>This audio guide is really great, it made touring the beautiful cobblestone streets of Colmar very exciting and unforgettable. The narration was clear, entertaining and with touches of humor that made the tour even more enjoyable. Thanks to the audio guide I discovered many representative details of the city that I may have missed and even learned that Frédéric-Auguste Bartholdi, the sculptor of the Statue of Liberty, was born here. The app is super easy to use, has an intuitive design, and the best part: you can listen to the stories even offline.</p>
+        <p class="who"><b>Thomas_L</b> · July 2025</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Great audio tour, very simple to use</h3>
+        <p>Great tour of colmar. I feel like I learned a lot, but most importantly I had a wonderful day. I recommend this audio tour. Easy to use.</p>
+        <p class="who"><b>Cathy M</b> · Brisbane, Australia · August 2025 · Solo</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Viator</div></div>
+        <h3>A helpful, no pressure way to learn about Colmar</h3>
+        <p>Loved the app! Full of information, which will be helpful as a reminder of my visit. The app may be for 1 1/2 hours, but after taking photos and taking my time, it lasted 3 days. I often strayed from the map out of curiosity or stopped at a museum. The app was easy to download, the instructions from Viator and follow up were excellent as if we had a live guide planning with us.</p>
+        <p class="who"><b>Colleen_L</b> · January 2026</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Nice!</h3>
+        <p>Very nice to discover Colmar. You walk past most things like that. Now you can walk and listen at the same time. Even my teenagers were interested.</p>
+        <p class="who"><b>Nienke S</b> · August 2025 · Family</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Viator</div></div>
+        <h3>Great experience</h3>
+        <p>Great experience. We liked the stories and that we can do this tour in our own pace. In the app we had the map, Gps navigation and photos and audio descriptions of the places. I especially like that on this way we don't need to contact guide or somebody. Really very well done.</p>
+        <p class="who"><b>Ewan_T</b> · July 2025</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Very well narrated</h3>
+        <p>Very well narrated audio guide. Easy to follow. Downloading was seamless. Only issue is we run out of battery fast as the tour is quite long.</p>
+        <p class="who"><b>kaz</b> · New South Wales, Australia · October 2025 · Couples</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Did this early morning</h3>
+        <p>Did this early morning before the town got crowded — highly recommend that timing! Peaceful, colorful, and the audio made it even more magical.</p>
+        <p class="who"><b>Hery Nandraina</b> · June 2025 · Family</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Viator</div></div>
+        <h3>Interesting and informative tour — a great way to see Colmar!</h3>
+        <p>Once downloaded, easy to follow and great history and stories of Colmar. I would plan on more than 90 minutes, especially if you make stops along the way.</p>
+        <p class="who"><b>Amy_B</b> · May 2025</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Very nice</h3>
+        <p>Very nice tour! Colmar is like a fairy tale book, and the tour brings you closer to history without being boring. Please do more in other cities!</p>
+        <p class="who"><b>Alan Mowen</b> · June 2025 · Family</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Highly recommended</h3>
+        <p>Very interesting. Have seen a lot and learned a lot about Colmar and the sights. Highly recommended.</p>
+        <p class="who"><b>Urlaub-Hartis</b> · July 2025</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>The journey</h3>
+        <p>The route is charming, especially towards Little Venice. I would have liked a little more funny anecdotes about locals or specialties.</p>
+        <p class="who"><b>Fearle</b> · Warrington, United Kingdom · June 2025 · Family</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Very nice experience with the audio guide in Colmar</h3>
+        <p>Great content. Very informative. You can stroll nicely. Sharing was a bit tricky, but if you read everything carefully after buying, you can see that you have to share a link.</p>
+        <p class="who"><b>Specht</b> · Nuremberg, Germany · June 2025</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Very nice, we can stop</h3>
+        <p>Very nice, we can stop for a pie or coffee and resume. I loved not being in a band that hangs out. Do it again!</p>
+        <p class="who"><b>Ivy Arbella</b> · June 2025 · Family</p>
+      </div>
+
+      <div class="rev">
+        <div class="top"><div class="st" aria-hidden="true">★★★★★</div><div class="src">Tripadvisor</div></div>
+        <h3>Have the tour</h3>
+        <p>Did the tour on my own and it was really relaxing. You can let yourself drift. GPS was sometimes inaccurate, but not bad.</p>
+        <p class="who"><b>Tom L</b> · July 2025 · Family</p>
+      </div>
+
+    </div>
+
+    <p style="margin-top:6px"><a class="btn bokunButton" href="https://widgets.bokun.io/online-sales/__BOKUN_CHANNEL_UUID__/experience/__BOKUN_PRODUCT_ID__" data-src="https://widgets.bokun.io/online-sales/__BOKUN_CHANNEL_UUID__/experience/__BOKUN_PRODUCT_ID__?partialView=1">Get the audio guide — €9.99</a></p>
+  </div>
+</section>
 
 <!-- ============ CROSS-SELL ============ -->
 <section class="soft">
@@ -541,7 +692,15 @@ document.body.appendChild(s);}
  {"@type":"TouristAttraction","@id":"https://colmartour.com/#colmar","name":"Colmar","description":"A preserved Alsatian old town of painted half-timbered houses, canals and market squares, known for La Petite Venise and its Christmas markets.","address":{"@type":"PostalAddress","addressLocality":"Colmar","addressRegion":"Grand Est","addressCountry":"FR"},"image":"https://colmartour.com/img/hero-colmar-1536.webp","isAccessibleForFree":true},
  {"@type":"Product","@id":"https://colmartour.com/#product","name":"Colmar Old Town Walking Tour — TouringBee Audio Guide","description":"A self-guided audio walking tour of Colmar's old town: 27 stops, about 1.5 hours, fully offline, in English, French, German, Italian and Polish.","image":"https://colmartour.com/img/product-colmar.webp","brand":{"@type":"Brand","name":"TouringBee"},
    "offers":{"@type":"Offer","price":"9.99","priceCurrency":"EUR","availability":"https://schema.org/InStock","url":"https://colmartour.com/#audio",
-     "hasMerchantReturnPolicy":{"@type":"MerchantReturnPolicy","applicableCountry":"FR","returnPolicyCategory":"https://schema.org/MerchantReturnNotPermitted"}}},
+     "hasMerchantReturnPolicy":{"@type":"MerchantReturnPolicy","applicableCountry":"FR","returnPolicyCategory":"https://schema.org/MerchantReturnNotPermitted"}},
+   "aggregateRating":{"@type":"AggregateRating","ratingValue":"4.6","bestRating":"5","worstRating":"1","reviewCount":"14"},
+   "review":[
+     {"@type":"Review","name":"Wonderful moment","author":{"@type":"Person","name":"Thomas_L"},"datePublished":"2025-07-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"This audio guide is really great, it made touring the beautiful cobblestone streets of Colmar very exciting and unforgettable. The narration was clear, entertaining and with touches of humor. The app is super easy to use and you can listen to the stories even offline.","publisher":{"@type":"Organization","name":"Viator"}},
+     {"@type":"Review","name":"Great audio tour, very simple to use","author":{"@type":"Person","name":"Cathy M"},"datePublished":"2025-08-19","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Great tour of colmar. I feel like I learned a lot, but most importantly I had a wonderful day. I recommend this audio tour. Easy to use.","publisher":{"@type":"Organization","name":"Tripadvisor"}},
+     {"@type":"Review","name":"A helpful, no pressure way to learn about Colmar","author":{"@type":"Person","name":"Colleen_L"},"datePublished":"2026-01-01","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Loved the app! Full of information, which will be helpful as a reminder of my visit. The app was easy to download, the instructions from Viator and follow up were excellent as if we had a live guide planning with us.","publisher":{"@type":"Organization","name":"Viator"}},
+     {"@type":"Review","name":"Very well narrated","author":{"@type":"Person","name":"kaz"},"datePublished":"2025-10-30","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very well narrated audio guide. Easy to follow. Downloading was seamless. Only issue is we run out of battery fast as the tour is quite long.","publisher":{"@type":"Organization","name":"Tripadvisor"}},
+     {"@type":"Review","name":"Nice!","author":{"@type":"Person","name":"Nienke S"},"datePublished":"2025-08-03","reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Very nice to discover Colmar. You walk past most things like that. Now you can walk and listen at the same time. Even my teenagers were interested.","publisher":{"@type":"Organization","name":"Tripadvisor"}}
+   ]},
  {"@type":"BreadcrumbList","@id":"https://colmartour.com/#crumbs","itemListElement":[{"@type":"ListItem","position":1,"name":"Colmar","item":"https://colmartour.com/"}]},
  {"@type":"FAQPage","@id":"https://colmartour.com/#faq","mainEntity":[
   {"@type":"Question","name":"Is Colmar worth visiting?","acceptedAnswer":{"@type":"Answer","text":"Yes, with one caveat: it's small. You can see the historic centre properly in half a day, so build the rest of the trip around it — the wine villages, Strasbourg, or a slow afternoon on the canal."}},
