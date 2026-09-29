@@ -1,0 +1,542 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T005": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T006": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "Colmar and Strasbourg are only half an hour apart by train, but they offer two very different Christmases. Colmar packs six markets into a compact old town, while Strasbourg spreads its celebrations across a much larger historic center. The choice is less about distance than about scale, atmosphere and how you want to spend the day."
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p",
+  "en": "Both cities have a TouringBee audio guide: 27 stops through old Colmar and 33 through Strasbourg, from the station area to the cathedral. You walk either one without a group, at your own pace. For everything about Colmar before you go, see our <a href=\"/\">complete guide to the city</a>; for the markets themselves, our guide to the <a href=\"/colmar-christmas-market/\">Colmar Christmas market</a>."
+ },
+ "T008": {
+  "ctx": "div.wrap > figure > figcaption",
+  "en": "Colmar after dark in December: six markets inside one compact old town."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Colmar or Strasbourg Christmas market at a glance"
+ },
+ "T010": {
+  "ctx": "thead > tr > th",
+  "en": "Colmar"
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "Strasbourg"
+ },
+ "T012": {
+  "ctx": "tbody > tr > th",
+  "en": "Markets"
+ },
+ "T013": {
+  "ctx": "tbody > tr > td",
+  "en": "Six, all inside the old town"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "Spread over squares across the historic center"
+ },
+ "T015": {
+  "ctx": "tbody > tr > th",
+  "en": "Layout"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Compact: the old town is easy to cover on foot"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "A big city center, with the markets set around the cathedral island"
+ },
+ "T018": {
+  "ctx": "tbody > tr > th",
+  "en": "The main sight"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "The old-town lighting: more than a thousand light points"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "The Great Christmas Tree on Place Kléber"
+ },
+ "T021": {
+  "ctx": "tbody > tr > th",
+  "en": "Best for"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "A small, lit-up old town and the villages around it"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "Big-city scale and a long evening out"
+ },
+ "T024": {
+  "ctx": "tbody > tr > th",
+  "en": "Villages nearby"
+ },
+ "T025": {
+  "ctx": "tbody > tr > td",
+  "en": "Christmas shuttles from Colmar station"
+ },
+ "T026": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T027": {
+  "ctx": "tbody > tr > th",
+  "en": "Between the two"
+ },
+ "T028": {
+  "ctx": "tbody > tr > td",
+  "en": "A train roughly every half hour, about 30 minutes"
+ },
+ "T029": {
+  "ctx": "section > div.wrap > h2",
+  "en": "A small city and a big one"
+ },
+ "T030": {
+  "ctx": "section > div.wrap > p",
+  "en": "You can see the difference on a map. Colmar's six markets sit inside the old town; Strasbourg's spread across the whole historic center."
+ },
+ "T031": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Colmar"
+ },
+ "T032": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Six markets</strong> stand in an old town that is mostly pedestrian. Place de l'Ancienne Douane alone has about fifty chalets around the Schwendi fountain."
+ },
+ "T033": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>The lights.</strong> Colmar's Christmas signature is its lighting: more than a thousand computer-controlled light points, plus the star-shaped street decorations the town treats as its own. There is also something unusual for children: on certain evenings they sing Christmas songs from boats on the canals."
+ },
+ "T034": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Strasbourg"
+ },
+ "T035": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>The markets</strong> are spread across the historic center. The best known is the historic Christkindelsmärik on Place Broglie; others stand at the foot of the Great Christmas Tree on Place Kléber, around the cathedral and in Petite France."
+ },
+ "T036": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>The Great Christmas Tree</strong> stands on Place Kléber, with the Village du Partage at its foot, where charities have their stands."
+ },
+ "T037": {
+  "ctx": "section > div.wrap > blockquote",
+  "en": "<strong>What each city is proud of.</strong> Strasbourg is proud of its age. After the Reformation, Protestant Strasbourg dropped its Saint Nicholas fair, and in 1570 the Christkindelsmärik, the market of the Christ Child, took its place. Later it moved to Place Broglie, where it still stands. Colmar is proud of its light. The old-town lighting was first created for Christmas, and people liked it so much that it now runs all year on Friday and Saturday nights. Colmar was the first town in France to light its heritage on this scale, and in 1997 the Académie des Arts de la Rue gave it a special prize for it."
+ },
+ "T038": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Christmas 2026 in Colmar: dates and hours"
+ },
+ "T039": {
+  "ctx": "table > tr > th",
+  "en": "Markets"
+ },
+ "T040": {
+  "ctx": "table > tr > td",
+  "en": "November 23 – December 29"
+ },
+ "T041": {
+  "ctx": "table > tr > th",
+  "en": "Monday–Thursday"
+ },
+ "T042": {
+  "ctx": "table > tr > td",
+  "en": "11:00–19:00"
+ },
+ "T043": {
+  "ctx": "table > tr > th",
+  "en": "Friday–Sunday"
+ },
+ "T044": {
+  "ctx": "table > tr > td",
+  "en": "10:00–20:00"
+ },
+ "T045": {
+  "ctx": "table > tr > th",
+  "en": "December 24"
+ },
+ "T046": {
+  "ctx": "table > tr > td",
+  "en": "11:00–17:00"
+ },
+ "T047": {
+  "ctx": "table > tr > th",
+  "en": "December 25 and 26"
+ },
+ "T048": {
+  "ctx": "table > tr > td",
+  "en": "10:00–20:00"
+ },
+ "T049": {
+  "ctx": "table > tr > th",
+  "en": "Gourmet market and Ferris wheel"
+ },
+ "T050": {
+  "ctx": "table > tr > td",
+  "en": "Until January 3, daily 11:00–22:00; December 31 until 17:00"
+ },
+ "T051": {
+  "ctx": "section > div.wrap > p.note",
+  "en": "This is the general market schedule; individual squares may keep slightly different hours."
+ },
+ "T052": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Between Christmas and New Year.</strong> Colmar's markets are open on Christmas Day, on December 26 and until the 29th, and the gourmet market and Ferris wheel carry on to January 3. In the villages nearby, Eguisheim, Turckheim and Munster reopen after their Christmas breaks. If those days are your dates, that alone can settle the choice."
+ },
+ "T053": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>For Strasbourg</strong>, check the dates and hours for your year on the official Strasbourg Capitale de Noël website, noel.strasbourg.eu."
+ },
+ "T054": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Both cities in one trip"
+ },
+ "T055": {
+  "ctx": "section > div.wrap > p",
+  "en": "Combining them is easy: regional TER trains run between the two roughly every half hour, the ride takes about 30 minutes, and tickets start at €6. The real question is where to sleep."
+ },
+ "T056": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Staying in Colmar</strong> makes sense if the villages are part of the plan, because the Christmas shuttles leave from Colmar station. Go to Strasbourg by day and spend the evening in whichever city you like: according to the official site, Strasbourg's chalets stay open until 21:00, while Colmar's markets usually close at 19:00 or 20:00."
+ },
+ "T057": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Staying in Strasbourg</strong> makes sense if the big city is the point. The station is a ten-minute walk from the first market chalets, so a day in Colmar starts right on the platform. If you want to catch Colmar's lights in the evening, check the last train back before you go."
+ },
+ "T058": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>By car.</strong> You can't drive into central Strasbourg during the market: traffic on the Grande Île is closed. The city runs Park & Ride lots instead: €4.20 a day, which covers parking plus public transport for a group of up to seven."
+ },
+ "T059": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>If you pick Strasbourg and want fewer people</strong>, the official site suggests Monday, Tuesday or mornings."
+ },
+ "T060": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The TouringBee audio guides"
+ },
+ "T061": {
+  "ctx": "section > div.wrap > p",
+  "en": "The markets run into the evening, which leaves the day for the city itself. In both cities you can take the TouringBee audio guides on your own, with no group and no set start time: begin when it suits you, and stop whenever you want a vin chaud."
+ },
+ "T062": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Colmar"
+ },
+ "T063": {
+  "ctx": "div.card > div.pad > p.meta",
+  "en": "27 stops · about 1.5 hours · €9.99"
+ },
+ "T064": {
+  "ctx": "div.card > div.pad > p",
+  "en": "A walk through the old town and its main sights."
+ },
+ "T065": {
+  "ctx": "div.card > div.pad > a.btn",
+  "en": "Colmar audio guide"
+ },
+ "T066": {
+  "ctx": "div.card > div.pad > h3",
+  "en": "Strasbourg"
+ },
+ "T067": {
+  "ctx": "div.card > div.pad > p.meta",
+  "en": "33 stops · about 2.5 hours · €9.99"
+ },
+ "T068": {
+  "ctx": "div.card > div.pad > p",
+  "en": "A route from the station area through the historic center to the cathedral."
+ },
+ "T069": {
+  "ctx": "div.card > div.pad > a.btn",
+  "en": "Strasbourg audio guide"
+ },
+ "T070": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Which city suits whom"
+ },
+ "T071": {
+  "ctx": "section > div.wrap > p",
+  "en": "Which of the two will suit you better:"
+ },
+ "T072": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Traveling between Christmas and New Year:</strong> Colmar. Its markets are open on December 25 and 26 and until the 29th, and the gourmet market and Ferris wheel run to January 3."
+ },
+ "T073": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Want the villages:</strong> Colmar. The shuttles to the village Christmas markets leave from its station."
+ },
+ "T074": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Want a big city:</strong> Strasbourg. Markets across the whole center, the cathedral and the Great Christmas Tree."
+ },
+ "T075": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Traveling with children:</strong> Colmar is easier on small legs: everything is close together, children sing from boats on the canals on certain evenings, and there is the Ferris wheel."
+ },
+ "T076": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Frequently asked questions"
+ },
+ "T077": {
+  "ctx": "div.faq > details > summary",
+  "en": "How is Christmas in Colmar different from Strasbourg?"
+ },
+ "T078": {
+  "ctx": "div.faq > details > p",
+  "en": "Colmar is small: six markets inside a compact, brightly lit old town, with village markets a shuttle ride away. Strasbourg is a big city whose markets spread across the historic center, around the cathedral and the Great Christmas Tree."
+ },
+ "T079": {
+  "ctx": "div.faq > details > summary",
+  "en": "Are Colmar's Christmas markets open on December 25?"
+ },
+ "T080": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes. In 2026 they are open on December 25 and 26, 10:00–20:00."
+ },
+ "T081": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is it worth visiting Colmar and Strasbourg on one trip?"
+ },
+ "T082": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes. The two feel very different, and the train between them takes about half an hour, so combining them costs little time."
+ },
+ "T083": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can you see both cities in one day?"
+ },
+ "T084": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes. The TER train between them takes about half an hour and runs roughly every half hour, so visiting both in one day is technically possible."
+ },
+ "T085": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where should I stay if I also want to see the villages?"
+ },
+ "T086": {
+  "ctx": "div.faq > details > p",
+  "en": "In Colmar: the Christmas shuttles to the villages leave from its station."
+ },
+ "T087": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T088": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> — the six markets in town, square by square."
+ },
+ "T089": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">The complete guide to Colmar</a> — everything about the city before you go."
+ },
+ "T090": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/guides/\">All guides</a> — everything published so far."
+ },
+ "T091": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you choose"
+ },
+ "T092": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar is the smaller, softer-lit choice with the villages on its doorstep; Strasbourg is the big-city version of an Alsace Christmas. With half an hour of train between them, you don't have to pick just one."
+ },
+ "T093": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T094": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T095": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T096": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T097": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com and SNCF. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guides are our own products. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T098": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T099": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T100": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T101": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T102": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T103": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T104": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T105": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T106": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T107": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T108": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T109": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T110": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T111": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T112": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T113": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T114": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T115": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T116": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T117": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T118": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T119": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T120": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T121": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T122": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Colmar or Strasbourg"
+ },
+ "T123": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Colmar or Strasbourg for Christmas: how to choose"
+ },
+ "T124": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "Two Christmas cities half an hour apart by train. The choice comes down to scale, atmosphere, where you sleep and how you want to spend the evenings."
+ },
+ "T125": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated September 2026"
+ },
+ "T126": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T127": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Train tickets"
+ },
+ "T128": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Hotels in Colmar"
+ },
+ "T129": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T130": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T131": {
+  "ctx": "img alt (../img/tile-christmas-market.webp)",
+  "en": "Colmar Christmas market at night, illuminated wooden chalets and a decorated tree"
+ },
+ "T132": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Colmar or Strasbourg for Christmas? | TouringBee"
+ },
+ "T133": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Colmar or Strasbourg for Christmas? Compare markets, atmosphere, size, transport and nearby villages, plus how to visit both by train."
+ },
+ "T134": {
+  "ctx": "og:title",
+  "en": "Colmar or Strasbourg for Christmas?"
+ },
+ "T135": {
+  "ctx": "og:description",
+  "en": "Two Alsace Christmas cities half an hour apart by train, and two very different experiences. How the markets, the scale and the evenings compare."
+ }
+}
