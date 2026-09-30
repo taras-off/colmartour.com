@@ -10,6 +10,8 @@ ORDER = ['en', 'fr', 'de', 'es', 'it', 'pt', 'pl', 'ru']
 LOC = {'en': 'en_US', 'fr': 'fr_FR', 'de': 'de_DE', 'es': 'es_ES', 'it': 'it_IT', 'pt': 'pt_PT', 'pl': 'pl_PL', 'ru': 'ru_RU'}
 # (slug, build dir, h1 key, subtitle key, alt key, card image, w, h) — newest first
 ARTICLES = [
+ ('christmas-markets-near-colmar', os.path.join(_ROOT, 'build-art-christmas-markets-near-colmar'),
+  'ctx:h1', 'ctx:sub', 'ctx:alt', '/img/tile-christmas-market.webp', 800, 600),
  ('colmar-vs-strasbourg-christmas', os.path.join(_ROOT, 'build-art-colmar-vs-strasbourg-christmas'),
   'ctx:h1', 'ctx:sub', 'ctx:alt', '/img/tile-little-venice.webp', 800, 600),
  ('colmar-christmas-market', B, 'T200', 'T201', 'T208', '/img/tile-christmas-market-600.webp', 600, 450),

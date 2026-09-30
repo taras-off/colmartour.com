@@ -1,0 +1,930 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "At Christmas, markets open in eight villages and small towns around Colmar, and each keeps its own schedule. Kaysersberg runs for just four weekends, Ribeauvillé for two, Neuf-Brisach for one. So you pick a village by the calendar: day of the week first, everything else second."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "The easiest plan is to stay in Colmar itself and visit the villages in the afternoon. In December special shuttles leave from the town's train station, which leaves the morning free for Colmar. You can spend it with the TouringBee audio guide: 27 stops through the old town, about an hour and a half, no group and no set start time. Everything worth knowing about the town before your trip is in our <a href=\"/\">complete guide to Colmar</a>."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar's own six markets have an article of their own: <a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a>. This one covers only what lies outside town."
+ },
+ "T010": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Christmas markets near Colmar at a glance"
+ },
+ "T011": {
+  "ctx": "tbody > tr > th",
+  "en": "Open daily"
+ },
+ "T012": {
+  "ctx": "tbody > tr > td",
+  "en": "Eguisheim, Riquewihr, Turckheim, each with its own exceptions (see the table below)"
+ },
+ "T013": {
+  "ctx": "tbody > tr > th",
+  "en": "Weekends only, and not every weekend"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "Kaysersberg, Ribeauvillé, Neuf-Brisach, Munster (until December 20)"
+ },
+ "T015": {
+  "ctx": "tbody > tr > th",
+  "en": "Short season, weekdays included"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Bergheim"
+ },
+ "T017": {
+  "ctx": "tbody > tr > th",
+  "en": "Open after December 26"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "Eguisheim, Turckheim, Munster"
+ },
+ "T019": {
+  "ctx": "tbody > tr > th",
+  "en": "Shuttles Friday to Sunday"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "Kaysersberg, Riquewihr, Ribeauvillé, Eguisheim, Turckheim, Munster; Neuf-Brisach on one weekend"
+ },
+ "T021": {
+  "ctx": "tbody > tr > th",
+  "en": "Shuttles on weekdays"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Eguisheim only"
+ },
+ "T023": {
+  "ctx": "tbody > tr > th",
+  "en": "Train"
+ },
+ "T024": {
+  "ctx": "tbody > tr > td",
+  "en": "Turckheim and Munster, on the Colmar–Metzeral TER line"
+ },
+ "T025": {
+  "ctx": "tbody > tr > th",
+  "en": "Shuttle tickets"
+ },
+ "T026": {
+  "ctx": "tbody > tr > td",
+  "en": "Online only"
+ },
+ "T027": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Start with the day of the week"
+ },
+ "T028": {
+  "ctx": "section > div.wrap > p",
+  "en": "Most village markets aren't open every day in December. If your trip falls on a Wednesday, Kaysersberg and Ribeauvillé are automatically off the list, and the only shuttle left is the one to Eguisheim. Dates and hours for 2026:"
+ },
+ "T029": {
+  "ctx": "thead > tr > th",
+  "en": "Village"
+ },
+ "T030": {
+  "ctx": "thead > tr > th",
+  "en": "2026 dates"
+ },
+ "T031": {
+  "ctx": "thead > tr > th",
+  "en": "Hours"
+ },
+ "T032": {
+  "ctx": "tbody > tr > td",
+  "en": "Eguisheim"
+ },
+ "T033": {
+  "ctx": "tbody > tr > td",
+  "en": "November 27 – December 23, December 27–30"
+ },
+ "T034": {
+  "ctx": "tbody > tr > td",
+  "en": "Until December 10: Mon–Thu 12:00–19:00, Fri–Sun 10:00–19:00; from December 11 daily 10:00–19:00"
+ },
+ "T035": {
+  "ctx": "tbody > tr > td",
+  "en": "Kaysersberg"
+ },
+ "T036": {
+  "ctx": "tbody > tr > td",
+  "en": "Fri–Sun: November 27–29, December 4–6, 11–13, 18–20"
+ },
+ "T037": {
+  "ctx": "tbody > tr > td",
+  "en": "10:00–20:00"
+ },
+ "T038": {
+  "ctx": "tbody > tr > td",
+  "en": "Riquewihr"
+ },
+ "T039": {
+  "ctx": "tbody > tr > td",
+  "en": "November 27 – December 20, daily"
+ },
+ "T040": {
+  "ctx": "tbody > tr > td",
+  "en": "November 27 10:00–20:00; then Mon–Fri 10:00–18:30, Sat–Sun 10:00–19:00"
+ },
+ "T041": {
+  "ctx": "tbody > tr > td",
+  "en": "Turckheim"
+ },
+ "T042": {
+  "ctx": "tbody > tr > td",
+  "en": "November 27 – December 30, except December 25"
+ },
+ "T043": {
+  "ctx": "tbody > tr > td",
+  "en": "10:00–19:00, Sat until 20:00; December 24 and 30 until 18:00"
+ },
+ "T044": {
+  "ctx": "tbody > tr > td",
+  "en": "Ribeauvillé"
+ },
+ "T045": {
+  "ctx": "tbody > tr > td",
+  "en": "December 5–6 and 12–13"
+ },
+ "T046": {
+  "ctx": "tbody > tr > td",
+  "en": "Sat 10:00–19:00, Sun 10:00–18:00"
+ },
+ "T047": {
+  "ctx": "tbody > tr > td",
+  "en": "Bergheim"
+ },
+ "T048": {
+  "ctx": "tbody > tr > td",
+  "en": "November 27–29 and December 2–6"
+ },
+ "T049": {
+  "ctx": "tbody > tr > td",
+  "en": "Wed–Fri 16:00–21:00, Sat 10:00–21:00, Sun 10:00–20:00"
+ },
+ "T050": {
+  "ctx": "tbody > tr > td",
+  "en": "Neuf-Brisach"
+ },
+ "T051": {
+  "ctx": "tbody > tr > td",
+  "en": "December 11–13"
+ },
+ "T052": {
+  "ctx": "tbody > tr > td",
+  "en": "Fri 14:00–20:00, Sat 10:00–21:00, Sun 10:00–18:30"
+ },
+ "T053": {
+  "ctx": "tbody > tr > td",
+  "en": "Munster"
+ },
+ "T054": {
+  "ctx": "tbody > tr > td",
+  "en": "Weekends from November 20 to December 20, then almost daily until the 31st"
+ },
+ "T055": {
+  "ctx": "tbody > tr > td",
+  "en": "Fri–Sat 10:00–20:00, Sun 10:00–19:00; from December 21 10:00–19:00, December 24 and 31 10:00–16:00, December 26 14:00–19:00"
+ },
+ "T056": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Which village to choose"
+ },
+ "T057": {
+  "ctx": "section > div.wrap > p",
+  "en": "How the markets differ, and how to reach each one without a car."
+ },
+ "T058": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Eguisheim"
+ },
+ "T059": {
+  "ctx": "section > div.wrap > p",
+  "en": "Eguisheim's market is officially called the Marché de Noël authentique: about thirty craftspeople and makers, with musicians strolling through the village center and along the old walls every day. It carries the \"Villes et Villages de Noël\" label, which recognizes markets that focus on local traditions and heritage."
+ },
+ "T060": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Getting there:</strong> shuttle line 3, the only one that also runs on weekdays. Year-round, the regular FLUO 68R030 bus runs Colmar – Eguisheim – Rouffach."
+ },
+ "T061": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Kaysersberg"
+ },
+ "T062": {
+  "ctx": "section > div.wrap > p",
+  "en": "The craft market (Marché de Noël artisanal et authentique) fills the Cour de l'Arsenal and the area behind the Sainte-Croix church. Next to it is a small market of local producers, the place to go for regional food."
+ },
+ "T063": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Getting there:</strong> shuttle lines 1 and 2. The stop isn't in the center but at the Parking de la 5e DB in neighboring Kientzheim."
+ },
+ "T064": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Riquewihr"
+ },
+ "T065": {
+  "ctx": "section > div.wrap > p",
+  "en": "A traditional Christmas market (Marché de Noël traditionnel), and it isn't confined to one square: the streets and façades themselves are decorated and lit, and Christmas shops are open all over the village."
+ },
+ "T066": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Getting there:</strong> Friday to Sunday, shuttle lines 1 and 2, stop on Rue du Stade. On weekdays, the regular FLUO 68R016 bus runs Colmar – Riquewihr – Ribeauvillé."
+ },
+ "T067": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Turckheim"
+ },
+ "T068": {
+  "ctx": "section > div.wrap > p",
+  "en": "The elves' market (Marché des Lutins) is held on the town hall square, where local craftspeople sell their work."
+ },
+ "T069": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Getting there:</strong> TER train on the Colmar–Metzeral line; Friday to Sunday, also shuttle line 4."
+ },
+ "T070": {
+  "ctx": "section > div.wrap > blockquote",
+  "en": "<strong>The night watchman.</strong> In December Turckheim keeps up the traditional round of its night watchman: tricorn hat, halberd, lantern and horn. The round starts at 21:00, December 1–23 and 26–30, and on the 31st the watchman goes out at midnight. Records of watchmen in the town go back to 1540; the post disappeared in 1939, and the rounds were revived in 1953. Today several night watchmen keep the tradition going. Along the way he sings, in Alsatian, the old song watchmen once used to call the hour: \"Watch your fire and your candle.\" One catch: the round starts after the last shuttle has left Turckheim, so the way back is by train, by taxi, or with a night in town."
+ },
+ "T071": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Ribeauvillé"
+ },
+ "T072": {
+  "ctx": "section > div.wrap > p",
+  "en": "A medieval Christmas market (Marché de Noël médiéval), on just two weekends."
+ },
+ "T073": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Getting there:</strong> shuttle lines 1 and 2, stop at the bus parking lot. The regular FLUO 68R016 bus goes there too."
+ },
+ "T074": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Three more markets"
+ },
+ "T075": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Bergheim's market</strong> is held inside medieval walls, among winegrowers' houses from the 15th to 17th centuries. The season is short, but the second part starts midweek, and on weekdays the market doesn't open until 16:00: this is an evening market. There's no Christmas shuttle; from Colmar, the regular line 17 bus runs via Ribeauvillé."
+ },
+ "T076": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Neuf-Brisach</strong> hosts the Marché de Noël 1700: participants in period costume, and a reconstructed village showing old crafts and everyday life in Vauban's time. Shuttle line 5 runs only on the Saturday and Sunday; on the Friday, when the market is already open, take the regular FLUO 68R026 bus Colmar – Breisach to the stop at the Porte de Bâle."
+ },
+ "T077": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Munster</strong> hosts its \"market in the heart of the mountains\": figures from Alsatian Christmas tradition among the chalets, Munster cheese soup on certain days, and concerts. The TER train runs there on the Colmar–Metzeral line, and Friday to Sunday there's shuttle line 4."
+ },
+ "T078": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Navettes de Noël: how the Christmas shuttles work"
+ },
+ "T079": {
+  "ctx": "section > div.wrap > p",
+  "en": "The Christmas shuttles leave from Colmar's train station and run from November 27 to December 20, 2026. A ticket is good all day: get on and off as often as you like."
+ },
+ "T080": {
+  "ctx": "thead > tr > th",
+  "en": "Line"
+ },
+ "T081": {
+  "ctx": "thead > tr > th",
+  "en": "Where to"
+ },
+ "T082": {
+  "ctx": "thead > tr > th",
+  "en": "Mon–Thu"
+ },
+ "T083": {
+  "ctx": "thead > tr > th",
+  "en": "Fri–Sun"
+ },
+ "T084": {
+  "ctx": "thead > tr > th",
+  "en": "\"Explorer\" fare"
+ },
+ "T085": {
+  "ctx": "tbody > tr > td",
+  "en": "1 and 2"
+ },
+ "T086": {
+  "ctx": "tbody > tr > td",
+  "en": "Kaysersberg, Riquewihr, Ribeauvillé, a loop in opposite directions"
+ },
+ "T087": {
+  "ctx": "tbody > tr > td",
+  "en": "No service"
+ },
+ "T088": {
+  "ctx": "tbody > tr > td",
+  "en": "€17"
+ },
+ "T089": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T090": {
+  "ctx": "tbody > tr > td",
+  "en": "3"
+ },
+ "T091": {
+  "ctx": "tbody > tr > td",
+  "en": "Eguisheim"
+ },
+ "T092": {
+  "ctx": "tbody > tr > td",
+  "en": "€8"
+ },
+ "T093": {
+  "ctx": "tbody > tr > td",
+  "en": "€17"
+ },
+ "T094": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T095": {
+  "ctx": "tbody > tr > td",
+  "en": "4"
+ },
+ "T096": {
+  "ctx": "tbody > tr > td",
+  "en": "Turckheim, Munster"
+ },
+ "T097": {
+  "ctx": "tbody > tr > td",
+  "en": "No service"
+ },
+ "T098": {
+  "ctx": "tbody > tr > td",
+  "en": "€17"
+ },
+ "T099": {
+  "ctx": "tbody > tr > td",
+  "en": "€10"
+ },
+ "T100": {
+  "ctx": "tbody > tr > td",
+  "en": "5"
+ },
+ "T101": {
+  "ctx": "tbody > tr > td",
+  "en": "Neuf-Brisach, December 12 and 13 only"
+ },
+ "T102": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T103": {
+  "ctx": "tbody > tr > td",
+  "en": "€17"
+ },
+ "T104": {
+  "ctx": "tbody > tr > td",
+  "en": "€10"
+ },
+ "T105": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Tickets</strong> are sold online only. Sales open on Thursday, November 12, 2026, at 12:00 Central European Time. You can't buy them from the driver. Seats are limited each day; three days before each date, a small extra batch of tickets is released."
+ },
+ "T106": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>The full ticket</strong> at €17 is valid on all lines. <strong>The €10 \"Explorer\"</strong> works only on lines 4 and 5, meaning Turckheim, Munster and Neuf-Brisach. Children under 12 ride free, but you still have to book a ticket for them."
+ },
+ "T107": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>How often.</strong> Lines 1 and 2 leave hourly on Fridays and every half hour on Saturdays and Sundays. Line 4 runs hourly. There are four departures a day to Eguisheim on weekdays and five Friday to Sunday. The full timetable is on the official page; it's long and changes from year to year."
+ },
+ "T108": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Good to know.</strong> The shuttles use ordinary roads, so December traffic can cause delays. They're for individual travelers only: groups aren't taken on board."
+ },
+ "T109": {
+  "ctx": "div.wrap > div.callout > h3",
+  "en": "Shuttle tickets and timetable"
+ },
+ "T110": {
+  "ctx": "div.wrap > div.callout > p",
+  "en": "Tickets are sold only on the official Noël à Colmar website."
+ },
+ "T111": {
+  "ctx": "div.wrap > div.callout > a.btn",
+  "en": "Official shuttle page"
+ },
+ "T112": {
+  "ctx": "section > div.wrap > h2",
+  "en": "How to plan the day"
+ },
+ "T113": {
+  "ctx": "section > div.wrap > p",
+  "en": "A handy plan: spend the first half of the day in Colmar, then take a shuttle out to one or more villages after lunch. In Kaysersberg, as in Colmar, the lights come on at nightfall."
+ },
+ "T114": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Friday to Sunday.</strong> After lunch, shuttle line 1: Kaysersberg, Riquewihr, Ribeauvillé, and back to Colmar. Line 2 runs the same loop the other way. The last line 1 bus gets back to Colmar station at 20:30; the last line 2 bus at 20:45 on weekends and 20:55 on Fridays."
+ },
+ "T115": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>A weekday evening by shuttle.</strong> On weekdays the only village you can reach by shuttle is Eguisheim: the last line 3 bus leaves Colmar at 18:30, and the return leaves Eguisheim at 19:00. Riquewihr is open on weekdays too, but you get there on the regular FLUO bus, on its own timetable. And in early December Bergheim's evening market opens, also served by a regular bus."
+ },
+ "T116": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>No shuttle at all.</strong> Turckheim and Munster are both served by the Colmar–Metzeral TER line, so you can reach them by train even after December 20, when the shuttle season is over."
+ },
+ "T117": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "TouringBee Colmar audio guide"
+ },
+ "T118": {
+  "ctx": "div.product > div.pad > p",
+  "en": "If the evening belongs to a village, the day belongs to Colmar. The TouringBee walk covers the old town: 27 stops, about an hour and a half, starting whenever it suits you."
+ },
+ "T119": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one payment, no subscription</small>"
+ },
+ "T120": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "100% offline once downloaded"
+ },
+ "T121": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Offline map shows where you are; you start each recording yourself at the stop"
+ },
+ "T122": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "English, French, German, Italian, Polish, Spanish and Russian"
+ },
+ "T123": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, 1 year of access"
+ },
+ "T124": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and stories prepared by professionals"
+ },
+ "T125": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 by more than 1,000 travelers"
+ },
+ "T126": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T127": {
+  "ctx": "section > div.wrap > h2",
+  "en": "After December 20"
+ },
+ "T128": {
+  "ctx": "section > div.wrap > p",
+  "en": "On December 20, the Kaysersberg and Riquewihr markets close and the shuttles stop running. Ribeauvillé, Bergheim and Neuf-Brisach have finished by then. Three markets stay open into Christmas week: Eguisheim, Turckheim and Munster, though each closes on different days."
+ },
+ "T129": {
+  "ctx": "thead > tr > th",
+  "en": "Date"
+ },
+ "T130": {
+  "ctx": "thead > tr > th",
+  "en": "Eguisheim"
+ },
+ "T131": {
+  "ctx": "thead > tr > th",
+  "en": "Turckheim"
+ },
+ "T132": {
+  "ctx": "thead > tr > th",
+  "en": "Munster"
+ },
+ "T133": {
+  "ctx": "tbody > tr > td",
+  "en": "December 21–23"
+ },
+ "T134": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T135": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T136": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T137": {
+  "ctx": "tbody > tr > td",
+  "en": "December 24"
+ },
+ "T138": {
+  "ctx": "tbody > tr > td",
+  "en": "Closed"
+ },
+ "T139": {
+  "ctx": "tbody > tr > td",
+  "en": "Short day"
+ },
+ "T140": {
+  "ctx": "tbody > tr > td",
+  "en": "Short day"
+ },
+ "T141": {
+  "ctx": "tbody > tr > td",
+  "en": "December 25"
+ },
+ "T142": {
+  "ctx": "tbody > tr > td",
+  "en": "Closed"
+ },
+ "T143": {
+  "ctx": "tbody > tr > td",
+  "en": "Closed"
+ },
+ "T144": {
+  "ctx": "tbody > tr > td",
+  "en": "No hours listed"
+ },
+ "T145": {
+  "ctx": "tbody > tr > td",
+  "en": "December 26"
+ },
+ "T146": {
+  "ctx": "tbody > tr > td",
+  "en": "Closed"
+ },
+ "T147": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T148": {
+  "ctx": "tbody > tr > td",
+  "en": "Open from 14:00"
+ },
+ "T149": {
+  "ctx": "tbody > tr > td",
+  "en": "December 27–29"
+ },
+ "T150": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T151": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T152": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T153": {
+  "ctx": "tbody > tr > td",
+  "en": "December 30"
+ },
+ "T154": {
+  "ctx": "tbody > tr > td",
+  "en": "Last day"
+ },
+ "T155": {
+  "ctx": "tbody > tr > td",
+  "en": "Last day, short"
+ },
+ "T156": {
+  "ctx": "tbody > tr > td",
+  "en": "Open"
+ },
+ "T157": {
+  "ctx": "tbody > tr > td",
+  "en": "December 31"
+ },
+ "T158": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T159": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T160": {
+  "ctx": "tbody > tr > td",
+  "en": "Last day, short"
+ },
+ "T161": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Getting there without shuttles.</strong> Turckheim and Munster by TER train, Eguisheim by the regular FLUO 68R030 bus. Check ahead how trains and buses run on the holidays."
+ },
+ "T162": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar itself stays lively too: its markets run until December 29, and the gourmet market and Ferris wheel until January 3. More in our guide to the <a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> and in <a href=\"/colmar-vs-strasbourg-christmas/\">Colmar or Strasbourg for Christmas</a>."
+ },
+ "T163": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Common date mistakes"
+ },
+ "T164": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Showing up for the shuttle without a ticket.</strong> Shuttle tickets are sold online only; you can't buy them from the driver."
+ },
+ "T165": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Heading to Kaysersberg on a weekday.</strong> The market is open Friday to Sunday only, and no shuttles go there on weekdays."
+ },
+ "T166": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Planning Eguisheim for Christmas.</strong> The market is closed December 24–26."
+ },
+ "T167": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Counting on a shuttle after December 20.</strong> The shuttle season ends that day; after that it's train, regular bus or car."
+ },
+ "T168": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Not booking a ticket for a child.</strong> Under-12s ride free, but without a booking there's no seat."
+ },
+ "T169": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Waiting for the night watchman, then the shuttle.</strong> The Turckheim round starts at 21:00; the last shuttle leaves earlier."
+ },
+ "T170": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Frequently asked questions"
+ },
+ "T171": {
+  "ctx": "div.faq > details > summary",
+  "en": "Which Christmas markets near Colmar are open on weekdays?"
+ },
+ "T172": {
+  "ctx": "div.faq > details > p",
+  "en": "Eguisheim, Riquewihr and Turckheim, plus Bergheim in early December. On weekdays the shuttle goes only to Eguisheim; Riquewihr and Bergheim are reachable by regular bus, Turckheim by train."
+ },
+ "T173": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can I buy a shuttle ticket from the driver?"
+ },
+ "T174": {
+  "ctx": "div.faq > details > p",
+  "en": "No, only online on the official website. Seats are limited each day, so tickets are booked in advance."
+ },
+ "T175": {
+  "ctx": "div.faq > details > summary",
+  "en": "Which markets are open after December 26?"
+ },
+ "T176": {
+  "ctx": "div.faq > details > p",
+  "en": "Eguisheim, Turckheim and Munster. Which days each one closes over Christmas itself is in the \"After December 20\" section."
+ },
+ "T177": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can I visit several markets on one shuttle ticket?"
+ },
+ "T178": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes. A ticket is good all day, with unlimited rides. The full ticket covers all lines; the \"Explorer\" covers lines 4 and 5 only."
+ },
+ "T179": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is there a train to the Christmas villages?"
+ },
+ "T180": {
+  "ctx": "div.faq > details > p",
+  "en": "To Turckheim and Munster, yes, on the Colmar–Metzeral TER line. The other markets in this article are reached by bus or shuttle."
+ },
+ "T181": {
+  "ctx": "div.faq > details > summary",
+  "en": "Does a child need a shuttle ticket?"
+ },
+ "T182": {
+  "ctx": "div.faq > details > p",
+  "en": "Children under 12 ride free, but you still book a ticket for them."
+ },
+ "T183": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T184": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> — the six markets in town."
+ },
+ "T185": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-vs-strasbourg-christmas/\">Colmar or Strasbourg for Christmas</a> — if you're deciding where to spend the holidays."
+ },
+ "T186": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">The complete guide to Colmar</a> — everything about the town before your trip."
+ },
+ "T187": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/guides/\">All guides</a> — everything published so far."
+ },
+ "T188": {
+  "ctx": "section > div.wrap > p",
+  "en": "The villages around Colmar differ a lot at Christmas, but choosing between them starts with a single question: what day of the week will it be? Everything else falls into place around the answer."
+ },
+ "T189": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T190": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T191": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T192": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T193": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T194": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T195": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T196": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T197": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T198": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T199": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T200": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T201": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T202": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T203": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T204": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T205": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T206": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T207": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T208": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T209": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T210": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T211": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T212": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T213": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T214": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T215": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T216": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T217": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T218": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T219": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Christmas markets near Colmar"
+ },
+ "T220": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Christmas Markets Near Colmar: Which Village to Choose and How to Get There"
+ },
+ "T221": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "Eight village markets, each on its own calendar. Which ones are open on your dates, and how to reach them without a car."
+ },
+ "T222": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated September 2026"
+ },
+ "T223": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T224": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Shuttle tickets"
+ },
+ "T225": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Hotels in Colmar"
+ },
+ "T226": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T227": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T228": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T229": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Christmas Markets Near Colmar 2026 | TouringBee"
+ },
+ "T230": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Which village Christmas markets near Colmar are open on your dates, and how to reach them without a car: the Christmas shuttles, trains and buses."
+ },
+ "T231": {
+  "ctx": "og:title",
+  "en": "Christmas Markets Near Colmar: Which Village and How to Get There"
+ },
+ "T232": {
+  "ctx": "og:description",
+  "en": "Eight village markets around Colmar, each on its own calendar: 2026 dates, the Christmas shuttles, and what stays open after December 20."
+ }
+}
