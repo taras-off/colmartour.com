@@ -1,59 +1,19 @@
 #!/usr/bin/env python3
-"""Per-unit HTML parity: every localized string must carry the same inline tags,
-with the same attributes, as the English source. Repairs the common failure
-(dropped closing quote in an attribute) and reports anything else."""
-import json, re, sys
-from bs4 import BeautifulSoup
-
-BUILD = '/home/claude/work/build'
-LANGS = ['fr', 'de', 'es', 'it', 'pt', 'pl', 'ru']
-en = json.load(open(f'{BUILD}/content/en.json', encoding='utf-8'))
-
-QUOTE_FIX = re.compile(r'(<[a-z]+ [^>]*?=")([^"]*?)>')
-
-
-def sig(s):
-    soup = BeautifulSoup(s, 'html.parser')
-    out = []
-    for t in soup.find_all(True):
-        attrs = {k: (' '.join(v) if isinstance(v, list) else v)
-                 for k, v in t.attrs.items()}
-        out.append((t.name, tuple(sorted(attrs.items()))))
-    return out
-
-
-problems = 0
-for l in LANGS:
-    p = f'{BUILD}/content/{l}.json'
+"""HTML parity: every localized string must carry exactly the same tags/attributes as English."""
+import json, re, sys, os
+H = os.path.dirname(os.path.abspath(__file__))
+en = json.load(open(f'{H}/content/en.json', encoding='utf-8'))
+TAG = re.compile(r'<[^>]+>|&[a-z]+;')
+bad = 0
+for lang in ['fr','de','es','it','pt','pl','ru']:
+    p = f'{H}/content/{lang}.json'
+    if not os.path.exists(p): print(lang, 'MISSING FILE'); bad += 1; continue
     d = json.load(open(p, encoding='utf-8'))
-    fixed, bad = [], []
-    for k, ref in en.items():
-        want = sig(ref['en'])
-        got = sig(d[k])
-        if got == want:
-            continue
-        # attempt repair: restore a dropped closing quote
-        cand = QUOTE_FIX.sub(r'\1\2">', d[k])
-        if sig(cand) == want:
-            d[k] = cand
-            fixed.append(k)
-            continue
-        # attempt repair: same tag names, wrong/lost attributes -> take EN's
-        if [t for t, _ in got] == [t for t, _ in want]:
-            soup = BeautifulSoup(d[k], 'html.parser')
-            for tag, (_, attrs) in zip(soup.find_all(True), want):
-                tag.attrs = {kk: vv for kk, vv in attrs}
-            cand = ''.join(str(c) for c in soup.children)
-            if sig(cand) == want:
-                d[k] = cand
-                fixed.append(k)
-                continue
-        bad.append((k, ref['en'][:70], d[k][:70]))
-    if fixed:
-        json.dump(d, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
-    print(f'{l}: repaired={len(fixed)} {fixed if fixed else ""} unresolved={len(bad)}')
-    for k, a, b in bad:
-        problems += 1
-        print(f'    {k}\n      EN : {a}\n      {l.upper()} : {b}')
-
-sys.exit(1 if problems else 0)
+    extra = set(d) - set(en); miss = set(en) - set(d)
+    if extra or miss: print(lang, 'keys: missing', sorted(miss), 'extra', sorted(extra)); bad += 1
+    for k, v in en.items():
+        if k not in d: continue
+        a = sorted(TAG.findall(v['en'])); b = sorted(TAG.findall(d[k]))
+        if a != b: print(lang, k, 'TAGS DIFFER\n  en:', a, '\n  xx:', b); bad += 1
+print('ALL UNITS OK' if not bad else f'{bad} problem(s)')
+sys.exit(1 if bad else 0)
