@@ -1,0 +1,586 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "The real question isn't \"which hotel\" but \"what will you be doing in the morning\". Exploring the old town? Stay in it or close by. Getting around the region by public transport? Stay near the station. Driving the Wine Route? Stay somewhere with easy parking. In Colmar, the area matters more than the hotel's star rating."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "Wherever you stay, the old town is best explored on foot. Our audio guide needs no meeting point and no fixed start time: 27 stops, about an hour and a half. It fits easily into your arrival day, an evening after the train, or the morning before you leave."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > p",
+  "en": "Everything else about the town is in our <a href=\"/\">complete guide to Colmar</a>."
+ },
+ "T010": {
+  "ctx": "section > div.wrap > h3",
+  "en": "At a glance"
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "Where to stay"
+ },
+ "T012": {
+  "ctx": "thead > tr > th",
+  "en": "Best for"
+ },
+ "T013": {
+  "ctx": "thead > tr > th",
+  "en": "With a car"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "Old town"
+ },
+ "T015": {
+  "ctx": "tbody > tr > td",
+  "en": "Stepping straight out of the door into half-timbered streets"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Awkward: the centre is largely pedestrian"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "Little Venice"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "Canals under your window"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "Awkward; some nearby hotels have their own parking"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "Near the station"
+ },
+ "T021": {
+  "ctx": "tbody > tr > td",
+  "en": "Travelling without a car, with day trips by public transport"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Fine"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "German quarter (south of the centre)"
+ },
+ "T024": {
+  "ctx": "tbody > tr > td",
+  "en": "Those who prefer quiet to postcard views"
+ },
+ "T025": {
+  "ctx": "tbody > tr > td",
+  "en": "Fine"
+ },
+ "T026": {
+  "ctx": "tbody > tr > td",
+  "en": "Around the exhibition centre"
+ },
+ "T027": {
+  "ctx": "tbody > tr > td",
+  "en": "Drivers, regional trips and the Wine Route"
+ },
+ "T028": {
+  "ctx": "tbody > tr > td",
+  "en": "Easy: on-site parking, quick motorway access"
+ },
+ "T029": {
+  "ctx": "tbody > tr > td",
+  "en": "A wine village"
+ },
+ "T030": {
+  "ctx": "tbody > tr > td",
+  "en": "Those coming for the vineyards and happy to travel into town"
+ },
+ "T031": {
+  "ctx": "tbody > tr > td",
+  "en": "Handy; without one, look at Turckheim and villages with a direct bus to Colmar"
+ },
+ "T032": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The old town"
+ },
+ "T033": {
+  "ctx": "section > div.wrap > p",
+  "en": "A protected historic centre, a large pedestrian zone, houses from the Middle Ages to the 18th century. Staying here means stepping out early in the morning, before the main daytime flow of visitors, and walking home at night."
+ },
+ "T034": {
+  "ctx": "section > div.wrap > p",
+  "en": "Examples: the hotel in the Maison des Têtes, a listed building on rue des Têtes, or the Mercure Colmar Centre Unterlinden next to the Unterlinden Museum."
+ },
+ "T035": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you're driving, ask about parking when you book. The centre is largely pedestrian, and in the Christmas season cars are kept out during market hours. More in our guide to <a href=\"/colmar-parking/\">parking in Colmar</a>."
+ },
+ "T036": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Little Venice"
+ },
+ "T037": {
+  "ctx": "section > div.wrap > p",
+  "en": "The Lauch river, colourful façades, little boats — the Colmar of the postcards. Staying here means seeing the quays not just by day but early in the morning and late in the evening too."
+ },
+ "T038": {
+  "ctx": "section > div.wrap > p",
+  "en": "Examples: the Hostellerie Le Maréchal in a 16th-century house on the canal, and Le Colombier Suites in an 18th-century house with a garden over the water. Just outside the quarter, a few steps away, is Maison Turenne, with paid covered secure parking — an option if you want to stay by the canals but are arriving by car."
+ },
+ "T039": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Near the station"
+ },
+ "T040": {
+  "ctx": "section > div.wrap > p",
+  "en": "The most practical base without a car. The station is only a few minutes' walk away, with trains to Strasbourg and Basel and easy connections for day trips around the region. The old town is roughly a 15-minute walk away, and a free shuttle runs around the centre (see <a href=\"/how-to-get-to-colmar/\">how to get to Colmar</a>)."
+ },
+ "T041": {
+  "ctx": "section > div.wrap > p",
+  "en": "Examples: The Originals City Hôtel Colmar Gare by the station, and Colmar Hôtel, with a 24-hour reception, ten minutes' walk from the old town."
+ },
+ "T042": {
+  "ctx": "section > div.wrap > h2",
+  "en": "South of the centre: the German quarter"
+ },
+ "T043": {
+  "ctx": "section > div.wrap > p",
+  "en": "The official visitor guide calls it one of the most popular districts in modern Colmar. It was built between 1870 and 1918, when Alsace was German: villas and mansions in styles from neo-Romanesque to Art Deco, greenery, the Lauch river. It's a spacious, green residential area outside the tourist core of the old town."
+ },
+ "T044": {
+  "ctx": "section > div.wrap > p",
+  "en": "It suits those staying several days who care more about greenery and a residential feel than about living inside the old town."
+ },
+ "T045": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The outskirts, if you're driving"
+ },
+ "T046": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you'll be using the car every day, it's easier to stay on the edge of town. Your own parking, quick access to the motorway and the Wine Route, and you can still get into the centre by car or public transport."
+ },
+ "T047": {
+  "ctx": "section > div.wrap > p",
+  "en": "Examples around the exhibition centre (Parc des Expositions): Ibis Styles Colmar Nord, with secure parking and a heated pool; Arc En Ciel, with a large free car park; B&B Colmar Expo. Just outside town in Horbourg-Wihr: L'Europe, with free parking."
+ },
+ "T048": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Colmar or a wine village?"
+ },
+ "T049": {
+  "ctx": "section > div.wrap > p",
+  "en": "Staying in a village on the Wine Route is a different kind of trip. Mornings among the vines, evenings in the village, quiet. The trade-off is getting into town: without a car, every trip to Colmar has to fit around a timetable."
+ },
+ "T050": {
+  "ctx": "section > div.wrap > p",
+  "en": "Without a car, Turckheim is especially convenient: it's linked to Colmar by train and bus. Some other villages also have direct buses. Camping Le Médiéval is 500 metres from Turckheim's historic centre, and in season you can catch the traditional evening round of the night watchman; in winter he has a separate Christmas calendar."
+ },
+ "T051": {
+  "ctx": "section > div.wrap > p",
+  "en": "Other examples from the official guide: in Wettolsheim, the family-run Au Soleil, 5 km from Colmar right on the Wine Route; in Kaysersberg, the Abbaye d'Alspach in a former 11th-century convent."
+ },
+ "T052": {
+  "ctx": "section > div.wrap > p",
+  "en": "How to choose the village itself is covered in our guide to villages near Colmar."
+ },
+ "T053": {
+  "ctx": "section > div.wrap > h2",
+  "en": "If you're coming for Christmas"
+ },
+ "T054": {
+  "ctx": "section > div.wrap > p",
+  "en": "During the market season, people book accommodation in Colmar well ahead. If you're driving, remember that cars are kept out of the centre during market hours, so staying in the old town when you're driving means extra hassle. How the markets work is in <a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a>, and how to add the villages is in <a href=\"/christmas-markets-near-colmar/\">Christmas markets near Colmar</a>."
+ },
+ "T055": {
+  "ctx": "section > div.wrap > h2",
+  "en": "If the Wine Route is the main goal"
+ },
+ "T056": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar is a convenient starting point for the Wine Route. If you're driving, stay on the outskirts with your own parking or in a wine village. Without a car, stay near the station, where trains and buses are easiest to catch. And remember: tastings and driving don't mix. More in our guide to the Wine Route."
+ },
+ "T057": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Hotel, apartment or guest room?"
+ },
+ "T058": {
+  "ctx": "section > div.wrap > p",
+  "en": "French listings use several types of accommodation, and the difference isn't always obvious. The official guide explains it like this:"
+ },
+ "T059": {
+  "ctx": "thead > tr > th",
+  "en": "Type"
+ },
+ "T060": {
+  "ctx": "thead > tr > th",
+  "en": "What it is"
+ },
+ "T061": {
+  "ctx": "tbody > tr > td",
+  "en": "Chambre d'hôtes (B&B)"
+ },
+ "T062": {
+  "ctx": "tbody > tr > td",
+  "en": "A room in a local's home, with breakfast and linen. No more than 5 rooms and 15 guests"
+ },
+ "T063": {
+  "ctx": "tbody > tr > td",
+  "en": "Chambre chez l'habitant"
+ },
+ "T064": {
+  "ctx": "tbody > tr > td",
+  "en": "Rooms in the owner's property when more than 5 rooms are let and/or more than 15 people stay; not classed as a hotel"
+ },
+ "T065": {
+  "ctx": "tbody > tr > td",
+  "en": "Location saisonnière / meublé de tourisme"
+ },
+ "T066": {
+  "ctx": "tbody > tr > td",
+  "en": "A furnished apartment or house rented out whole for a short stay; it may hold an official classification of 1 to 5 stars"
+ },
+ "T067": {
+  "ctx": "tbody > tr > td",
+  "en": "Tourist residence"
+ },
+ "T068": {
+  "ctx": "tbody > tr > td",
+  "en": "Apartments with shared services: reception, pool, laundry"
+ },
+ "T069": {
+  "ctx": "section > div.wrap > p",
+  "en": "There are budget options too: the Mittelharth youth hostel, 1 km from the historic centre, and Camping de l'Ill on the riverbank, open from late March to early January."
+ },
+ "T070": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "The town starts at your door"
+ },
+ "T071": {
+  "ctx": "div.product > div.pad > p",
+  "en": "Wherever you stay, the old town is best explored on foot. The TouringBee audio guide is a ready-made route through it: 27 stops, about an hour and a half, no group and no meeting point. Easy to fit into your arrival evening or the morning before you leave."
+ },
+ "T072": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one-off payment, no subscription</small>"
+ },
+ "T073": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Works fully offline once downloaded"
+ },
+ "T074": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows where you are; you start each audio track yourself"
+ },
+ "T075": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish and Russian"
+ },
+ "T076": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T077": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts created by professional writers"
+ },
+ "T078": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 by over 1,000 travellers"
+ },
+ "T079": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T080": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Common mistakes"
+ },
+ "T081": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Booking an old-town hotel when driving, without asking about parking.</strong> The centre is largely pedestrian, and in the Christmas season cars are kept out during market hours."
+ },
+ "T082": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Staying in a village without a car and heading into Colmar every day.</strong> It's possible, but your day will revolve around the timetable. Without a car, only pick a village once you've checked its transport links to Colmar."
+ },
+ "T083": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Choosing an area from a single photo.</strong> Little Venice is beautiful, but if you plan to catch a train every morning, the station area is more practical."
+ },
+ "T084": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Leaving a Christmas booking to the last minute.</strong> During the market season, accommodation is booked early."
+ },
+ "T085": {
+  "ctx": "section > div.wrap > h2",
+  "en": "FAQ"
+ },
+ "T086": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where is it easiest to stay on a first visit?"
+ },
+ "T087": {
+  "ctx": "div.faq > details > p",
+  "en": "If you mainly want to explore the town, in the old town or near Little Venice. If you plan lots of regional trips, near the station. If you're driving, choose a hotel with its own parking."
+ },
+ "T088": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where should I stay without a car?"
+ },
+ "T089": {
+  "ctx": "div.faq > details > p",
+  "en": "In the old town or near the station. The station area is more convenient if you plan regional trips by train and bus."
+ },
+ "T090": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where should I stay with a car?"
+ },
+ "T091": {
+  "ctx": "div.faq > details > p",
+  "en": "On the outskirts with your own parking, for example near the exhibition centre, or at a hotel close to the centre that has its own car park."
+ },
+ "T092": {
+  "ctx": "div.faq > details > summary",
+  "en": "Should I stay in Colmar or in a wine village?"
+ },
+ "T093": {
+  "ctx": "div.faq > details > p",
+  "en": "In Colmar if the town and its museums come first. In a village if the vineyards come first and you have a car. Without a car, Turckheim is especially convenient thanks to its rail link; for other villages, check direct buses to Colmar in advance."
+ },
+ "T094": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is there budget accommodation in Colmar?"
+ },
+ "T095": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes: the Mittelharth youth hostel and Camping de l'Ill on the banks of the Ill."
+ },
+ "T096": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T097": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T098": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/how-to-get-to-colmar/\">How to get to Colmar</a> — by train, plane or car."
+ },
+ "T099": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-parking/\">Parking in Colmar</a> — if you're driving."
+ },
+ "T100": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> — if you're coming in December."
+ },
+ "T101": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T102": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you book"
+ },
+ "T103": {
+  "ctx": "section > div.wrap > p",
+  "en": "First decide what you'll be doing in the mornings: walking the town, catching a train or getting in the car. The answer points to the area. And whichever you choose, the old town is best explored on foot — from your hotel door, from the station or from the car park."
+ },
+ "T104": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T105": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T106": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T107": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T108": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T109": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T110": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T111": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T112": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T113": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T114": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T115": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T116": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T117": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T118": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T119": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T120": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T121": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T122": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T123": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T124": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T125": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T126": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T127": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T128": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T129": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T130": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T131": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T132": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T133": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T134": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Where to Stay in Colmar"
+ },
+ "T135": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Where to Stay in Colmar: Choosing the Right Area for Your Trip"
+ },
+ "T136": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "Old town, Little Venice, the station or a wine village. The area you choose shapes more than the view from your window — it shapes your whole day."
+ },
+ "T137": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T138": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T139": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stays in Colmar"
+ },
+ "T140": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T141": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T142": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T143": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Where to Stay in Colmar: Best Areas and Bases | TouringBee"
+ },
+ "T144": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Which village Christmas markets near Colmar are open on your dates, and how to reach them without a car: the Christmas shuttles, trains and buses."
+ },
+ "T145": {
+  "ctx": "og:title",
+  "en": "Christmas Markets Near Colmar: Which Village and How to Get There"
+ },
+ "T146": {
+  "ctx": "og:description",
+  "en": "Eight village markets around Colmar, each on its own calendar: 2026 dates, the Christmas shuttles, and what stays open after December 20."
+ }
+}

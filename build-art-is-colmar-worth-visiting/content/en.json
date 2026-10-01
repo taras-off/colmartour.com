@@ -1,0 +1,502 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "You can see Colmar's main sights in a couple of hours. The question is what you want to take away from the visit: photos of façades, or a better understanding of what you've seen."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "The town is compact: the old town's best-known buildings are a few minutes' walk from each other, and you can cover them in a morning. That's why Colmar is easy to fit into an Alsace itinerary even for half a day. But if you want not just to see but to understand what you're looking at, some context makes a difference. Our old-town audio guide — 27 stops, about an hour and a half — turns a walk from sight to sight into a walk through the town's history."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > p",
+  "en": "Everything else about the town is in our <a href=\"/\">complete guide to Colmar</a>."
+ },
+ "T010": {
+  "ctx": "section > div.wrap > h3",
+  "en": "At a glance"
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "Time"
+ },
+ "T012": {
+  "ctx": "thead > tr > th",
+  "en": "What you'll see"
+ },
+ "T013": {
+  "ctx": "thead > tr > th",
+  "en": "What you'll miss"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "Half a day"
+ },
+ "T015": {
+  "ctx": "tbody > tr > td",
+  "en": "The old town and Little Venice"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Museums and villages"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "One day"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "The old town, lunch, a museum or a boat trip"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "Villages and the Wine Route"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "A day and a night"
+ },
+ "T021": {
+  "ctx": "tbody > tr > td",
+  "en": "The same, plus the evening and early morning"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Villages and the Wine Route"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "2–3 days"
+ },
+ "T024": {
+  "ctx": "tbody > tr > td",
+  "en": "The town in more depth, museums, villages, the Wine Route"
+ },
+ "T025": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T026": {
+  "ctx": "section > div.wrap > h2",
+  "en": "What Colmar is like in practice"
+ },
+ "T027": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar's historic centre is protected, much of it is pedestrian, and it's often called an open-air museum. The Maison des Têtes, the Maison Pfister, the Koïfhus, St Martin's Church — all within walking distance. For context: the tourist office's official walking trail around town is 6.1 km, about 2 hours 30 minutes, with 40 points of interest. You can see the essentials of the historic centre in less time."
+ },
+ "T028": {
+  "ctx": "section > div.wrap > p",
+  "en": "Around it lies Alsace: the Wine Route, villages, castles. Colmar is a convenient starting point for all of it. So the answer to \"how many days\" doesn't depend on the town alone."
+ },
+ "T029": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Half a day: the highlights"
+ },
+ "T030": {
+  "ctx": "section > div.wrap > p",
+  "en": "Half a day is enough to walk the old town and Little Venice. If you have time left, add a canal boat trip or the little tourist train: a loop takes about 35 minutes."
+ },
+ "T031": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you try to add the Unterlinden Museum to an old-town walk in half a day, you'll have to pick up the pace: its collections span almost 7,000 years of history — from prehistory to 20th-century art, including the Isenheim Altarpiece — and it can easily take up a part of the day on its own. More in our guide to Colmar's museums."
+ },
+ "T032": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "Half a day, with more than just façades"
+ },
+ "T033": {
+  "ctx": "div.product > div.pad > p",
+  "en": "The TouringBee audio guide is a ready-made route through the old town: 27 stops, about an hour and a half, start whenever you like. In that time you'll walk past the old town's main sights and hear the stories behind them."
+ },
+ "T034": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one-off payment, no subscription</small>"
+ },
+ "T035": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Works fully offline once downloaded"
+ },
+ "T036": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows where you are; you start each audio track yourself"
+ },
+ "T037": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish and Russian"
+ },
+ "T038": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T039": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts created by professional writers"
+ },
+ "T040": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 by over 1,000 travellers"
+ },
+ "T041": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T042": {
+  "ctx": "section > div.wrap > h2",
+  "en": "One day: the essentials, unhurried"
+ },
+ "T043": {
+  "ctx": "section > div.wrap > p",
+  "en": "One day is enough to see Colmar's essentials at a relaxed pace. In a day you can combine the old town, lunch and one more thing — a museum, say, or a boat trip. How to put that day together will be covered in our guide to one day in Colmar."
+ },
+ "T044": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you want to add villages or the Wine Route without rushing, plan an extra day."
+ },
+ "T045": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Why stay the night"
+ },
+ "T046": {
+  "ctx": "section > div.wrap > p",
+  "en": "Staying over lets you see Colmar early in the morning and in the evening, outside the busiest daytime hours."
+ },
+ "T047": {
+  "ctx": "section > div.wrap > p",
+  "en": "In December an overnight stay makes particular sense: Colmar at Christmas really comes into its own after dark. For the markets themselves, see <a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a>; for where to stay, see <a href=\"/where-to-stay-in-colmar/\">where to stay in Colmar</a>."
+ },
+ "T048": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Day two: Colmar as a base"
+ },
+ "T049": {
+  "ctx": "section > div.wrap > p",
+  "en": "From day two, Colmar works well as a base for exploring Alsace."
+ },
+ "T050": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Museums.</strong> The Unterlinden Museum, the Bartholdi Museum and others — whatever didn't fit into day one."
+ },
+ "T051": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Villages.</strong> Eguisheim, Riquewihr, Kaysersberg, Turckheim — each with its own character."
+ },
+ "T052": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>The Wine Route.</strong> The Wine Route and the vineyards start right on Colmar's doorstep."
+ },
+ "T053": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Castles and other trips.</strong> Hohlandsbourg above Colmar, Haut-Koenigsbourg, the fortified town of Neuf-Brisach."
+ },
+ "T054": {
+  "ctx": "section > div.wrap > p",
+  "en": "With three days you can combine the town with one or two regional trips without rushing. And for how to get here, see <a href=\"/how-to-get-to-colmar/\">how to get to Colmar</a>."
+ },
+ "T055": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Who will love it — and who won't"
+ },
+ "T056": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>You'll love it</strong> if you enjoy compact historic towns, architecture, Alsatian food and wine, and don't mind walking a lot."
+ },
+ "T057": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>It may disappoint</strong> if you're after a big city with endless things to do. Colmar is small, and during major seasonal events the historic centre can get crowded. If you want a bigger city, compare Colmar with Strasbourg."
+ },
+ "T058": {
+  "ctx": "section > div.wrap > p",
+  "en": "And behind the façades lies the complex Franco-German history of Alsace. More on that in our article on why Colmar looks both French and German."
+ },
+ "T059": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Common mistakes"
+ },
+ "T060": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Trying to see both the old town and the Unterlinden in detail in half a day.</strong> You can combine them, but you'll have to speed up; for an unhurried visit, allow a full day."
+ },
+ "T061": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Trying to see Colmar and several wine villages in one unhurried day.</strong> If you want to add the region, plan an extra day."
+ },
+ "T062": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Driving into the centre.</strong> The old town is largely pedestrian. Where to leave the car: see <a href=\"/colmar-parking/\">parking in Colmar</a>."
+ },
+ "T063": {
+  "ctx": "section > div.wrap > h2",
+  "en": "FAQ"
+ },
+ "T064": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is Colmar worth visiting?"
+ },
+ "T065": {
+  "ctx": "div.faq > details > p",
+  "en": "Colmar suits people who enjoy compact historic towns, Alsatian architecture, food and wine. If you're after a big city with a wider range of things to do, Colmar may feel too compact — compare it with Strasbourg."
+ },
+ "T066": {
+  "ctx": "div.faq > details > summary",
+  "en": "How many days do you need in Colmar?"
+ },
+ "T067": {
+  "ctx": "div.faq > details > p",
+  "en": "Allow one day for the town's essentials. An overnight stay adds the evening and early morning; two or three days make sense if you want to add museums, villages and the Wine Route."
+ },
+ "T068": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can you see Colmar in half a day?"
+ },
+ "T069": {
+  "ctx": "div.faq > details > p",
+  "en": "The old town and Little Venice, yes. There won't be much time left for museums."
+ },
+ "T070": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can you do Colmar as a day trip from Strasbourg?"
+ },
+ "T071": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes: Colmar has direct trains to and from Strasbourg. More in <a href=\"/how-to-get-to-colmar/\">how to get to Colmar</a>."
+ },
+ "T072": {
+  "ctx": "div.faq > details > summary",
+  "en": "Colmar or Strasbourg?"
+ },
+ "T073": {
+  "ctx": "div.faq > details > p",
+  "en": "It depends on what you're looking for. We'll compare the two in a separate article."
+ },
+ "T074": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T075": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T076": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/best-time-to-visit-colmar/\">Best time to visit Colmar</a> — what the town is like each season."
+ },
+ "T077": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/how-to-get-to-colmar/\">How to get to Colmar</a> — by train, plane or car."
+ },
+ "T078": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/where-to-stay-in-colmar/\">Where to stay in Colmar</a> — if you decide to stay the night."
+ },
+ "T079": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-parking/\">Parking in Colmar</a> — if you're driving."
+ },
+ "T080": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T081": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The bottom line"
+ },
+ "T082": {
+  "ctx": "section > div.wrap > p",
+  "en": "Half a day to see Colmar. A day to understand it. A night to see it early in the morning and again in the evening. And two or three days to see Alsace beyond it."
+ },
+ "T083": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T084": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T085": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T086": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T087": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T088": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T089": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T090": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T091": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T092": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T093": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T094": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T095": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T096": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T097": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T098": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T099": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T100": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T101": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T102": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T103": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T104": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T105": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T106": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T107": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T108": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T109": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T110": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T111": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T112": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T113": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Is Colmar Worth Visiting? How Many Days"
+ },
+ "T114": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Is Colmar Worth Visiting, and How Many Days Do You Need?"
+ },
+ "T115": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "Half a day, a day, a night or several days. What each option gives you — and who Colmar suits."
+ },
+ "T116": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T117": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T118": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stays in Colmar"
+ },
+ "T119": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T120": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T121": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T122": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Is Colmar Worth Visiting? How Many Days | TouringBee"
+ },
+ "T123": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Which village Christmas markets near Colmar are open on your dates, and how to reach them without a car: the Christmas shuttles, trains and buses."
+ },
+ "T124": {
+  "ctx": "og:title",
+  "en": "Christmas Markets Near Colmar: Which Village and How to Get There"
+ },
+ "T125": {
+  "ctx": "og:description",
+  "en": "Eight village markets around Colmar, each on its own calendar: 2026 dates, the Christmas shuttles, and what stays open after December 20."
+ }
+}
