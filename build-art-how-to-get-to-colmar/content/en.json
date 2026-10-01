@@ -1,0 +1,582 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "The train is the natural way to reach Colmar. The town sits on the Strasbourg–Basel line, has direct TGVs from Paris, and even from the nearest airports the easiest public-transport route runs by rail, with a single change. You don't need a car for Colmar itself. It becomes useful once you start exploring the surrounding area: wine villages, vineyards, castles."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar isn't fond of cars anyway. The old town is largely pedestrian, and from the station you simply walk in. That's where the visit really begins. If you want that walk to be about more than pretty façades, our audio guide to the old town gives you a ready-made route: 27 stops, about an hour and a half, no group and no meeting point."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > p",
+  "en": "Everything else about the town is in our <a href=\"/\">complete guide to Colmar</a>."
+ },
+ "T010": {
+  "ctx": "section > div.wrap > h2",
+  "en": "At a glance"
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "From"
+ },
+ "T012": {
+  "ctx": "thead > tr > th",
+  "en": "How"
+ },
+ "T013": {
+  "ctx": "thead > tr > th",
+  "en": "Journey"
+ },
+ "T014": {
+  "ctx": "thead > tr > th",
+  "en": "Changes"
+ },
+ "T015": {
+  "ctx": "tbody > tr > td",
+  "en": "Strasbourg"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "TER or TGV train"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "About 30 minutes, from €6"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "Direct trains from early morning to late evening"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "Paris"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "TGV from Gare de l'Est"
+ },
+ "T021": {
+  "ctx": "tbody > tr > td",
+  "en": "About 2.5 hours"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Direct trains available; some services change in Strasbourg"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "Basel"
+ },
+ "T024": {
+  "ctx": "tbody > tr > td",
+  "en": "TER train"
+ },
+ "T025": {
+  "ctx": "tbody > tr > td",
+  "en": "About 45 minutes"
+ },
+ "T026": {
+  "ctx": "tbody > tr > td",
+  "en": "Direct"
+ },
+ "T027": {
+  "ctx": "tbody > tr > td",
+  "en": "Basel-Mulhouse airport (EuroAirport)"
+ },
+ "T028": {
+  "ctx": "tbody > tr > td",
+  "en": "Bus 11 to Saint-Louis, then train"
+ },
+ "T029": {
+  "ctx": "tbody > tr > td",
+  "en": "Bus 11, then a direct TER"
+ },
+ "T030": {
+  "ctx": "tbody > tr > td",
+  "en": "One"
+ },
+ "T031": {
+  "ctx": "tbody > tr > td",
+  "en": "Strasbourg airport"
+ },
+ "T032": {
+  "ctx": "tbody > tr > td",
+  "en": "Train to Strasbourg station, then train"
+ },
+ "T033": {
+  "ctx": "tbody > tr > td",
+  "en": "Shuttle train to the station, then as from Strasbourg"
+ },
+ "T034": {
+  "ctx": "tbody > tr > td",
+  "en": "One"
+ },
+ "T035": {
+  "ctx": "tbody > tr > td",
+  "en": "By car"
+ },
+ "T036": {
+  "ctx": "tbody > tr > td",
+  "en": "A35 motorway"
+ },
+ "T037": {
+  "ctx": "tbody > tr > td",
+  "en": "Depends on where you start"
+ },
+ "T038": {
+  "ctx": "tbody > tr > td",
+  "en": "—"
+ },
+ "T039": {
+  "ctx": "section > div.wrap > h2",
+  "en": "By train"
+ },
+ "T040": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar station sits on Alsace's main railway line. That makes the town easy to reach from several directions."
+ },
+ "T041": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>From Strasbourg.</strong> The easy one. Regional TER trains run from early morning to late evening, and some TGVs stop in Colmar too. On a journey this short you'll barely notice the difference: just take whichever suits your timing."
+ },
+ "T042": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>From Paris.</strong> Trains leave from Gare de l'Est. There are direct TGVs to Colmar; many other options involve a change in Strasbourg. It's worth looking for a direct one — the journey is easier without a change, especially with luggage."
+ },
+ "T043": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>From Basel.</strong> Direct TER trains run from Basel SBB via Mulhouse. Handy if you've flown into Basel or are coming from Switzerland."
+ },
+ "T044": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>From Lyon</strong> there are TGVs on the Rhine–Rhône line, including some direct services; the fastest take just over three hours."
+ },
+ "T045": {
+  "ctx": "div.wrap > p > a.btn",
+  "en": "Timetables and tickets — SNCF"
+ },
+ "T046": {
+  "ctx": "section > div.wrap > h2",
+  "en": "By plane"
+ },
+ "T047": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar-Houssen airport has no scheduled passenger flights. The two practical airports for a trip to Colmar are EuroAirport and Strasbourg-Entzheim."
+ },
+ "T048": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Basel-Mulhouse-Freiburg (EuroAirport).</strong> The key thing to know: there's no train station at the airport."
+ },
+ "T049": {
+  "ctx": "div.wrap > ul > li",
+  "en": "Take bus 11 to Saint-Louis station. Buy your ticket from the driver or by SMS."
+ },
+ "T050": {
+  "ctx": "div.wrap > ul > li",
+  "en": "At Saint-Louis, change to a direct train to Colmar."
+ },
+ "T051": {
+  "ctx": "div.wrap > ul > li",
+  "en": "Alternatively, bus 50 runs to Basel SBB station, with trains to Colmar from there (see above)."
+ },
+ "T052": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Strasbourg-Entzheim.</strong> A shuttle train runs from the airport to Strasbourg station — up to five an hour, about eight minutes. A covered walkway takes you to the platform. At Strasbourg station, change for Colmar."
+ },
+ "T053": {
+  "ctx": "section > div.wrap > h2",
+  "en": "By car"
+ },
+ "T054": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar lies just off the A35, which runs north–south through Alsace. Getting here is easy. The trouble starts in town: the centre is largely pedestrian, and during the Christmas markets cars are kept out of the centre while the markets are open."
+ },
+ "T055": {
+  "ctx": "section > div.wrap > p",
+  "en": "Where to leave the car, what it costs and what changes in December — see our guide to <a href=\"/colmar-parking/\">parking in Colmar</a>."
+ },
+ "T056": {
+  "ctx": "section > div.wrap > h2",
+  "en": "From the station to the old town"
+ },
+ "T057": {
+  "ctx": "section > div.wrap > p",
+  "en": "The station is on the western edge of the centre. The old town is roughly a 15-minute walk away."
+ },
+ "T058": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you'd rather not walk, there's the free electric Cœur de Ville shuttle. It runs every 20 minutes, Monday to Saturday, 9am to 7pm, and stops at the station; no ticket needed."
+ },
+ "T059": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Luggage.</strong> If you're here for the day and don't want to drag your bags around, there are left-luggage options in town. Closest to the station is Vélodocteurs, 9 place de la Gare, which also rents bikes. The other two are La Conciergerie (10 rue de la Porte Neuve) and the Locker Center self-service lockers (8 rue de la Grenouillère)."
+ },
+ "T060": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "You've arrived — now walk"
+ },
+ "T061": {
+  "ctx": "div.product > div.pad > p",
+  "en": "Colmar is compact, and it's best seen on foot. The TouringBee audio guide is a ready-made route through the old town: 27 stops, about an hour and a half, start whenever you like. Step off the train, drop your bag and head straight out on the route — a perfectly good plan for arrival day."
+ },
+ "T062": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one-off payment, no subscription</small>"
+ },
+ "T063": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Works fully offline once downloaded"
+ },
+ "T064": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows where you are; you start each audio track yourself"
+ },
+ "T065": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish and Russian"
+ },
+ "T066": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T067": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts created by professional writers"
+ },
+ "T068": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 by over 1,000 travellers"
+ },
+ "T069": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T070": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Do you need a car once you're here?"
+ },
+ "T071": {
+  "ctx": "section > div.wrap > p",
+  "en": "Not for Colmar itself. The old town's main sights are easy to cover on foot, and parking there is more hassle than it's worth."
+ },
+ "T072": {
+  "ctx": "section > div.wrap > p",
+  "en": "The surrounding area is another matter. Some villages are reachable by train or bus, and in December there are Christmas shuttles. But visiting several wine villages in a single day is harder without a car. More on that here:"
+ },
+ "T073": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/christmas-markets-near-colmar/\">Christmas markets in the villages</a>;"
+ },
+ "T074": {
+  "ctx": "div.wrap > ul > li",
+  "en": "villages near Colmar;"
+ },
+ "T075": {
+  "ctx": "div.wrap > ul > li",
+  "en": "the Alsace Wine Route."
+ },
+ "T076": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Common mistakes"
+ },
+ "T077": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Looking for a train at Basel airport.</strong> There isn't a station. Take a bus first: 11 to Saint-Louis or 50 to Basel."
+ },
+ "T078": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Heading to the wrong Paris station.</strong> Trains to Colmar leave from Gare de l'Est."
+ },
+ "T079": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Driving into the old town.</strong> The centre is largely pedestrian, and during the Christmas markets cars are kept out while the markets are open. Park on the edge of the centre."
+ },
+ "T080": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Dragging a suitcase over cobblestones all day.</strong> There's left-luggage right by the station."
+ },
+ "T081": {
+  "ctx": "section > div.wrap > h2",
+  "en": "FAQ"
+ },
+ "T082": {
+  "ctx": "div.faq > details > summary",
+  "en": "What's the fastest way from Strasbourg to Colmar?"
+ },
+ "T083": {
+  "ctx": "div.faq > details > p",
+  "en": "By train: direct services run from early morning to late evening. Journey times are in the table above."
+ },
+ "T084": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is there a direct train from Paris?"
+ },
+ "T085": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes, there are direct TGVs from Gare de l'Est to Colmar. Journey times are in the table above."
+ },
+ "T086": {
+  "ctx": "div.faq > details > summary",
+  "en": "Which airports work best for Colmar?"
+ },
+ "T087": {
+  "ctx": "div.faq > details > p",
+  "en": "Two practical options: EuroAirport (Basel-Mulhouse-Freiburg) and Strasbourg-Entzheim. Both involve one change: bus then train from EuroAirport, two trains from Strasbourg."
+ },
+ "T088": {
+  "ctx": "div.faq > details > summary",
+  "en": "How far is the station from the old town?"
+ },
+ "T089": {
+  "ctx": "div.faq > details > p",
+  "en": "About a 15-minute walk. Monday to Saturday there's also a free shuttle around the centre."
+ },
+ "T090": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where can I leave my luggage?"
+ },
+ "T091": {
+  "ctx": "div.faq > details > p",
+  "en": "There are several left-luggage options in town, one by the station."
+ },
+ "T092": {
+  "ctx": "div.faq > details > summary",
+  "en": "Do I need a car in Colmar?"
+ },
+ "T093": {
+  "ctx": "div.faq > details > p",
+  "en": "Not for the town. For the villages and the Wine Route, it depends on your plans."
+ },
+ "T094": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T095": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T096": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-parking/\">Parking in Colmar</a> — if you're driving after all."
+ },
+ "T097": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/where-to-stay-in-colmar/\">Where to stay in Colmar</a> — by the station, in the centre or out of town."
+ },
+ "T098": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> — if you're coming in December."
+ },
+ "T099": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T100": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you set off"
+ },
+ "T101": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar is easy to reach without a car: a direct train from Strasbourg, Paris or Basel, or one change from EuroAirport or Strasbourg airport. Once you're there, the old town is easy to explore on foot. Station, fifteen minutes on foot, and you're in the old town."
+ },
+ "T102": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T103": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T104": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T105": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T106": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T107": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T108": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T109": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T110": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T111": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T112": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T113": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T114": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T115": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T116": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T117": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T118": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T119": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T120": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T121": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T122": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T123": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T124": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T125": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T126": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T127": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T128": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T129": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T130": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T131": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T132": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › How to Get to Colmar"
+ },
+ "T133": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "How to Get to Colmar by Train, Plane and Car"
+ },
+ "T134": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "Colmar sits on the Strasbourg–Basel railway, with direct TGVs from Paris. How to get here, where to fly into, and what to do once you're on the platform."
+ },
+ "T135": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T136": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T137": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Train tickets"
+ },
+ "T138": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Car rental"
+ },
+ "T139": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T140": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T141": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T142": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "How to Get to Colmar: Train, Plane, Car | TouringBee"
+ },
+ "T143": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Which village Christmas markets near Colmar are open on your dates, and how to reach them without a car: the Christmas shuttles, trains and buses."
+ },
+ "T144": {
+  "ctx": "og:title",
+  "en": "Christmas Markets Near Colmar: Which Village and How to Get There"
+ },
+ "T145": {
+  "ctx": "og:description",
+  "en": "Eight village markets around Colmar, each on its own calendar: 2026 dates, the Christmas shuttles, and what stays open after December 20."
+ }
+}

@@ -1,0 +1,594 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "Colmar doesn't shut down for winter. It changes. In spring, Easter chalets appear in the centre; on summer Tuesdays, Alsatian folk groups perform on the square; in autumn the vineyards around town change colour; and in December the town revolves around its Christmas markets. Each season also has its own Alsatian specialities."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "So the question isn't \"when is best\" but \"which version of Colmar do you want\". The old town is there all year round. Our audio guide works in any season: 27 stops, about an hour and a half, start whenever you like. Only the town around you changes."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > p",
+  "en": "Everything else about the town is in our <a href=\"/\">complete guide to Colmar</a>."
+ },
+ "T010": {
+  "ctx": "section > div.wrap > h3",
+  "en": "At a glance"
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "Season"
+ },
+ "T012": {
+  "ctx": "thead > tr > th",
+  "en": "What's on"
+ },
+ "T013": {
+  "ctx": "thead > tr > th",
+  "en": "Best for"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "Spring"
+ },
+ "T015": {
+  "ctx": "tbody > tr > td",
+  "en": "Easter markets and a spring festival, flowers in the centre"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Those who want festivities without the December crush"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "Summer"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "Folk evenings, a classical music festival, the wine fair, long light evenings"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "Lovers of music and street life"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "Autumn"
+ },
+ "T021": {
+  "ctx": "tbody > tr > td",
+  "en": "Vineyards, the Wine Route, wine season, choucroute"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Those coming for wine and the Wine Route"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "Christmas"
+ },
+ "T024": {
+  "ctx": "tbody > tr > td",
+  "en": "Six Christmas markets, lights"
+ },
+ "T025": {
+  "ctx": "tbody > tr > td",
+  "en": "Those coming for the festive season and happy to share it with crowds"
+ },
+ "T026": {
+  "ctx": "tbody > tr > td",
+  "en": "Winter after the holidays"
+ },
+ "T027": {
+  "ctx": "tbody > tr > td",
+  "en": "Carnival pastries, museums, canal boats"
+ },
+ "T028": {
+  "ctx": "tbody > tr > td",
+  "en": "Those coming for the town itself rather than events"
+ },
+ "T029": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Spring: Easter markets and a festive centre"
+ },
+ "T030": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar greets spring with a celebration. Around Easter, two Easter markets open in the centre: colourful chalets with around 70 craftspeople from across the region, flowers throughout the historic centre and a mini-farm right in town. In 2027 they run from 19 March to 11 April."
+ },
+ "T031": {
+  "ctx": "section > div.wrap > p",
+  "en": "Alsace and Moselle have their own calendar of public holidays, and Good Friday is on it. Bear that in mind if you're planning an Easter trip."
+ },
+ "T032": {
+  "ctx": "section > div.wrap > p",
+  "en": "On the table: lamala, a sponge-cake Easter lamb dusted with icing sugar."
+ },
+ "T033": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Summer: Tuesday music and the wine fair"
+ },
+ "T034": {
+  "ctx": "section > div.wrap > p",
+  "en": "Summer brings a packed calendar."
+ },
+ "T035": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Folk evenings.</strong> From June to early September, on Tuesdays at 8pm, Alsatian folk groups perform on the Place de l'Ancienne Douane. Free entry."
+ },
+ "T036": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>International festival.</strong> In early July, Colmar's International Festival brings classical music to St Matthew's Church, the municipal theatre and the Koïfhus. The programme is published on festival-colmar.com."
+ },
+ "T037": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Wine fair.</strong> In late July and early August, the Foire aux Vins d'Alsace is both a fair of local produce and a music festival. Concerts take place in the open-air theatre at the exhibition centre. Dates are on foire-colmar.com."
+ },
+ "T038": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>What else.</strong> From May to September, the Colmar-Houssen leisure lake north of town has a sandy beach and an inflatable water park. On summer Thursdays, Wettolsheim runs vineyard walks with a winemaker and a tasting; book through the tourist office."
+ },
+ "T039": {
+  "ctx": "section > div.wrap > p",
+  "en": "Summer in Alsace means tarte flambée, pretzels and kougelhopf, sweet or savoury."
+ },
+ "T040": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Mind the heat.</strong> July and August are Colmar's hottest months. Plan your old-town walk for the morning or the evening."
+ },
+ "T041": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Autumn: wine season and choucroute"
+ },
+ "T042": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar is known as the capital of Alsace wine, and autumn is when you feel it most. The vineyards around town change colour, and autumn brings a classic pairing: a glass of white Alsace wine and choucroute."
+ },
+ "T043": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you're coming for wine, autumn is the natural choice. Colmar itself makes a convenient starting point for the Wine Route. How to plan that day without driving after tastings is covered in our guide to the Wine Route."
+ },
+ "T044": {
+  "ctx": "section > div.wrap > p",
+  "en": "Late autumn is a transition between the grape harvest and Christmas. Canal boats run all year, on a reduced timetable in winter. The tourist trains run for most of the year, but their schedules change in winter and over the Christmas season. In Turckheim, the night watchman makes his rounds from May to October and over the Christmas period."
+ },
+ "T045": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Christmas: a season of its own"
+ },
+ "T046": {
+  "ctx": "section > div.wrap > p",
+  "en": "From late November to late December, Colmar hosts six Christmas markets, and it becomes a different town: lights, garlands, mulled wine, crowds. It's one of Colmar's main tourist seasons, so expect large numbers of visitors."
+ },
+ "T047": {
+  "ctx": "section > div.wrap > p",
+  "en": "We cover the markets themselves in <a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a>. For ideas on adding nearby villages, see <a href=\"/christmas-markets-near-colmar/\">Christmas markets near Colmar</a>. Choosing between Colmar and Strasbourg? See <a href=\"/colmar-vs-strasbourg-christmas/\">Colmar or Strasbourg for Christmas</a>."
+ },
+ "T048": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Winter after the holidays"
+ },
+ "T049": {
+  "ctx": "section > div.wrap > p",
+  "en": "After Christmas, a visit is less about big seasonal events. The old town is still there, and the canal boats run all year."
+ },
+ "T050": {
+  "ctx": "section > div.wrap > p",
+  "en": "At carnival time, Alsatians make schankalas, little almond doughnuts. For New Year, they bake a sweet brioche."
+ },
+ "T051": {
+  "ctx": "section > div.wrap > p",
+  "en": "Bear in mind: January and February are the coldest months, with frequent overnight frosts."
+ },
+ "T052": {
+  "ctx": "section > div.wrap > h2",
+  "en": "What's the weather like in Colmar in each season?"
+ },
+ "T053": {
+  "ctx": "section > div.wrap > p",
+  "en": "Winters here are cold, with frosty nights. July and August are the warmest months of the year. Spring and early autumn are usually cooler."
+ },
+ "T054": {
+  "ctx": "section > div.wrap > p",
+  "en": "In practice: in summer, plan your old-town walk for the morning or evening. For the Christmas markets, dress for winter and check the forecast before you go. For long walks without the summer heat, April–May and September–October work well."
+ },
+ "T055": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Colmar at the table: what to eat each season"
+ },
+ "T056": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar's official guide calls it \"365 days of flavour\", and every season has its own dishes:"
+ },
+ "T057": {
+  "ctx": "thead > tr > th",
+  "en": "Season"
+ },
+ "T058": {
+  "ctx": "thead > tr > th",
+  "en": "What to try"
+ },
+ "T059": {
+  "ctx": "tbody > tr > td",
+  "en": "Carnival (late winter)"
+ },
+ "T060": {
+  "ctx": "tbody > tr > td",
+  "en": "Schankalas — little almond doughnuts"
+ },
+ "T061": {
+  "ctx": "tbody > tr > td",
+  "en": "Easter"
+ },
+ "T062": {
+  "ctx": "tbody > tr > td",
+  "en": "Lamala — a sponge-cake lamb dusted with icing sugar"
+ },
+ "T063": {
+  "ctx": "tbody > tr > td",
+  "en": "Summer"
+ },
+ "T064": {
+  "ctx": "tbody > tr > td",
+  "en": "Tarte flambée (Flammekueche), pretzel, kougelhopf"
+ },
+ "T065": {
+  "ctx": "tbody > tr > td",
+  "en": "Autumn"
+ },
+ "T066": {
+  "ctx": "tbody > tr > td",
+  "en": "Choucroute with a glass of white Alsace wine"
+ },
+ "T067": {
+  "ctx": "tbody > tr > td",
+  "en": "Christmas"
+ },
+ "T068": {
+  "ctx": "tbody > tr > td",
+  "en": "Mulled wine, white and red; bredele — traditional Christmas biscuits in many varieties"
+ },
+ "T069": {
+  "ctx": "tbody > tr > td",
+  "en": "New Year"
+ },
+ "T070": {
+  "ctx": "tbody > tr > td",
+  "en": "A sweet New Year brioche"
+ },
+ "T071": {
+  "ctx": "section > div.wrap > p",
+  "en": "Where and how to find all this will be covered in our guide to food in Colmar."
+ },
+ "T072": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "A town that works in any season"
+ },
+ "T073": {
+  "ctx": "div.product > div.pad > p",
+  "en": "Events come and go; the old town stays put. The TouringBee audio guide is a ready-made route you can follow in any month: 27 stops, about an hour and a half, start whenever you like. In summer, go in the morning before the heat; in December, fit it in between the markets."
+ },
+ "T074": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one-off payment, no subscription</small>"
+ },
+ "T075": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Works fully offline once downloaded"
+ },
+ "T076": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows where you are; you start each audio track yourself"
+ },
+ "T077": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish and Russian"
+ },
+ "T078": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T079": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts created by professional writers"
+ },
+ "T080": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 by over 1,000 travellers"
+ },
+ "T081": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T082": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Common mistakes"
+ },
+ "T083": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Forgetting about Good Friday.</strong> Alsace and Moselle have their own calendar of public holidays, so over the Easter weekend check opening hours for the places you want to visit in advance."
+ },
+ "T084": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Planning a summer walk for midday.</strong> July and August are the hottest months. The old town is more pleasant in the morning or evening."
+ },
+ "T085": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Going by last year's dates.</strong> Festivals and fairs come round at roughly the same time each year, but exact dates change. Check the events' official websites."
+ },
+ "T086": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Thinking there's nothing to see after Christmas.</strong> The boats run all year, and the historic centre can be explored out of season too."
+ },
+ "T087": {
+  "ctx": "section > div.wrap > h2",
+  "en": "FAQ"
+ },
+ "T088": {
+  "ctx": "div.faq > details > summary",
+  "en": "What's the best month to visit Colmar?"
+ },
+ "T089": {
+  "ctx": "div.faq > details > p",
+  "en": "It depends on what you want. For festivities, December for the markets or spring for Easter. For music, summer. For wine, autumn. For mild walking weather, April–May or September–October."
+ },
+ "T090": {
+  "ctx": "div.faq > details > summary",
+  "en": "When is the wine fair?"
+ },
+ "T091": {
+  "ctx": "div.faq > details > p",
+  "en": "Usually in late July and early August. Exact dates are on foire-colmar.com."
+ },
+ "T092": {
+  "ctx": "div.faq > details > summary",
+  "en": "When are Colmar's Christmas markets?"
+ },
+ "T093": {
+  "ctx": "div.faq > details > p",
+  "en": "From late November to late December. Details in <a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a>."
+ },
+ "T094": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is Colmar worth visiting in winter after the holidays?"
+ },
+ "T095": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes, if you're coming for the town itself rather than for events. Allow for the cold and the short days."
+ },
+ "T096": {
+  "ctx": "div.faq > details > summary",
+  "en": "What's the weather like in Colmar in summer?"
+ },
+ "T097": {
+  "ctx": "div.faq > details > p",
+  "en": "July and August are the warmest months of the year. For long walks, mornings and evenings work best."
+ },
+ "T098": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T099": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T100": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> — if you're coming in December."
+ },
+ "T101": {
+  "ctx": "ul > li > a",
+  "en": "How to get to Colmar"
+ },
+ "T102": {
+  "ctx": "ul > li > a",
+  "en": "Where to stay in Colmar"
+ },
+ "T103": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T104": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you go"
+ },
+ "T105": {
+  "ctx": "section > div.wrap > p",
+  "en": "Don't just pick a month — choose the version of Colmar you want: springtime, musical, wine-focused, festive or quiet. The town shows itself in every season, and the old town is there all year round."
+ },
+ "T106": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T107": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T108": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T109": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T110": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T111": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T112": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T113": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T114": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T115": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T116": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T117": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T118": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T119": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T120": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T121": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T122": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T123": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T124": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T125": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T126": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T127": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T128": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T129": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T130": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T131": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T132": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T133": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T134": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T135": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T136": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Best Time to Visit Colmar"
+ },
+ "T137": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Best Time to Visit Colmar: What the Town Is Like in Each Season"
+ },
+ "T138": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "Easter markets, Tuesday folk evenings, the wine fair, autumn in the vineyards, Christmas. Colmar has no dead season — just a different town in different months."
+ },
+ "T139": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T140": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T141": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stays in Colmar"
+ },
+ "T142": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T143": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T144": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T145": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Best Time to Visit Colmar: Seasons and Events | TouringBee"
+ },
+ "T146": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Which village Christmas markets near Colmar are open on your dates, and how to reach them without a car: the Christmas shuttles, trains and buses."
+ },
+ "T147": {
+  "ctx": "og:title",
+  "en": "Christmas Markets Near Colmar: Which Village and How to Get There"
+ },
+ "T148": {
+  "ctx": "og:description",
+  "en": "Eight village markets around Colmar, each on its own calendar: 2026 dates, the Christmas shuttles, and what stays open after December 20."
+ }
+}

@@ -1,0 +1,786 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "At first glance, Colmar doesn't look very car-friendly. The old town is largely pedestrian, the streets are narrow and there's nowhere to stop by the canals. But the town has a few simple rules, and they're actually fairly convenient for visitors. In all six city car parks, the first hour is free. And street parking is only charged in the daytime, and never on Sundays."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "Once the car is parked, Colmar is a town for walking. That's what our old-town audio guide is for: 27 stops, about an hour and a half, start whenever you like — even straight from the car park."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > p",
+  "en": "Everything else about the town is in our <a href=\"/\">complete guide to Colmar</a>. Arriving by train or plane? See <a href=\"/how-to-get-to-colmar/\">how to get to Colmar</a>."
+ },
+ "T010": {
+  "ctx": "section > div.wrap > h3",
+  "en": "At a glance"
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "What you need"
+ },
+ "T012": {
+  "ctx": "thead > tr > th",
+  "en": "Where to park"
+ },
+ "T013": {
+  "ctx": "tbody > tr > td",
+  "en": "A quick hour"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "Any of the six city car parks: first hour free"
+ },
+ "T015": {
+  "ctx": "tbody > tr > td",
+  "en": "All day"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Lacarre upper levels — free 7am to 1am; Lacarre lower levels, Saint-Josse, Bleylé — €3 for 24 hours"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "Overnight"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "Rapp, Montagne Verte, Saint-Josse, Bleylé — open 24/7 (check special hours in December)"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "December weekends"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "Park & ride at the exhibition centre, free bus into town"
+ },
+ "T021": {
+  "ctx": "tbody > tr > td",
+  "en": "Motorhome, daytime"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Motorhome bays on rue de la Cavalerie"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "Motorhome, overnight"
+ },
+ "T024": {
+  "ctx": "tbody > tr > td",
+  "en": "The marina area"
+ },
+ "T025": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The six city car parks"
+ },
+ "T026": {
+  "ctx": "section > div.wrap > p",
+  "en": "All six give you the first hour free. After that they fall into two groups: some charge by the hour, others charge one flat rate for the whole day. Lacarre takes up two rows in the table because its upper and lower levels have different rates."
+ },
+ "T027": {
+  "ctx": "thead > tr > th",
+  "en": "Car park"
+ },
+ "T028": {
+  "ctx": "thead > tr > th",
+  "en": "Entrance"
+ },
+ "T029": {
+  "ctx": "thead > tr > th",
+  "en": "Spaces"
+ },
+ "T030": {
+  "ctx": "thead > tr > th",
+  "en": "Opening hours"
+ },
+ "T031": {
+  "ctx": "thead > tr > th",
+  "en": "Rate after the first hour"
+ },
+ "T032": {
+  "ctx": "tbody > tr > td",
+  "en": "Mairie (Town Hall)"
+ },
+ "T033": {
+  "ctx": "tbody > tr > td",
+  "en": "rue des Cloches"
+ },
+ "T034": {
+  "ctx": "tbody > tr > td",
+  "en": "367"
+ },
+ "T035": {
+  "ctx": "tbody > tr > td",
+  "en": "Mon–Sat 7am–9pm; special hours in the Christmas season"
+ },
+ "T036": {
+  "ctx": "tbody > tr > td",
+  "en": "€3.60 up to 1h15, then €0.30 per 15 minutes; overnight €28"
+ },
+ "T037": {
+  "ctx": "tbody > tr > td",
+  "en": "Rapp"
+ },
+ "T038": {
+  "ctx": "tbody > tr > td",
+  "en": "boulevard du Champ de Mars"
+ },
+ "T039": {
+  "ctx": "tbody > tr > td",
+  "en": "900"
+ },
+ "T040": {
+  "ctx": "tbody > tr > td",
+  "en": "24/7"
+ },
+ "T041": {
+  "ctx": "tbody > tr > td",
+  "en": "Daytime (7am–7pm) €3.60 up to 1h15, then €0.30 per 15 minutes; evening and night (7pm–7am) €1.00 up to 1h15, then €0.20 per 15 minutes"
+ },
+ "T042": {
+  "ctx": "tbody > tr > td",
+  "en": "Montagne Verte"
+ },
+ "T043": {
+  "ctx": "tbody > tr > td",
+  "en": "rue Schwendi"
+ },
+ "T044": {
+  "ctx": "tbody > tr > td",
+  "en": "690"
+ },
+ "T045": {
+  "ctx": "tbody > tr > td",
+  "en": "24/7"
+ },
+ "T046": {
+  "ctx": "tbody > tr > td",
+  "en": "Same as Rapp"
+ },
+ "T047": {
+  "ctx": "tbody > tr > td",
+  "en": "Lacarre, upper levels"
+ },
+ "T048": {
+  "ctx": "tbody > tr > td",
+  "en": "rue du quartier Lacarre"
+ },
+ "T049": {
+  "ctx": "tbody > tr > td",
+  "en": "387"
+ },
+ "T050": {
+  "ctx": "tbody > tr > td",
+  "en": "Mon–Sat 7am–1am, Sun and holidays 1pm–8pm"
+ },
+ "T051": {
+  "ctx": "tbody > tr > td",
+  "en": "Free 7am–1am; overnight €3"
+ },
+ "T052": {
+  "ctx": "tbody > tr > td",
+  "en": "Lacarre, lower levels"
+ },
+ "T053": {
+  "ctx": "tbody > tr > td",
+  "en": "same"
+ },
+ "T054": {
+  "ctx": "tbody > tr > td",
+  "en": "298"
+ },
+ "T055": {
+  "ctx": "tbody > tr > td",
+  "en": "Same as upper levels"
+ },
+ "T056": {
+  "ctx": "tbody > tr > td",
+  "en": "€3 for 24 hours"
+ },
+ "T057": {
+  "ctx": "tbody > tr > td",
+  "en": "Saint-Josse"
+ },
+ "T058": {
+  "ctx": "tbody > tr > td",
+  "en": "rue Saint-Josse"
+ },
+ "T059": {
+  "ctx": "tbody > tr > td",
+  "en": "487"
+ },
+ "T060": {
+  "ctx": "tbody > tr > td",
+  "en": "24/7"
+ },
+ "T061": {
+  "ctx": "tbody > tr > td",
+  "en": "€3 for 24 hours"
+ },
+ "T062": {
+  "ctx": "tbody > tr > td",
+  "en": "Station / Bleylé"
+ },
+ "T063": {
+  "ctx": "tbody > tr > td",
+  "en": "place de la Gare"
+ },
+ "T064": {
+  "ctx": "tbody > tr > td",
+  "en": "803"
+ },
+ "T065": {
+  "ctx": "tbody > tr > td",
+  "en": "24/7"
+ },
+ "T066": {
+  "ctx": "tbody > tr > td",
+  "en": "€3 for 24 hours"
+ },
+ "T067": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>How to choose.</strong> For a short stop, pick whichever is closest to where you're going. For a full day, Lacarre's upper levels are the best deal: free from 7am to 1am. Lacarre's lower levels, Saint-Josse and Bleylé by the station charge €3 for 24 hours. If you'll be back late, use a 24-hour car park: Rapp, Montagne Verte, Saint-Josse or Bleylé. In the Christmas season some car parks have special opening hours, so check them before a late return."
+ },
+ "T068": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>About the Mairie car park.</strong> It's the closest to the tourist office, but normally it only opens Monday to Saturday, 7am to 9pm; the Christmas season brings separate Sunday and holiday hours. It closes at 9pm, so for a late return choose a 24-hour car park instead."
+ },
+ "T069": {
+  "ctx": "section > div.wrap > h2",
+  "en": "On-street parking"
+ },
+ "T070": {
+  "ctx": "section > div.wrap > p",
+  "en": "Street parking is charged from 9am to 12pm and 2pm to 7pm, except Sundays and public holidays. Lunchtime, evenings, nights and Sundays are free."
+ },
+ "T071": {
+  "ctx": "section > div.wrap > p",
+  "en": "There are two paid zones, orange and green; orange is the pricier one."
+ },
+ "T072": {
+  "ctx": "thead > tr > th",
+  "en": "Duration"
+ },
+ "T073": {
+  "ctx": "thead > tr > th",
+  "en": "Orange zone"
+ },
+ "T074": {
+  "ctx": "thead > tr > th",
+  "en": "Green zone"
+ },
+ "T075": {
+  "ctx": "tbody > tr > td",
+  "en": "1 hour"
+ },
+ "T076": {
+  "ctx": "tbody > tr > td",
+  "en": "€2.00"
+ },
+ "T077": {
+  "ctx": "tbody > tr > td",
+  "en": "€1.50"
+ },
+ "T078": {
+  "ctx": "tbody > tr > td",
+  "en": "2 hours"
+ },
+ "T079": {
+  "ctx": "tbody > tr > td",
+  "en": "€4.00"
+ },
+ "T080": {
+  "ctx": "tbody > tr > td",
+  "en": "€3.00"
+ },
+ "T081": {
+  "ctx": "tbody > tr > td",
+  "en": "3 hours"
+ },
+ "T082": {
+  "ctx": "tbody > tr > td",
+  "en": "€6.30"
+ },
+ "T083": {
+  "ctx": "tbody > tr > td",
+  "en": "€4.50"
+ },
+ "T084": {
+  "ctx": "tbody > tr > td",
+  "en": "4 hours"
+ },
+ "T085": {
+  "ctx": "tbody > tr > td",
+  "en": "€9.00"
+ },
+ "T086": {
+  "ctx": "tbody > tr > td",
+  "en": "€6.00"
+ },
+ "T087": {
+  "ctx": "tbody > tr > td",
+  "en": "5 hours"
+ },
+ "T088": {
+  "ctx": "tbody > tr > td",
+  "en": "€12.30"
+ },
+ "T089": {
+  "ctx": "tbody > tr > td",
+  "en": "€7.50"
+ },
+ "T090": {
+  "ctx": "tbody > tr > td",
+  "en": "6 hours"
+ },
+ "T091": {
+  "ctx": "tbody > tr > td",
+  "en": "€16.10"
+ },
+ "T092": {
+  "ctx": "tbody > tr > td",
+  "en": "€9.00"
+ },
+ "T093": {
+  "ctx": "tbody > tr > td",
+  "en": "7 hours"
+ },
+ "T094": {
+  "ctx": "tbody > tr > td",
+  "en": "€20.40"
+ },
+ "T095": {
+  "ctx": "tbody > tr > td",
+  "en": "€10.50"
+ },
+ "T096": {
+  "ctx": "tbody > tr > td",
+  "en": "7 hours 45 minutes"
+ },
+ "T097": {
+  "ctx": "tbody > tr > td",
+  "en": "€25.40"
+ },
+ "T098": {
+  "ctx": "tbody > tr > td",
+  "en": "€12.00"
+ },
+ "T099": {
+  "ctx": "tbody > tr > td",
+  "en": "8 hours"
+ },
+ "T100": {
+  "ctx": "tbody > tr > td",
+  "en": "€35.00"
+ },
+ "T101": {
+  "ctx": "tbody > tr > td",
+  "en": "€35.00"
+ },
+ "T102": {
+  "ctx": "section > div.wrap > p",
+  "en": "Watch the last row: in the eighth hour the price jumps to €35 in both zones. Street parking works best for short stops. For a full day, a car park with a daily rate is usually the more practical choice."
+ },
+ "T103": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>How to pay.</strong> At the meter or with the PayByPhone, EasyPark or Flowbird apps."
+ },
+ "T104": {
+  "ctx": "section > div.wrap > h2",
+  "en": "In December"
+ },
+ "T105": {
+  "ctx": "section > div.wrap > p",
+  "en": "From 23 November to 29 December 2026, cars are kept out of the centre while the Christmas markets are open: Monday to Thursday 11am–7pm, Friday to Sunday 10am–8pm. Even if you're staying in the old town, you won't be able to drive to your accommodation during market hours. Some car parks also switch to special hours — Saint-Josse, for instance, is no longer open around the clock. To avoid driving into the centre at all, there are two easier alternatives."
+ },
+ "T106": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Weekdays — from the station.</strong> Park at Bleylé by the station. A free shuttle runs from there to the Théâtre roughly every 13 minutes, Monday to Friday, 9.30am to 7.30pm. It runs from 25 November to 29 December; on 24 December until 6pm, with no service from 25 to 28 December."
+ },
+ "T107": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Weekends — from the exhibition centre.</strong> In 2026 the park & ride at the Parc des Expositions operates on 28–29 November and 5–6, 12–13 and 19–20 December. Parking costs €3 a day, and a free bus to rue Saint-Éloi in the centre runs mostly every 10 minutes."
+ },
+ "T108": {
+  "ctx": "section > div.wrap > p",
+  "en": "How the markets themselves work, and when they're quieter, is covered in our guide to the <a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a>."
+ },
+ "T109": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Travelling by motorhome"
+ },
+ "T110": {
+  "ctx": "section > div.wrap > p",
+  "en": "For daytime parking there are dedicated motorhome bays on rue de la Cavalerie, about a 5-minute walk away, at the normal street rate and with the same free hours. There's another set on rue Henry Wilhelm, about 8 minutes on foot. Overnight, head to the marina (Port de Plaisance), 6 rue du Canal, about 1 km and a 20-minute walk from the centre. There are two options there:"
+ },
+ "T111": {
+  "ctx": "div.wrap > ul > li",
+  "en": "OnlyPark — an automated area: open all year, 24/7, no booking needed."
+ },
+ "T112": {
+  "ctx": "div.wrap > ul > li",
+  "en": "Pitches inside the marina — by reservation, arrivals between 2pm and 6pm; water, waste disposal, toilets and electricity included."
+ },
+ "T113": {
+  "ctx": "div.wrap > ul > li",
+  "en": "Full details are on the marina's official website."
+ },
+ "T114": {
+  "ctx": "section > div.wrap > p",
+  "en": "Two more options near town:"
+ },
+ "T115": {
+  "ctx": "div.wrap > ul > li",
+  "en": "Camping de l'Ill in Horbourg-Wihr, 2 km from the centre, with motorhome pitches. A cycle path and bus take you into town. Open from late March to early January."
+ },
+ "T116": {
+  "ctx": "div.wrap > ul > li",
+  "en": "The motorhome area in Turckheim next to Camping Le Médiéval. A footbridge takes you into the village centre in about 10 minutes, and trains run from Turckheim to Colmar."
+ },
+ "T117": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Do you need a car in Colmar itself?"
+ },
+ "T118": {
+  "ctx": "section > div.wrap > p",
+  "en": "No. The centre is compact and largely pedestrian, and its main sights are easy to reach on foot. A car is most useful for trips into the surrounding area: wine villages, vineyards and castles. More on that in our guides to villages near Colmar and the Wine Route."
+ },
+ "T119": {
+  "ctx": "section > div.wrap > p",
+  "en": "So the plan is simple: drive in, park, then walk."
+ },
+ "T120": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "Car parked — the town is yours"
+ },
+ "T121": {
+  "ctx": "div.product > div.pad > p",
+  "en": "With the car parked, Colmar is best explored on foot, at your own pace. The TouringBee audio guide is a ready-made route through the old town: 27 stops, about an hour and a half, no group and no meeting point. Start whenever you like, even straight from the car park."
+ },
+ "T122": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one-off payment, no subscription</small>"
+ },
+ "T123": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Works fully offline once downloaded"
+ },
+ "T124": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows where you are; you start each audio track yourself"
+ },
+ "T125": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish and Russian"
+ },
+ "T126": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T127": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts created by professional writers"
+ },
+ "T128": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 by over 1,000 travellers"
+ },
+ "T129": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T130": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Common mistakes"
+ },
+ "T131": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Driving to Little Venice.</strong> The centre is largely pedestrian. Park on its edge and walk from there."
+ },
+ "T132": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Leaving the car on the street all day.</strong> In the eighth hour the rate jumps to €35 in both zones. For a full day there are city car parks with a flat daily rate."
+ },
+ "T133": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Using the Mairie car park for the evening.</strong> It closes at 9pm; for a late return, pick a 24-hour car park."
+ },
+ "T134": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Heading into the centre on a December Saturday without a plan.</strong> During market hours cars can't get in. At weekends the park & ride with its bus is the easier option."
+ },
+ "T135": {
+  "ctx": "section > div.wrap > h2",
+  "en": "FAQ"
+ },
+ "T136": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is there free parking in Colmar?"
+ },
+ "T137": {
+  "ctx": "div.faq > details > p",
+  "en": "All six city car parks give you the first hour free, and Lacarre's upper levels are free during the day. On the street you don't pay at lunchtime (12pm–2pm), after 7pm or on Sundays."
+ },
+ "T138": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where can I leave my car all day?"
+ },
+ "T139": {
+  "ctx": "div.faq > details > p",
+  "en": "Cheapest is Lacarre's upper levels: free from 7am to 1am. Lacarre's lower levels, Saint-Josse and Bleylé by the station charge one flat rate for 24 hours."
+ },
+ "T140": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can I drive into the old town?"
+ },
+ "T141": {
+  "ctx": "div.faq > details > p",
+  "en": "The centre is largely pedestrian, and in the Christmas season cars are kept out during market hours. It's best to park on the edge of the centre."
+ },
+ "T142": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where should I park in Colmar in December?"
+ },
+ "T143": {
+  "ctx": "div.faq > details > p",
+  "en": "On weekdays, at Bleylé by the station, with a free shuttle into the centre. At weekends, at the park & ride by the exhibition centre, with a free bus."
+ },
+ "T144": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where can I park a motorhome?"
+ },
+ "T145": {
+  "ctx": "div.faq > details > p",
+  "en": "During the day, in the dedicated bays on rue de la Cavalerie. Overnight, at the marina, 6 rue du Canal, about a 20-minute walk from the centre."
+ },
+ "T146": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T147": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T148": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/how-to-get-to-colmar/\">How to get to Colmar</a> — by train, plane or car."
+ },
+ "T149": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/where-to-stay-in-colmar/\">Where to stay in Colmar</a> — including places with parking."
+ },
+ "T150": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> — if you're coming in December."
+ },
+ "T151": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T152": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you go"
+ },
+ "T153": {
+  "ctx": "section > div.wrap > p",
+  "en": "Driving to Colmar is easier than it looks. The first hour in city car parks is free, there are flat-rate car parks for the day, and in December the town sets up special parking options. Just don't try to drive into the old town: the old town is best explored on foot."
+ },
+ "T154": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T155": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T156": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T157": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T158": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T159": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T160": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T161": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T162": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T163": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T164": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T165": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T166": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T167": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T168": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T169": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T170": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T171": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T172": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T173": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T174": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T175": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T176": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T177": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T178": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T179": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T180": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T181": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T182": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T183": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T184": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Parking in Colmar"
+ },
+ "T185": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Parking in Colmar: Where to Leave Your Car for an Hour, a Day or the Night"
+ },
+ "T186": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "All six city car parks give you the first hour free, and on-street parking costs nothing at lunchtime or in the evening. Here's where to park and what changes in December."
+ },
+ "T187": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T188": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T189": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stays with parking"
+ },
+ "T190": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T191": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T192": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T193": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Parking in Colmar: Where to Leave Your Car | TouringBee"
+ },
+ "T194": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Which village Christmas markets near Colmar are open on your dates, and how to reach them without a car: the Christmas shuttles, trains and buses."
+ },
+ "T195": {
+  "ctx": "og:title",
+  "en": "Christmas Markets Near Colmar: Which Village and How to Get There"
+ },
+ "T196": {
+  "ctx": "og:description",
+  "en": "Eight village markets around Colmar, each on its own calendar: 2026 dates, the Christmas shuttles, and what stays open after December 20."
+ }
+}
