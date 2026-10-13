@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""October 2026 batch integration. Run from the repo root after the five render_art.py runs.
+"""October 2026 batch integration (articles 4-9). Run from the repo root after the five render_art.py runs.
 Idempotent. Touches ONLY:
   - public/[lang/]guides/index.html  — card grid and ItemList rebuilt: 5 new articles + №3 + №2 + №1
     (№1's card is kept exactly as it is on the page);
@@ -10,7 +10,7 @@ import json, os, re
 from bs4 import BeautifulSoup
 ROOT = os.getcwd(); PUB = os.path.join(ROOT, 'public'); BASE = 'https://colmartour.com'
 ORDER = ['en', 'fr', 'de', 'es', 'it', 'pt', 'pl', 'ru']
-NEW = [('is-colmar-worth-visiting', 'tile-old-town'), ('best-time-to-visit-colmar', 'tile-canal-day'),
+NEW = [('colmar-with-kids', 'tile-canal-day'), ('is-colmar-worth-visiting', 'tile-old-town'), ('best-time-to-visit-colmar', 'tile-canal-day'),
        ('how-to-get-to-colmar', 'tile-rooftops'), ('where-to-stay-in-colmar', 'tile-little-venice'),
        ('colmar-parking', 'tile-winter-street')]
 OLD = [('christmas-markets-near-colmar', 'tile-christmas-market'), ('colmar-vs-strasbourg-christmas', 'tile-little-venice')]

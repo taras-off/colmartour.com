@@ -1,0 +1,458 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "<a href=\"/\">Colmar</a> is small: much of the old town is pedestrian-only, and it's easy to break up a walk with a boat ride, a museum visit, or a break in one of the squares. With kids, it's less about fitting in as much as possible and more about keeping the day at a comfortable pace."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you'd like to do more than wander and actually understand what you're looking at, explore the old town with <a class=\"bokunButton\" data-src=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179?partialView=1\" href=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179\">the TouringBee audio guide</a>. There's no group to keep up with and no fixed schedule: stop for a break or a snack, visit a museum, then continue when you're ready. The guide isn't designed specifically for children — it focuses on the history of the town."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > h2",
+  "en": "How family-friendly is Colmar?"
+ },
+ "T010": {
+  "ctx": "section > div.wrap > p",
+  "en": "Most of Colmar's historic center is pedestrian-only. The main sights are close together, so you rarely have to walk far at a time. Some streets are cobblestone, so pushing a stroller can be awkward in places, and comfortable shoes are a good idea for small children too."
+ },
+ "T011": {
+  "ctx": "section > div.wrap > p",
+  "en": "Both lightweight and full-size strollers are allowed in the Toy Museum. Before boarding a canal boat, you can leave the stroller on the dock. Strollers aren't allowed in the galleries of the Natural History Museum: you can leave yours in the courtyard, and a folded stroller may sometimes be allowed inside and left near the stairs."
+ },
+ "T012": {
+  "ctx": "section > div.wrap > p",
+  "en": "During major seasonal events, especially in December, the center gets crowded. With small children, build in time to rest and don't pack the day too tightly."
+ },
+ "T013": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "At your own pace, no group"
+ },
+ "T014": {
+  "ctx": "div.product > div.pad > p",
+  "en": "The TouringBee audio guide takes you along a self-guided route through the old town. With kids, you can stop anytime for a break or a snack and simply pick up where you left off."
+ },
+ "T015": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one payment, no subscription</small>"
+ },
+ "T016": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "27 stops, about an hour and a half"
+ },
+ "T017": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Fully offline once downloaded"
+ },
+ "T018": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows your location; you start each audio track yourself"
+ },
+ "T019": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish, and Russian"
+ },
+ "T020": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T021": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts prepared by professional authors"
+ },
+ "T022": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 by more than 1,000 travelers"
+ },
+ "T023": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T024": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Things to do in Colmar with kids"
+ },
+ "T025": {
+  "ctx": "thead > tr > th",
+  "en": "Activity"
+ },
+ "T026": {
+  "ctx": "thead > tr > th",
+  "en": "Why go"
+ },
+ "T027": {
+  "ctx": "thead > tr > th",
+  "en": "Good to know"
+ },
+ "T028": {
+  "ctx": "tbody > tr > td",
+  "en": "Toy Museum"
+ },
+ "T029": {
+  "ctx": "tbody > tr > td",
+  "en": "Toys from the 19th century to today, a large model railroad, and a play area"
+ },
+ "T030": {
+  "ctx": "tbody > tr > td",
+  "en": "Strollers allowed; usually closed on Tuesdays"
+ },
+ "T031": {
+  "ctx": "tbody > tr > td",
+  "en": "Natural History Museum"
+ },
+ "T032": {
+  "ctx": "tbody > tr > td",
+  "en": "Animals, minerals, fossils, and ancient Egypt"
+ },
+ "T033": {
+  "ctx": "tbody > tr > td",
+  "en": "Leave the stroller in the courtyard; closed 12:00–14:00 and all day Monday"
+ },
+ "T034": {
+  "ctx": "tbody > tr > td",
+  "en": "Choco-Story"
+ },
+ "T035": {
+  "ctx": "tbody > tr > td",
+  "en": "Interactive chocolate museum"
+ },
+ "T036": {
+  "ctx": "tbody > tr > td",
+  "en": "Workshops for ages 7 and up"
+ },
+ "T037": {
+  "ctx": "tbody > tr > td",
+  "en": "Canal boat"
+ },
+ "T038": {
+  "ctx": "tbody > tr > td",
+  "en": "A 25-minute ride through Little Venice, with views from the water"
+ },
+ "T039": {
+  "ctx": "tbody > tr > td",
+  "en": "Leave the stroller on the dock; boats run seasonally"
+ },
+ "T040": {
+  "ctx": "tbody > tr > td",
+  "en": "Tourist train"
+ },
+ "T041": {
+  "ctx": "tbody > tr > td",
+  "en": "About 35 minutes around town with audio commentary"
+ },
+ "T042": {
+  "ctx": "tbody > tr > td",
+  "en": "The white and green trains have different schedules"
+ },
+ "T043": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Museums for a rainy day"
+ },
+ "T044": {
+  "ctx": "section > div.wrap > p",
+  "en": "The <strong>Toy Museum</strong> (40 rue Vauban) is an easy outing with kids, especially in bad weather. Parents may recognize toys from their own childhood alongside ones familiar to kids today. Beyond the displays, there are oversized board games, arcade machines, and a play area, and during French school breaks the museum offers children's activities and guided tours. For most of the year, it's open from 10:00 to 17:00 and closed on Tuesdays; in July, August, December, and during French school breaks, it's open daily until 18:00. Hours may change on holidays."
+ },
+ "T045": {
+  "ctx": "section > div.wrap > p",
+  "en": "At the <strong>Natural History and Ethnography Museum</strong> in Little Venice, children can see taxidermy specimens, minerals, fossils, and objects from ancient Egypt. The museum closes from 12:00 to 14:00 for lunch and is closed all day on Mondays. Its other opening hours vary by season."
+ },
+ "T046": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Choco-Story</strong> is an interactive chocolate museum: you can explore the exhibition on your own or book a workshop. Workshops are for ages 7 and up; children under 10 must be accompanied by an adult, who also needs a ticket. Sessions are in French and English. Check the museum's opening hours and the workshop schedule before you go."
+ },
+ "T047": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Boat or tourist train?"
+ },
+ "T048": {
+  "ctx": "section > div.wrap > p",
+  "en": "A <strong>boat ride</strong> gives you a different view of Little Venice. The flat-bottomed boats leave from Saint-Pierre Bridge, and the ride lasts about 25 minutes. Boat service is seasonal, so check the schedule before you go. Little Venice is easy to explore with kids on a short outing: you can stroll along the canals, take a boat ride, and stop for a break by the water."
+ },
+ "T049": {
+  "ctx": "section > div.wrap > p",
+  "en": "The <strong>tourist train</strong> is the answer when little legs need a rest: the ride takes about 35 minutes, with audio commentary in several languages along the way. Colmar has two tourist trains, one white and one green, and they have different schedules, so check the schedule for the one you plan to take."
+ },
+ "T050": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Rainy days, summer, and Christmas"
+ },
+ "T051": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>On a rainy day</strong>, finding somewhere indoors isn't enough — you also need to check opening hours. The Toy Museum is usually closed on Tuesdays. The Natural History Museum is closed on Mondays and also closes for lunch from 12:00 to 14:00. The covered market is another option for a snack; it's closed on Mondays and open until 14:00 on Sundays."
+ },
+ "T052": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>In summer</strong>, the Colmar-Houssen water sports center on the northern edge of town opens for the season, with a sandy beach, beach volleyball, paddleboards and catamarans for rent, and an inflatable water park. Because the center's opening depends on the weather, check the dates, conditions, and prices before you go."
+ },
+ "T053": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>At Christmas</strong>, Little Venice hosts the Children's Christmas Market (Marché de Noël des Enfants). If you're planning museum visits during the Christmas season, check holiday closures: the Natural History Museum, for example, is closed from December 25 to 31. In December, it's worth looking up the <a href=\"/colmar-christmas-market/\">Christmas market</a> opening hours in advance and choosing a quieter time."
+ },
+ "T054": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Planning a family day"
+ },
+ "T055": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you only have half a day, a walk plus one extra activity — for example, a boat ride or a museum — is plenty. With a full day, add one more activity — a museum, a boat ride, or the tourist train — and leave time for lunch and breaks."
+ },
+ "T056": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you'd like to go beyond central Colmar, good options for families include Cigoland theme park in Kintzheim, Haut-Koenigsbourg Castle, and Hohlandsbourg Castle in the hills above Colmar. Pick one outing rather than trying to squeeze several into a family day."
+ },
+ "T057": {
+  "ctx": "section > div.wrap > h2",
+  "en": "FAQ"
+ },
+ "T058": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is Colmar easy to get around with a stroller?"
+ },
+ "T059": {
+  "ctx": "div.faq > details > p",
+  "en": "Mostly, yes: most of the historic center is pedestrian-only, though some streets are cobblestone. You can take a stroller into the Toy Museum, but you'll need to leave it on the dock for boat trips, and strollers aren't allowed in the Natural History Museum galleries."
+ },
+ "T060": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is the audio guide suitable for children?"
+ },
+ "T061": {
+  "ctx": "div.faq > details > p",
+  "en": "It isn't designed specifically for children, but with kids, being able to pause whenever you need to and continue later is a real advantage."
+ },
+ "T062": {
+  "ctx": "div.faq > details > summary",
+  "en": "What can you do in Colmar with kids when it rains?"
+ },
+ "T063": {
+  "ctx": "div.faq > details > p",
+  "en": "The Toy Museum, the Natural History Museum, the Choco-Story chocolate museum, or the covered market — just check opening days and hours before you go."
+ },
+ "T064": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T065": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T066": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/where-to-stay-in-colmar/\">Where to stay in Colmar</a> — if you decide to stay the night."
+ },
+ "T067": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/best-time-to-visit-colmar/\">Best time to visit Colmar</a> — what the town is like each season."
+ },
+ "T068": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-christmas-market/\">Colmar Christmas markets</a> — if you're coming in December."
+ },
+ "T069": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T070": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you go"
+ },
+ "T071": {
+  "ctx": "section > div.wrap > p",
+  "en": "Before your trip, check the opening hours of the museum you've chosen and the latest schedule for the boat or tourist train, as these vary by day and season. Keep the day simple: a walk, one or two activities, and plenty of time to rest are usually enough for a good family day in Colmar."
+ },
+ "T072": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T073": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T074": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T075": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T076": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T077": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T078": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T079": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T080": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T081": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T082": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T083": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T084": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T085": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T086": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T087": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T088": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T089": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T090": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T091": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T092": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T093": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T094": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T095": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T096": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T097": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T098": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T099": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T100": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T101": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T102": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Colmar with Kids"
+ },
+ "T103": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Colmar with kids: how to plan a day without the rush"
+ },
+ "T104": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "A toy museum, canal boats, a tourist train, and a beach on the edge of town. How to mix walking and activities so a family day doesn't turn into a marathon."
+ },
+ "T105": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T106": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T107": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stay in Colmar"
+ },
+ "T108": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T109": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T110": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T111": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Colmar with Kids: A Family Day Without the Rush | TouringBee"
+ },
+ "T112": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Toy museum, canal boats, tourist trains, a summer beach, and what to do when it rains. How to plan a day in Colmar with kids at your own pace."
+ },
+ "T113": {
+  "ctx": "og:title",
+  "en": "Colmar with kids: how to plan a day without the rush"
+ },
+ "T114": {
+  "ctx": "og:description",
+  "en": "Toy museum, canal boats, tourist trains, a summer beach, and what to do when it rains. How to plan a day in Colmar with kids at your own pace."
+ }
+}

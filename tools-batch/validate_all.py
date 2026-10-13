@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 _HERE = os.path.dirname(os.path.abspath(__file__)); _ROOT = os.path.dirname(_HERE)
 PUB = os.path.join(_ROOT, 'public')
 ORDER = ['en','fr','de','es','it','pt','pl','ru']
-SLUGS = ['colmar-christmas-market', 'colmar-vs-strasbourg-christmas', 'christmas-markets-near-colmar', 'is-colmar-worth-visiting', 'best-time-to-visit-colmar', 'how-to-get-to-colmar', 'where-to-stay-in-colmar', 'colmar-parking']
+SLUGS = ['colmar-christmas-market', 'colmar-vs-strasbourg-christmas', 'christmas-markets-near-colmar', 'is-colmar-worth-visiting', 'best-time-to-visit-colmar', 'how-to-get-to-colmar', 'where-to-stay-in-colmar', 'colmar-parking', 'colmar-with-kids']
 BASE = 'https://colmartour.com'
 BOK = 'https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179'
 LIVE_TPL = ['/', '/guides/', '/privacy-policy/', '/affiliate-disclosure/'] + [f'/{s}/' for s in SLUGS]
@@ -28,6 +28,8 @@ for l in ORDER[1:]:
     live |= {(f'/{l}{p}' if p != '/' else f'/{l}/') for p in LIVE_TPL}
 live |= {f'/{l}/' for l in ORDER} | {'/'}
 ref_tags = {}
+seen_meta = {}
+BATCH = {'is-colmar-worth-visiting','best-time-to-visit-colmar','how-to-get-to-colmar','where-to-stay-in-colmar','colmar-parking','colmar-with-kids'}
 for lang in ORDER:
     for kind, want, path, url in pages(lang):
         errs = []
@@ -77,6 +79,19 @@ for lang in ORDER:
             if len(t) > 60: errs.append(f'title {len(t)} chars')
             d = s.find('meta', attrs={'name':'description'})['content']
             if len(d) > 160: errs.append(f'meta description {len(d)} chars')
+        if kind.startswith('art:'):
+            # meta of one article must never leak into another (bug found 2026-10-01)
+            ogu = s.find('meta', attrs={'property':'og:url'})
+            if not ogu or ogu['content'] != url: errs.append('og:url != canonical')
+            for nm, attrs in (('description', {'name':'description'}), ('og:title', {'property':'og:title'}),
+                              ('og:description', {'property':'og:description'}), ('title', None)):
+                v = s.find('title').get_text() if attrs is None else (s.find('meta', attrs=attrs) or {}).get('content')
+                key = (lang, nm, v)
+                if key in seen_meta and seen_meta[key] != kind: errs.append(f'{nm} duplicates {seen_meta[key]}')
+                seen_meta.setdefault(key, kind)
+            if kind[4:] in BATCH:
+                if s.find('meta', attrs={'property':'og:title'})['content'] != s.find('h1').get_text(strip=True): errs.append('og:title != h1')
+                if s.find('meta', attrs={'property':'og:description'})['content'] != s.find('meta', attrs={'name':'description'})['content']: errs.append('og:description != description')
         body = s.find('body').get_text(' ')
         if lang == 'en':
             if '9,99' in body: errs.append('comma decimal on EN')

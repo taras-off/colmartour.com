@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Batch build for articles 4-8 (October 2026).
+"""Batch build for articles 4-9 (October 2026). Usage: python3 tools-batch/make_batch.py [slug ...]
 For every slug: md/<lang>.md  ->  build-art-<slug>/{article-<lang>.html, article-en.html, template-art.html,
 content/<lang>.json, render_art.py, extract_art.py, check_units.py}.
 Site chrome (header, footer, sticky, CSS, final CTA, disclosure, byline) is taken from article 3's kit,
@@ -18,6 +18,9 @@ BOKBTN = f'href="{BOK}" data-src="{BOK}?partialView=1"'
 HOTELS = 'https://www.booking.com/searchresults.html?ss=Colmar&amp;aid=1437498'
 CARS = 'https://www.booking.com/cars/index.html?aid=1437498'
 SNCF = 'https://www.sncf-connect.com/'
+# audio guide preview (same files as on the landing page; es/pt/ru use the English intro, as on the landing)
+PREVIEW = 'https://touringbee.com/wp-content/uploads/colmart1_{}_intro.mp3'
+PREVIEW_LANG = {'fr': 'fr', 'de': 'de', 'it': 'it', 'pl': 'pl'}
 # slug -> og/guides image, hero buttons after the audio guide (by order of [BUTTONS: ...] labels 2..n)
 ARTS = {
     'how-to-get-to-colmar':      dict(img='tile-rooftops.webp',      extra=['sncf', 'cars']),
@@ -25,7 +28,25 @@ ARTS = {
     'where-to-stay-in-colmar':   dict(img='tile-little-venice.webp', extra=['hotels']),
     'best-time-to-visit-colmar': dict(img='tile-canal-day.webp',     extra=['hotels']),
     'is-colmar-worth-visiting':  dict(img='tile-old-town.webp',      extra=['hotels']),
+    'colmar-with-kids':          dict(img='tile-canal-day.webp',     extra=['hotels'], date='2026-10-13'),
 }
+# links to articles that are not published yet: rendered as plain text (no href) until the target page exists.
+# When an article goes live, remove its path here and rebuild the articles that link to it.
+PENDING = {'/petite-venise-colmar/', '/one-day-in-colmar/'}
+# "Continue exploring" block: not part of the authored text, inserted at build time before the closing H2.
+RM_HEAD = {'en': 'Continue exploring', 'fr': 'Pour aller plus loin', 'de': 'Weiterlesen', 'es': 'Sigue leyendo',
+           'it': 'Continua a leggere', 'pt': 'Continue a ler', 'pl': 'Czytaj dalej', 'ru': 'Читать дальше'}
+RM_ITEMS = {
+ 'en': ['[Complete guide to Colmar](/) — everything to know before you go.', '[Where to stay in Colmar](/where-to-stay-in-colmar/) — if you decide to stay the night.', '[Best time to visit Colmar](/best-time-to-visit-colmar/) — what the town is like each season.', "[Colmar Christmas markets](/colmar-christmas-market/) — if you're coming in December.", '[All guides](/guides/)'],
+ 'fr': ['[Guide complet de Colmar](/) — tout savoir avant de partir.', '[Où dormir à Colmar](/where-to-stay-in-colmar/) — si vous décidez de rester la nuit.', '[Quand partir à Colmar](/best-time-to-visit-colmar/) — la ville à chaque saison.', '[Marchés de Noël de Colmar](/colmar-christmas-market/) — si vous venez en décembre.', '[Tous les guides](/guides/)'],
+ 'de': ['[Großer Colmar-Reiseführer](/) — alles Wichtige vor der Reise.', '[Übernachten in Colmar](/where-to-stay-in-colmar/) — wenn Sie über Nacht bleiben.', '[Beste Reisezeit für Colmar](/best-time-to-visit-colmar/) — die Stadt in jeder Jahreszeit.', '[Weihnachtsmärkte in Colmar](/colmar-christmas-market/) — wenn Sie im Dezember kommen.', '[Alle Reiseführer](/guides/)'],
+ 'es': ['[Guía completa de Colmar](/) — todo lo que conviene saber antes del viaje.', '[Dónde alojarse en Colmar](/where-to-stay-in-colmar/) — si decides quedarte a dormir.', '[Mejor época para visitar Colmar](/best-time-to-visit-colmar/) — la ciudad en cada estación.', '[Mercados de Navidad de Colmar](/colmar-christmas-market/) — si vas en diciembre.', '[Todas las guías](/guides/)'],
+ 'it': ['[Guida completa di Colmar](/) — tutto quello che serve sapere prima del viaggio.', '[Dove dormire a Colmar](/where-to-stay-in-colmar/) — se decidete di fermarvi la notte.', '[Quando andare a Colmar](/best-time-to-visit-colmar/) — la città in ogni stagione.', '[Mercatini di Natale di Colmar](/colmar-christmas-market/) — se venite a dicembre.', '[Tutte le guide](/guides/)'],
+ 'pt': ['[Guia completo de Colmar](/) — tudo o que deve saber antes de ir.', '[Onde ficar em Colmar](/where-to-stay-in-colmar/) — se decidir passar a noite.', '[Melhor época para visitar Colmar](/best-time-to-visit-colmar/) — a cidade em cada estação.', '[Mercados de Natal de Colmar](/colmar-christmas-market/) — se for em dezembro.', '[Todos os guias](/guides/)'],
+ 'pl': ['[Pełny przewodnik po Colmarze](/) — wszystko o mieście przed wyjazdem.', '[Gdzie nocować w Colmarze](/where-to-stay-in-colmar/) — jeśli zostajecie na noc.', '[Kiedy jechać do Colmaru](/best-time-to-visit-colmar/) — jakie miasto zobaczycie w każdej porze roku.', '[Jarmarki bożonarodzeniowe w Colmarze](/colmar-christmas-market/) — jeśli jedziecie w grudniu.', '[Wszystkie przewodniki](/guides/)'],
+ 'ru': ['[Полный гид по Кольмару](/) — всё о городе перед поездкой.', '[Где остановиться в Кольмаре](/where-to-stay-in-colmar/) — если решили остаться на ночь.', '[Когда лучше ехать в Кольмар](/best-time-to-visit-colmar/) — какой город вы увидите в каждый сезон.', '[Рождественские ярмарки Кольмара](/colmar-christmas-market/) — если едете в декабре.', '[Все гиды](/guides/)'],
+}
+READMORE = {'colmar-with-kids'}   # slugs whose md has no read-more block (added here)
 MONTH = {'en': ('September', 'October'), 'fr': ('septembre', 'octobre'), 'de': ('September', 'Oktober'),
          'es': ('septiembre', 'octubre'), 'it': ('settembre', 'ottobre'), 'pt': ('setembro', 'outubro'),
          'pl': ('wrzesień', 'październik'), 'ru': ('сентябре', 'октябре')}
@@ -60,7 +81,9 @@ def inline(s):
     s = re.sub(r'\s*\[LINK:[^\]]*\]', '', s)          # unpublished articles: plain text, no link
     s = H.escape(s, quote=False)
     s = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', s)
-    s = re.sub(r'\[([^\]]+)\]\((/[^)]*)\)', r'<a href="\2">\1</a>', s)
+    # [text](bokun) -> inline Bókun checkout link, same pattern as article 1's intro
+    s = re.sub(r'\[([^\]]+)\]\(bokun\)', lambda m: f'<a class="bokunButton" {BOKBTN}>{m.group(1)}</a>', s)
+    s = re.sub(r'\[([^\]]+)\]\((/[^)]*)\)', lambda m: m.group(1) if m.group(2) in PENDING else f'<a href="{m.group(2)}">{m.group(1)}</a>', s)
     s = s.replace('€', '&euro;') if False else s
     return s.strip()
 
@@ -89,6 +112,9 @@ def build_page(slug, lang, md):
     sub = blocks[1].strip('*').strip()
     labels = [x.strip() for x in re.match(r'\[BUTTONS: (.*)\]', blocks[2]).group(1).split(' · ')]
     rest = blocks[3:]
+    if slug in READMORE:
+        last = max(n for n, b in enumerate(rest) if b.startswith('## '))
+        rest[last:last] = ['## ' + RM_HEAD[lang], '\n'.join('- ' + x for x in RM_ITEMS[lang])]
     # ---- hero
     btns = [f'<a class="btn dark bokunButton" {BOKBTN}>{cval(lang, K["herobtn"])}</a>']
     for kind, lab in zip(ARTS[slug]['extra'], labels[1:]):
@@ -126,7 +152,7 @@ def build_page(slug, lang, md):
             out.append('<div class="final" style="margin-top:32px">\n'
                        f' <h2>{cval(lang, K["fin_h"])}</h2>\n <p>{cval(lang, K["fin_p"])}</p>\n <div class="btns">\n'
                        f' <a class="btn dark bokunButton" {BOKBTN}>{cval(lang, K["fin_b1"])}</a>\n'
-                       f' <a class="btn ghost" href="/#preview">{cval(lang, K["fin_b2"])}</a>\n </div>\n</div>')
+                       f' <a class="btn ghost" href="{PREVIEW.format(PREVIEW_LANG.get(lang, "en"))}" target="_blank" rel="noopener">{cval(lang, K["fin_b2"])}</a>\n </div>\n</div>')
             i += 1; continue
         if b.startswith('[AFFILIATE DISCLOSURE'):
             out.append(f'<p class="disclosure">{cval(lang, K["disc"])}</p>')
@@ -166,16 +192,18 @@ def build_page(slug, lang, md):
     page = re.sub(r'<div class="arthero">.*?\n</div>\n(?=\s*<main>|\s*\n<main>)', hero + '\n', page, count=1, flags=re.S)
     page = re.sub(r'<main>.*?</main>', lambda m: main, page, count=1, flags=re.S)
     head_end = page.index('</head>')
-    head = page[:head_end].replace('christmas-markets-near-colmar', slug)
-    def setmeta(h, pat, val):
-        return re.sub(pat, lambda m: m.group(1) + H.escape(val, quote=True) + m.group(2), h, count=1)
-    head = re.sub(r'<title>.*?</title>', lambda m: f'<title>{H.escape(meta["title"])}</title>', head, count=1)
-    head = setmeta(head, r'(<meta name="description" content=")[^"]*(")', meta['description'])
-    head = setmeta(head, r'(<meta property="og:title" content=")[^"]*(")', re.sub(r'\*', '', h1))
-    head = setmeta(head, r'(<meta property="og:description" content=")[^"]*(")', meta['description'])
-    head = re.sub(r'(<meta property="og:image" content="https://colmartour.com/img/)[^"]*(")',
-                  lambda m: m.group(1) + ARTS[slug]['img'] + m.group(2), head, count=1)
-    page = head + page[head_end:]
+    page = page[:head_end].replace('christmas-markets-near-colmar', slug) + page[head_end:]
+    soup = BeautifulSoup(page, 'html.parser')
+    soup.title.string = meta['title']
+    def setm(attrs, val):
+        m = soup.find('meta', attrs=attrs)
+        assert m is not None, attrs
+        m['content'] = val
+    setm({'name': 'description'}, meta['description'])
+    setm({'property': 'og:title'}, re.sub(r'\*', '', h1))
+    setm({'property': 'og:description'}, meta['description'])
+    setm({'property': 'og:image'}, f"https://colmartour.com/img/{ARTS[slug]['img']}")
+    page = str(soup)
     return page
 
 # ---------- extraction (same logic as extract_art.py) ----------
@@ -252,7 +280,10 @@ def to_template(soup, units):
 
 # ---------- main ----------
 SCRIPTS = os.path.join(ROOT, 'tools-batch', 'kit')
+import sys
+ONLY = [a for a in sys.argv[1:] if not a.startswith('-')]
 for slug, cfg in ARTS.items():
+    if ONLY and slug not in ONLY: continue
     bdir = os.path.join(ROOT, f'build-art-{slug}')
     mdir = os.path.join(bdir, 'md')
     os.makedirs(os.path.join(bdir, 'content'), exist_ok=True)
@@ -272,6 +303,6 @@ for slug, cfg in ARTS.items():
                   ensure_ascii=False, indent=1)
     for f in ('render_art.py', 'check_units.py'):
         s = open(f'{SCRIPTS}/{f}', encoding='utf-8').read()
-        s = s.replace('@@SLUG@@', slug).replace('@@DATE@@', DATE).replace('@@IMAGE@@', cfg['img'])
+        s = s.replace('@@SLUG@@', slug).replace('@@DATE@@', cfg.get('date', DATE)).replace('@@IMAGE@@', cfg['img'])
         open(f'{bdir}/{f}', 'w', encoding='utf-8').write(s)
     print(f'{slug}: {len(units)} units x 8 languages')
