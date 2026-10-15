@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 _HERE = os.path.dirname(os.path.abspath(__file__)); _ROOT = os.path.dirname(_HERE)
 PUB = os.path.join(_ROOT, 'public')
 ORDER = ['en','fr','de','es','it','pt','pl','ru']
-SLUGS = ['colmar-christmas-market', 'colmar-vs-strasbourg-christmas', 'christmas-markets-near-colmar', 'is-colmar-worth-visiting', 'best-time-to-visit-colmar', 'how-to-get-to-colmar', 'where-to-stay-in-colmar', 'colmar-parking', 'colmar-with-kids']
+SLUGS = ['colmar-christmas-market', 'colmar-vs-strasbourg-christmas', 'christmas-markets-near-colmar', 'is-colmar-worth-visiting', 'best-time-to-visit-colmar', 'how-to-get-to-colmar', 'where-to-stay-in-colmar', 'colmar-parking', 'colmar-with-kids', 'things-to-do-in-colmar']
 BASE = 'https://colmartour.com'
 BOK = 'https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179'
 LIVE_TPL = ['/', '/guides/', '/privacy-policy/', '/affiliate-disclosure/'] + [f'/{s}/' for s in SLUGS]
@@ -29,7 +29,7 @@ for l in ORDER[1:]:
 live |= {f'/{l}/' for l in ORDER} | {'/'}
 ref_tags = {}
 seen_meta = {}
-BATCH = {'is-colmar-worth-visiting','best-time-to-visit-colmar','how-to-get-to-colmar','where-to-stay-in-colmar','colmar-parking','colmar-with-kids'}
+BATCH = {'is-colmar-worth-visiting','best-time-to-visit-colmar','how-to-get-to-colmar','where-to-stay-in-colmar','colmar-parking','colmar-with-kids','things-to-do-in-colmar'}
 for lang in ORDER:
     for kind, want, path, url in pages(lang):
         errs = []

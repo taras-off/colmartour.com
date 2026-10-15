@@ -1,0 +1,474 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "Half-timbered houses, narrow lanes, and canals with boats gliding by — in Colmar, all of it fits into a compact, pedestrian-friendly center. Buildings from the Middle Ages through the 18th century still line its streets, and the official tourist guide calls the historic center an open-air museum. If you'd like to learn the stories behind these buildings, not just admire their facades, explore the old town with <a class=\"bokunButton\" data-src=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179?partialView=1\" href=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179\">the TouringBee audio guide</a>: 27 stops, about an hour and a half, and no tour group to keep up with."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "After your walk, you can visit a museum to see the Isenheim Altarpiece, take a boat ride along the canals, or try some Alsatian specialties."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > h2",
+  "en": "What to see based on your interests"
+ },
+ "T010": {
+  "ctx": "thead > tr > th",
+  "en": "What you're interested in"
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "Where to go"
+ },
+ "T012": {
+  "ctx": "tbody > tr > td",
+  "en": "Architecture and local history"
+ },
+ "T013": {
+  "ctx": "tbody > tr > td",
+  "en": "Old town: House of Heads, Pfister House, Koïfhus, St. Martin's Church"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "Scenic views and canals"
+ },
+ "T015": {
+  "ctx": "tbody > tr > td",
+  "en": "Little Venice, Fishermen's Quay, a canal boat ride"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Art"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "Unterlinden Museum and the Dominican Church"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "Food"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "The covered market and traditional Alsatian taverns (winstubs) in the center"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "Traveling with kids"
+ },
+ "T021": {
+  "ctx": "tbody > tr > td",
+  "en": "Toy Museum, a boat ride, the tourist train"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Visiting several paid attractions"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "Compare ticket prices with the Colmar City Pass"
+ },
+ "T024": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "More than a walk through the old town"
+ },
+ "T025": {
+  "ctx": "div.product > div.pad > p",
+  "en": "The TouringBee audio guide is a ready-made route through the old town. You explore on your own, take in the sights, and listen to the stories behind them."
+ },
+ "T026": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one payment, no subscription</small>"
+ },
+ "T027": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "27 stops, about an hour and a half"
+ },
+ "T028": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Fully offline once downloaded"
+ },
+ "T029": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows your location; you start each audio track yourself"
+ },
+ "T030": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish, and Russian"
+ },
+ "T031": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T032": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts prepared by professional authors"
+ },
+ "T033": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 · more than 1,000 travelers have walked this route"
+ },
+ "T034": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T035": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The old town and Little Venice"
+ },
+ "T036": {
+  "ctx": "section > div.wrap > p",
+  "en": "Start with Colmar's best-known historic buildings:"
+ },
+ "T037": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>House of Heads</strong> (Maison des Têtes) — a Renaissance house with a facade covered in sculpted heads and masks."
+ },
+ "T038": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Pfister House</strong> — an early Renaissance building with a corner oriel window and murals on its facade."
+ },
+ "T039": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Koïfhus</strong> — the old customs house and Colmar's oldest public building. Notice its colorful tiled roof."
+ },
+ "T040": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>Collegiate Church of St. Martin</strong> — a Gothic church built of yellow sandstone from Rouffach."
+ },
+ "T041": {
+  "ctx": "section > div.wrap > p",
+  "en": "Even if you skip the museums, there's plenty to see in the center. And if you're into art or history, it's easy to pair your walk with a visit to one of the town's museums."
+ },
+ "T042": {
+  "ctx": "section > div.wrap > p",
+  "en": "In the southern part of the old town lies Little Venice. Colorful half-timbered houses line the Lauch River, and tour boats glide along the water — it's one of Colmar's most recognizable sights. Nearby, you'll find Fishermen's Quay and the Tanners' Quarter, where tall historic houses still stand."
+ },
+ "T043": {
+  "ctx": "section > div.wrap > p",
+  "en": "Beyond the medieval center, you'll see a different side of Colmar, with villas and historic townhouses in a variety of architectural styles. Many of them went up between 1870 and 1918, when Alsace was part of the German Empire."
+ },
+ "T044": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Museums and cultural sites"
+ },
+ "T045": {
+  "ctx": "section > div.wrap > p",
+  "en": "The <strong>Unterlinden Museum</strong> is one of Colmar's major museums. Housed in a former 13th-century convent, its collections span nearly 7,000 years, from prehistory to 20th-century art. Its most famous work is the Isenheim Altarpiece. The museum is closed on Tuesdays."
+ },
+ "T046": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you're interested in painting, the <strong>Dominican Church</strong> is also worth a visit. This 14th-century Gothic church, with its stained-glass windows, is home to Martin Schongauer's \"Madonna of the Rose Bower\"."
+ },
+ "T047": {
+  "ctx": "section > div.wrap > p",
+  "en": "The <strong>Bartholdi Museum</strong> occupies the house where the sculptor behind the Statue of Liberty was born. Inside, you'll find models created in preparation for his sculptures. You'll also spot Bartholdi's work around town: his statue of Lazarus von Schwendi, for example, stands atop one of Colmar's fountains. The <strong>Hansi Museum</strong> is devoted to Jean-Jacques Waltz, the artist and illustrator known for his images of Alsace."
+ },
+ "T048": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you're interested in rare books and manuscripts, stop by the <strong>Dominican Library</strong>. Its collection includes medieval manuscripts and early printed books. Admission is free; just check the library's opening hours before you go. With kids, try the <strong><a href=\"/colmar-with-kids/\">Toy Museum</a></strong>, the <strong>Natural History Museum</strong>, or the <strong>Choco-Story</strong> chocolate museum."
+ },
+ "T049": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you only have time for one museum, choose by interest: Unterlinden for art, the Bartholdi Museum for the sculptor's story, and the Toy Museum if you're traveling with kids."
+ },
+ "T050": {
+  "ctx": "section > div.wrap > h3",
+  "en": "Colmar City Pass: what's included, and is it worth it?"
+ },
+ "T051": {
+  "ctx": "section > div.wrap > p",
+  "en": "The Colmar City Pass costs €48 and includes admission to nine museums and attractions, one boat ride, and one trip on either the white or the green tourist train. It's valid for four consecutive days from first use, but it doesn't let you skip the line. During the Christmas market season, the train ride is replaced by a walking tour run by the tourist office, which you'll need to book in advance."
+ },
+ "T052": {
+  "ctx": "section > div.wrap > p",
+  "en": "Whether it pays off depends on what you plan to see. If you're going to visit several museums, take a boat ride, and ride the tourist train, add up the individual ticket prices and compare the total with the cost of the pass."
+ },
+ "T053": {
+  "ctx": "section > div.wrap > h2",
+  "en": "More things to do"
+ },
+ "T054": {
+  "ctx": "section > div.wrap > p",
+  "en": "Near Little Venice is the covered market, where you can shop for local products and grab a bite. It's closed on Mondays and open only until 14:00 on Sundays."
+ },
+ "T055": {
+  "ctx": "section > div.wrap > p",
+  "en": "Boats leave nearby from Saint-Pierre Bridge. The ride along the Lauch takes about 25 minutes and offers a different view of the historic neighborhoods. The schedule changes with the season. If you'd rather see part of the center without much walking, hop on the tourist train: the ride takes about 35 minutes, with audio commentary about the town along the way. The white and green trains run on different schedules."
+ },
+ "T056": {
+  "ctx": "section > div.wrap > p",
+  "en": "While you're in Colmar, try local dishes like tarte flambée and choucroute (Alsatian sauerkraut), along with Alsace's white wines. Tourism materials call Colmar the capital of Alsatian wine, and it makes a convenient base for exploring the Alsace Wine Route. If you want to see the vineyards and wine villages, plan a separate outing. Colmar itself is easy to get around on foot, but you'll want to plan transportation if you're visiting several villages."
+ },
+ "T057": {
+  "ctx": "section > div.wrap > h2",
+  "en": "If you're short on time"
+ },
+ "T058": {
+  "ctx": "section > div.wrap > p",
+  "en": "With half a day, start with the old town and Little Venice. After your walk, pick one more thing: a boat ride, the covered market, or a museum. With a full day, you can take your time at Unterlinden or another museum."
+ },
+ "T059": {
+  "ctx": "section > div.wrap > h2",
+  "en": "FAQ"
+ },
+ "T060": {
+  "ctx": "div.faq > details > summary",
+  "en": "What are the must-sees in Colmar?"
+ },
+ "T061": {
+  "ctx": "div.faq > details > p",
+  "en": "On a first visit, start with the old town and Little Venice. Then choose by interest: Unterlinden, a boat ride, the covered market, or other museums."
+ },
+ "T062": {
+  "ctx": "div.faq > details > summary",
+  "en": "How much is the Colmar City Pass?"
+ },
+ "T063": {
+  "ctx": "div.faq > details > p",
+  "en": "€48. It includes nine museums and attractions, one boat ride, and one tourist train ride, and it's valid for four consecutive days from first use."
+ },
+ "T064": {
+  "ctx": "div.faq > details > summary",
+  "en": "What can you do in Colmar when it rains?"
+ },
+ "T065": {
+  "ctx": "div.faq > details > p",
+  "en": "Visit Unterlinden, the Bartholdi Museum, the Toy Museum, the Natural History Museum, or Choco-Story. The covered market is another option during its opening hours."
+ },
+ "T066": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can you explore Colmar on your own?"
+ },
+ "T067": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes: the center is compact and mostly pedestrian-only. If you'd like a ready-made route with commentary, try a self-guided walking tour with an audio guide."
+ },
+ "T068": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T069": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T070": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-with-kids/\">Colmar with kids</a> — if you're traveling with children."
+ },
+ "T071": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/where-to-stay-in-colmar/\">Where to stay in Colmar</a> — if you decide to stay the night."
+ },
+ "T072": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/best-time-to-visit-colmar/\">Best time to visit Colmar</a> — what the town is like each season."
+ },
+ "T073": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T074": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Where to start"
+ },
+ "T075": {
+  "ctx": "section > div.wrap > p",
+  "en": "Start with the old town, then let the weather and your mood decide: duck into a museum, take a boat ride, or sample local products at the covered market."
+ },
+ "T076": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T077": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T078": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T079": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T080": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T081": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T082": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T083": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T084": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T085": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T086": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T087": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T088": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T089": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T090": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T091": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T092": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T093": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T094": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T095": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T096": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T097": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T098": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T099": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T100": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T101": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T102": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T103": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T104": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T105": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T106": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Things to Do in Colmar"
+ },
+ "T107": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Things to do in Colmar: top sights and experiences"
+ },
+ "T108": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "The old town, Little Venice, museums, the market, and canal boats. What to see and do in Colmar, even when you're short on time."
+ },
+ "T109": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T110": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T111": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stay in Colmar"
+ },
+ "T112": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T113": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T114": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T115": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Things to Do in Colmar: Top Sights by Interest | TouringBee"
+ },
+ "T116": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "Old town, Little Venice, museums, the covered market, canal boats, and the City Pass: what to see and do in Colmar, even when you're short on time."
+ },
+ "T117": {
+  "ctx": "og:title",
+  "en": "Things to do in Colmar: top sights and experiences"
+ },
+ "T118": {
+  "ctx": "og:description",
+  "en": "Old town, Little Venice, museums, the covered market, canal boats, and the City Pass: what to see and do in Colmar, even when you're short on time."
+ }
+}

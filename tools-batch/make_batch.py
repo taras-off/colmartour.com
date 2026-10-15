@@ -29,10 +29,11 @@ ARTS = {
     'best-time-to-visit-colmar': dict(img='tile-canal-day.webp',     extra=['hotels']),
     'is-colmar-worth-visiting':  dict(img='tile-old-town.webp',      extra=['hotels']),
     'colmar-with-kids':          dict(img='tile-canal-day.webp',     extra=['hotels'], date='2026-10-13'),
+    'things-to-do-in-colmar':    dict(img='tile-old-town.webp',      extra=['hotels'], date='2026-10-15'),
 }
 # links to articles that are not published yet: rendered as plain text (no href) until the target page exists.
 # When an article goes live, remove its path here and rebuild the articles that link to it.
-PENDING = {'/petite-venise-colmar/', '/one-day-in-colmar/'}
+PENDING = {'/petite-venise-colmar/', '/one-day-in-colmar/', '/colmar-walking-tour/'}
 # "Continue exploring" block: not part of the authored text, inserted at build time before the closing H2.
 RM_HEAD = {'en': 'Continue exploring', 'fr': 'Pour aller plus loin', 'de': 'Weiterlesen', 'es': 'Sigue leyendo',
            'it': 'Continua a leggere', 'pt': 'Continue a ler', 'pl': 'Czytaj dalej', 'ru': 'Читать дальше'}
@@ -46,7 +47,19 @@ RM_ITEMS = {
  'pl': ['[Pełny przewodnik po Colmarze](/) — wszystko o mieście przed wyjazdem.', '[Gdzie nocować w Colmarze](/where-to-stay-in-colmar/) — jeśli zostajecie na noc.', '[Kiedy jechać do Colmaru](/best-time-to-visit-colmar/) — jakie miasto zobaczycie w każdej porze roku.', '[Jarmarki bożonarodzeniowe w Colmarze](/colmar-christmas-market/) — jeśli jedziecie w grudniu.', '[Wszystkie przewodniki](/guides/)'],
  'ru': ['[Полный гид по Кольмару](/) — всё о городе перед поездкой.', '[Где остановиться в Кольмаре](/where-to-stay-in-colmar/) — если решили остаться на ночь.', '[Когда лучше ехать в Кольмар](/best-time-to-visit-colmar/) — какой город вы увидите в каждый сезон.', '[Рождественские ярмарки Кольмара](/colmar-christmas-market/) — если едете в декабре.', '[Все гиды](/guides/)'],
 }
-READMORE = {'colmar-with-kids'}   # slugs whose md has no read-more block (added here)
+KIDS = {'en': "[Colmar with kids](/colmar-with-kids/) — if you're traveling with children.",
+ 'fr': '[Colmar en famille](/colmar-with-kids/) — si vous voyagez avec des enfants.',
+ 'de': '[Colmar mit Kindern](/colmar-with-kids/) — wenn Sie mit Kindern reisen.',
+ 'es': '[Colmar con niños](/colmar-with-kids/) — si viajas con niños.',
+ 'it': '[Colmar con bambini](/colmar-with-kids/) — se viaggiate con i bambini.',
+ 'pt': '[Colmar com crianças](/colmar-with-kids/) — se viaja com crianças.',
+ 'pl': '[Colmar z dziećmi](/colmar-with-kids/) — jeśli podróżujecie z dziećmi.',
+ 'ru': '[Кольмар с детьми](/colmar-with-kids/) — если едете с детьми.'}
+# slugs whose md has no read-more block -> items added at build time (indexes into RM_ITEMS + extra lines)
+READMORE = {
+ 'colmar-with-kids': lambda l: RM_ITEMS[l],
+ 'things-to-do-in-colmar': lambda l: [RM_ITEMS[l][0], KIDS[l], RM_ITEMS[l][1], RM_ITEMS[l][2], RM_ITEMS[l][4]],
+}
 MONTH = {'en': ('September', 'October'), 'fr': ('septembre', 'octobre'), 'de': ('September', 'Oktober'),
          'es': ('septiembre', 'octubre'), 'it': ('settembre', 'ottobre'), 'pt': ('setembro', 'outubro'),
          'pl': ('wrzesień', 'październik'), 'ru': ('сентябре', 'октябре')}
@@ -114,7 +127,7 @@ def build_page(slug, lang, md):
     rest = blocks[3:]
     if slug in READMORE:
         last = max(n for n, b in enumerate(rest) if b.startswith('## '))
-        rest[last:last] = ['## ' + RM_HEAD[lang], '\n'.join('- ' + x for x in RM_ITEMS[lang])]
+        rest[last:last] = ['## ' + RM_HEAD[lang], '\n'.join('- ' + x for x in READMORE[slug](lang))]
     # ---- hero
     btns = [f'<a class="btn dark bokunButton" {BOKBTN}>{cval(lang, K["herobtn"])}</a>']
     for kind, lab in zip(ARTS[slug]['extra'], labels[1:]):

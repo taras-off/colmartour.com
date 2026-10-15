@@ -10,7 +10,7 @@ import json, os, re
 from bs4 import BeautifulSoup
 ROOT = os.getcwd(); PUB = os.path.join(ROOT, 'public'); BASE = 'https://colmartour.com'
 ORDER = ['en', 'fr', 'de', 'es', 'it', 'pt', 'pl', 'ru']
-NEW = [('colmar-with-kids', 'tile-canal-day'), ('is-colmar-worth-visiting', 'tile-old-town'), ('best-time-to-visit-colmar', 'tile-canal-day'),
+NEW = [('things-to-do-in-colmar', 'tile-old-town'), ('colmar-with-kids', 'tile-canal-day'), ('is-colmar-worth-visiting', 'tile-old-town'), ('best-time-to-visit-colmar', 'tile-canal-day'),
        ('how-to-get-to-colmar', 'tile-rooftops'), ('where-to-stay-in-colmar', 'tile-little-venice'),
        ('colmar-parking', 'tile-winter-street')]
 OLD = [('christmas-markets-near-colmar', 'tile-christmas-market'), ('colmar-vs-strasbourg-christmas', 'tile-little-venice')]
