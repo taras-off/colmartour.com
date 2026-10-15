@@ -215,7 +215,14 @@ def build_page(slug, lang, md):
     setm({'name': 'description'}, meta['description'])
     setm({'property': 'og:title'}, re.sub(r'\*', '', h1))
     setm({'property': 'og:description'}, meta['description'])
-    setm({'property': 'og:image'}, f"https://colmartour.com/img/{ARTS[slug]['img']}")
+    setm({'property': 'og:image'}, f"https://colmartour.com/img/og/{slug}.jpg")
+    # social previews: 1200x630 JPEG, explicit size, same image for X/Twitter
+    ogi = soup.find('meta', attrs={'property': 'og:image'})
+    extra = [('property', 'og:image:width', '1200'), ('property', 'og:image:height', '630'),
+             ('property', 'og:image:type', 'image/jpeg'), ('name', 'twitter:image', f"https://colmartour.com/img/og/{slug}.jpg")]
+    for attr, key, val in reversed(extra):
+        if not soup.find('meta', attrs={attr: key}):
+            ogi.insert_after(soup.new_tag('meta', attrs={attr: key, 'content': val}))
     page = str(soup)
     return page
 
@@ -316,6 +323,6 @@ for slug, cfg in ARTS.items():
                   ensure_ascii=False, indent=1)
     for f in ('render_art.py', 'check_units.py'):
         s = open(f'{SCRIPTS}/{f}', encoding='utf-8').read()
-        s = s.replace('@@SLUG@@', slug).replace('@@DATE@@', cfg.get('date', DATE)).replace('@@IMAGE@@', cfg['img'])
+        s = s.replace('@@SLUG@@', slug).replace('@@DATE@@', cfg.get('date', DATE)).replace('@@IMAGE@@', f'og/{slug}.jpg')
         open(f'{bdir}/{f}', 'w', encoding='utf-8').write(s)
     print(f'{slug}: {len(units)} units x 8 languages')
