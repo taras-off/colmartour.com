@@ -11,7 +11,7 @@ PUB = _os.path.join(_ROOT, 'public')
 SLUG = 'where-to-stay-in-colmar'
 BASE = 'https://colmartour.com'
 DATE = '2026-10-01'
-IMAGE = 'tile-little-venice.webp'
+IMAGE = 'og/where-to-stay-in-colmar.jpg'
 LANGS = {
  'en': dict(locale='en_US'), 'fr': dict(locale='fr_FR'), 'de': dict(locale='de_DE'),
  'es': dict(locale='es_ES'), 'it': dict(locale='it_IT'), 'pt': dict(locale='pt_PT'),
@@ -78,6 +78,10 @@ def render(lang):
               .replace('{{CANONICAL}}', url).replace('{{LANGNAV}}', '@@LANGNAV@@'))
     out = prefix_links(out, lang)
     out = out.replace('@@LANGNAV@@', langnav(lang))
+    if lang in ('fr', 'de', 'it', 'pl'):  # audio preview in the final CTA: own-language intro exists only for these (as on the landing)
+        out = out.replace('colmart1_en_intro.mp3', f'colmart1_{lang}_intro.mp3')
+    if lang != 'en':  # footer language list: prefix_links turns '/' (English) into '/<lang>/' - restore
+        out = out.replace(f'<li><a href="/{lang}/">English</a></li>', '<li><a href="/">English</a></li>')
     if lang != 'en':
         out = out.replace('src="../img/', 'src="../../img/')
     soup = BeautifulSoup(out, 'html.parser')

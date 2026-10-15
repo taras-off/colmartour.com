@@ -11,7 +11,7 @@ PUB = _os.path.join(_ROOT, 'public')
 SLUG = 'colmar-with-kids'
 BASE = 'https://colmartour.com'
 DATE = '2026-10-13'
-IMAGE = 'tile-canal-day.webp'
+IMAGE = 'og/colmar-with-kids.jpg'
 LANGS = {
  'en': dict(locale='en_US'), 'fr': dict(locale='fr_FR'), 'de': dict(locale='de_DE'),
  'es': dict(locale='es_ES'), 'it': dict(locale='it_IT'), 'pt': dict(locale='pt_PT'),
