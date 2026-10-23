@@ -1,0 +1,474 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "One day is enough to see Colmar's old town at an easy pace and add one thing you're especially interested in — as long as you don't try to do it all. A simple plan: start with a walk through the historic center, stop for lunch, then pick one activity for the afternoon, either a museum or a boat ride on the canals."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "For the morning walk, try <a class=\"bokunButton\" data-src=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179?partialView=1\" href=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179\">the TouringBee audio guide</a>. It covers 27 stops in about an hour and a half, with no tour group to keep up with. Start whenever you like."
+ },
+ "T009": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Your day at a glance"
+ },
+ "T010": {
+  "ctx": "section > div.wrap > p",
+  "en": "Treat this as a rough plan, not a fixed schedule. Shuffle things around depending on the season, the day of the week, and the weather: if you'd rather see a museum first or it's raining in the morning, start with the museum and save the walk for later."
+ },
+ "T011": {
+  "ctx": "thead > tr > th",
+  "en": "Approximate time"
+ },
+ "T012": {
+  "ctx": "thead > tr > th",
+  "en": "What to do"
+ },
+ "T013": {
+  "ctx": "thead > tr > th",
+  "en": "Where"
+ },
+ "T014": {
+  "ctx": "tbody > tr > td",
+  "en": "10:00–12:00"
+ },
+ "T015": {
+  "ctx": "tbody > tr > td",
+  "en": "Walk the old town with the audio guide, with time for stops along the way"
+ },
+ "T016": {
+  "ctx": "tbody > tr > td",
+  "en": "Historic center"
+ },
+ "T017": {
+  "ctx": "tbody > tr > td",
+  "en": "12:00–13:30"
+ },
+ "T018": {
+  "ctx": "tbody > tr > td",
+  "en": "Lunch at a restaurant or a bite at the covered market"
+ },
+ "T019": {
+  "ctx": "tbody > tr > td",
+  "en": "The center or the covered market near Little Venice"
+ },
+ "T020": {
+  "ctx": "tbody > tr > td",
+  "en": "14:00–16:30"
+ },
+ "T021": {
+  "ctx": "tbody > tr > td",
+  "en": "The Unterlinden Museum or a short boat ride, then free time"
+ },
+ "T022": {
+  "ctx": "tbody > tr > td",
+  "en": "Unterlinden, or the boat dock at Saint-Pierre Bridge"
+ },
+ "T023": {
+  "ctx": "tbody > tr > td",
+  "en": "After 17:00"
+ },
+ "T024": {
+  "ctx": "tbody > tr > td",
+  "en": "Evening stroll and dinner"
+ },
+ "T025": {
+  "ctx": "tbody > tr > td",
+  "en": "Little Venice or the old town"
+ },
+ "T026": {
+  "ctx": "section > div.wrap > p",
+  "en": "Colmar's historic center is small, and the main sights are close together. So there's no need for a long checklist: plan a walk through the old town, lunch, and one activity you care about, and keep the evening open. If you want to fit in several museums or a trip out of town, you'll need a faster pace or more time."
+ },
+ "T027": {
+  "ctx": "section > div.wrap > p",
+  "en": "The old town is best explored on foot, since much of the center is pedestrian-only. If you came by car, leave it in a parking lot for the day."
+ },
+ "T028": {
+  "ctx": "section > div.wrap > p",
+  "en": "Keep the day of the week in mind: the Unterlinden Museum is closed on Tuesdays, and the covered market is closed on Mondays."
+ },
+ "T029": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "An hour and a half to get to know the old town"
+ },
+ "T030": {
+  "ctx": "div.product > div.pad > p",
+  "en": "The TouringBee audio guide is a ready-made route through the old town — no group to join and no guide to meet. You decide when to start and where to take a break."
+ },
+ "T031": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one payment, no subscription</small>"
+ },
+ "T032": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "27 stops, about an hour and a half"
+ },
+ "T033": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Fully offline once downloaded"
+ },
+ "T034": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows your location; you start each audio track yourself"
+ },
+ "T035": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish, and Russian"
+ },
+ "T036": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T037": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts prepared by professional authors"
+ },
+ "T038": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 · more than 1,000 travelers have walked this route"
+ },
+ "T039": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T040": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Morning: the old town with an audio guide"
+ },
+ "T041": {
+  "ctx": "section > div.wrap > p",
+  "en": "The hour-and-a-half walk is the backbone of the day. The audio guide follows a set route through the old town, but you play the audio at each stop when you're ready and set your own pace. Plan on about two hours for this part of the day: you'll want to stop along the way, take photos of the facades, or grab a coffee."
+ },
+ "T042": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you'd like to step into a church, a museum, or the market along the way, check their opening hours ahead of time — each place keeps its own schedule."
+ },
+ "T043": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Lunch: mind the kitchen hours"
+ },
+ "T044": {
+  "ctx": "section > div.wrap > p",
+  "en": "At some restaurants, lunch service ends around 13:30–14:00, and the kitchen doesn't reopen until the evening. So don't push lunch back too late, and check the hours of the place you have in mind."
+ },
+ "T045": {
+  "ctx": "section > div.wrap > p",
+  "en": "Another option is the <strong>covered market</strong> near Little Venice, where you can have lunch or a quick bite. It's closed on Mondays and open only until 14:00 on Sundays."
+ },
+ "T046": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Afternoon: pick one activity"
+ },
+ "T047": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>The Unterlinden Museum</strong> — if you're into art. The museum is housed in a former 13th-century convent, and the most famous work in its collection is the Isenheim Altarpiece. It's usually open Wednesday through Monday, 9:00 to 18:00, and closed on Tuesdays, with some holiday exceptions."
+ },
+ "T048": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>A canal boat ride</strong> — if you'd like to see the town from the water. Boats leave from Saint-Pierre Bridge, the ride takes about 25 minutes, and the schedule depends on the season."
+ },
+ "T049": {
+  "ctx": "section > div.wrap > p",
+  "en": "<strong>Explore on your own</strong> — if you'd rather skip tickets and a set plan: revisit places you liked in the morning, stop at a café, or simply wander."
+ },
+ "T050": {
+  "ctx": "section > div.wrap > p",
+  "en": "There's no need to squeeze in both the museum and the boat: choose the one that appeals to you more and leave time for an unhurried walk. If you plan to visit several museums and take a boat ride, compare the total cost of the tickets with the price of the <a href=\"/things-to-do-in-colmar/\">Colmar City Pass</a>."
+ },
+ "T051": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Evening: a walk by the water or dinner in the old town"
+ },
+ "T052": {
+  "ctx": "section > div.wrap > p",
+  "en": "In the evening, head back to Little Venice and Fishermen's Quay for a leisurely stroll by the water or dinner. If you don't feel like going back, pick a restaurant or a winstub — a traditional Alsatian tavern — in another part of the old town."
+ },
+ "T053": {
+  "ctx": "section > div.wrap > p",
+  "en": "On selected Tuesdays in summer, Place de l'Ancienne Douane, the square by the old customs house, hosts free Alsatian folklore events. They're seasonal, so check the current dates before your trip."
+ },
+ "T054": {
+  "ctx": "section > div.wrap > h2",
+  "en": "How to adjust the plan"
+ },
+ "T055": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>If it's raining</strong>, start with a museum and save the walk for when the rain lets up. If you want to stay indoors, consider the Unterlinden Museum, the Bartholdi Museum, the Toy Museum, or the covered market during its opening hours."
+ },
+ "T056": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>In winter</strong>, keep the short days and museum hours in mind: plan the walk for daylight. Check the boat schedule before you go."
+ },
+ "T057": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>During the <a href=\"/colmar-christmas-market/\">Christmas market</a> season</strong>, set aside time for the markets, but check their hours in advance — some close fairly early. The center gets especially crowded at this time of year."
+ },
+ "T058": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<strong>If you only have half a day</strong>, choose the old town plus one other priority: Little Venice, a museum, or a boat ride."
+ },
+ "T059": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Frequently asked questions"
+ },
+ "T060": {
+  "ctx": "div.faq > details > summary",
+  "en": "Is one day enough for Colmar?"
+ },
+ "T061": {
+  "ctx": "div.faq > details > p",
+  "en": "One day is enough for the old town and one more activity. For several museums, nearby villages, and the Alsace Wine Route, you'll need more time."
+ },
+ "T062": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where should I start my day in Colmar?"
+ },
+ "T063": {
+  "ctx": "div.faq > details > p",
+  "en": "In most cases, with a walk through the old town — afterward, it's easier to decide where to go next. If a museum is your priority or it's raining, you can switch the order."
+ },
+ "T064": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can I have lunch at the covered market?"
+ },
+ "T065": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes, during its opening hours. You can find places to eat or grab a snack. On Sundays it's open only until 14:00, and it's closed on Mondays."
+ },
+ "T066": {
+  "ctx": "div.faq > details > summary",
+  "en": "Can I do a day trip to Colmar from Strasbourg?"
+ },
+ "T067": {
+  "ctx": "div.faq > details > p",
+  "en": "Yes. <a href=\"/how-to-get-to-colmar/\">Direct trains</a> run between Strasbourg and Colmar, making a day trip straightforward."
+ },
+ "T068": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T069": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T070": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-with-kids/\">Colmar with kids</a> — if you're traveling with children."
+ },
+ "T071": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/where-to-stay-in-colmar/\">Where to stay in Colmar</a> — if you decide to stay the night."
+ },
+ "T072": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/best-time-to-visit-colmar/\">Best time to visit Colmar</a> — what the town is like each season."
+ },
+ "T073": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T074": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you go"
+ },
+ "T075": {
+  "ctx": "section > div.wrap > p",
+  "en": "Check the museum and covered market hours, as well as the boat schedule — they vary by day of the week and by season. Everything else you can decide on the spot, depending on the weather and your mood."
+ },
+ "T076": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T077": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T078": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T079": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T080": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T081": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T082": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T083": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T084": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T085": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T086": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T087": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T088": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T089": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T090": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T091": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T092": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T093": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T094": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T095": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T096": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T097": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T098": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T099": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T100": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T101": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T102": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T103": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T104": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T105": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T106": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › One Day in Colmar"
+ },
+ "T107": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "One day in Colmar: a relaxed itinerary"
+ },
+ "T108": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "The old town, lunch, a museum or a boat ride, and an evening by the water. How to spend one day in Colmar without turning it into a race."
+ },
+ "T109": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T110": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T111": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stay in Colmar"
+ },
+ "T112": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T113": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T114": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T115": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "One Day in Colmar: A Relaxed Itinerary | TouringBee"
+ },
+ "T116": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "How to spend one day in Colmar: a walk through the old town, lunch before kitchens close, a museum or boat ride, and an evening by the water."
+ },
+ "T117": {
+  "ctx": "og:title",
+  "en": "One day in Colmar: a relaxed itinerary"
+ },
+ "T118": {
+  "ctx": "og:description",
+  "en": "How to spend one day in Colmar: a walk through the old town, lunch before kitchens close, a museum or boat ride, and an evening by the water."
+ }
+}

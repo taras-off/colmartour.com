@@ -30,10 +30,11 @@ ARTS = {
     'is-colmar-worth-visiting':  dict(img='tile-old-town.webp',      extra=['hotels']),
     'colmar-with-kids':          dict(img='tile-canal-day.webp',     extra=['hotels'], date='2026-10-13'),
     'things-to-do-in-colmar':    dict(img='tile-old-town.webp',      extra=['hotels'], date='2026-10-15'),
+    'one-day-in-colmar':         dict(img='tile-koifhus.webp',       extra=['hotels'], date='2026-10-23'),
 }
 # links to articles that are not published yet: rendered as plain text (no href) until the target page exists.
 # When an article goes live, remove its path here and rebuild the articles that link to it.
-PENDING = {'/petite-venise-colmar/', '/one-day-in-colmar/', '/colmar-walking-tour/'}
+PENDING = {'/petite-venise-colmar/', '/colmar-walking-tour/'}
 # "Continue exploring" block: not part of the authored text, inserted at build time before the closing H2.
 RM_HEAD = {'en': 'Continue exploring', 'fr': 'Pour aller plus loin', 'de': 'Weiterlesen', 'es': 'Sigue leyendo',
            'it': 'Continua a leggere', 'pt': 'Continue a ler', 'pl': 'Czytaj dalej', 'ru': 'Читать дальше'}
@@ -59,6 +60,7 @@ KIDS = {'en': "[Colmar with kids](/colmar-with-kids/) — if you're traveling wi
 READMORE = {
  'colmar-with-kids': lambda l: RM_ITEMS[l],
  'things-to-do-in-colmar': lambda l: [RM_ITEMS[l][0], KIDS[l], RM_ITEMS[l][1], RM_ITEMS[l][2], RM_ITEMS[l][4]],
+ 'one-day-in-colmar': lambda l: [RM_ITEMS[l][0], KIDS[l], RM_ITEMS[l][1], RM_ITEMS[l][2], RM_ITEMS[l][4]],
 }
 MONTH = {'en': ('September', 'October'), 'fr': ('septembre', 'octobre'), 'de': ('September', 'Oktober'),
          'es': ('septiembre', 'octubre'), 'it': ('settembre', 'ottobre'), 'pt': ('setembro', 'outubro'),
