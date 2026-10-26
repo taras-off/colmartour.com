@@ -265,7 +265,7 @@
  },
  "T067": {
   "ctx": "div.faq > details > p",
-  "en": "Yes: the center is compact and mostly pedestrian-only. If you'd like a ready-made route with commentary, try a self-guided walking tour with an audio guide."
+  "en": "Yes: the center is compact and mostly pedestrian-only. If you'd like a ready-made route with commentary, try a <a href=\"/colmar-walking-tour/\">self-guided walking tour with an audio guide</a>."
  },
  "T068": {
   "ctx": "section > div.wrap > h2",

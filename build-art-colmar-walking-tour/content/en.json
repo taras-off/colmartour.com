@@ -1,0 +1,418 @@
+{
+ "T001": {
+  "ctx": "div.wrap > details.menu > summary",
+  "en": "Guides ▾"
+ },
+ "T002": {
+  "ctx": "ul > li > a",
+  "en": "Colmar Christmas markets"
+ },
+ "T003": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg for Christmas"
+ },
+ "T004": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets near Colmar"
+ },
+ "T005": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Colmar walking tour (27 stops)"
+ },
+ "T006": {
+  "ctx": "ul > li > a.all",
+  "en": "All guides →"
+ },
+ "T007": {
+  "ctx": "section > div.wrap > p.lede",
+  "en": "Colmar's old town is small and easy to explore on your own. But there's more to its facades, squares, and canals than meets the eye. <a class=\"bokunButton\" data-src=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179?partialView=1\" href=\"https://widgets.bokun.io/online-sales/8342c394-d728-44fe-a74b-664ee5a2f48b/experience/950179\">The TouringBee audio guide</a> takes you through the old town on a ready-made route, sharing stories about the buildings and streets you pass."
+ },
+ "T008": {
+  "ctx": "section > div.wrap > p",
+  "en": "You walk on your own, with no group and no schedule, and play each recording whenever you're ready. Love a spot? Linger. Need a coffee? Pause the tour."
+ },
+ "T009": {
+  "ctx": "div.product > div.pad > h3",
+  "en": "An audio guide to Colmar's old town"
+ },
+ "T010": {
+  "ctx": "div.product > div.pad > p",
+  "en": "A route through the old town with audio stories at each stop: you explore on your own and set your own pace."
+ },
+ "T011": {
+  "ctx": "div.product > div.pad > p.price",
+  "en": "€9.99 <small>· one payment, no subscription</small>"
+ },
+ "T012": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "27 stops, about an hour and a half"
+ },
+ "T013": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Fully offline once downloaded"
+ },
+ "T014": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "The offline map shows your location; you start each audio track yourself"
+ },
+ "T015": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "In English, French, German, Italian, Polish, Spanish, and Russian"
+ },
+ "T016": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "iOS and Android, one year of access"
+ },
+ "T017": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Route and texts prepared by professional authors"
+ },
+ "T018": {
+  "ctx": "div.pad > ul.plist > li",
+  "en": "Rated 4.6 out of 5 · more than 1,000 travelers have walked this route"
+ },
+ "T019": {
+  "ctx": "div.product > div.pad > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T020": {
+  "ctx": "section > div.wrap > p",
+  "en": "Before you buy, you can <a href=\"https://touringbee.com/wp-content/uploads/colmart1_en_intro.mp3\" rel=\"noopener\" target=\"_blank\">listen to the one-minute intro</a>."
+ },
+ "T021": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Who it's for"
+ },
+ "T022": {
+  "ctx": "section > div.wrap > p",
+  "en": "The audio guide is a good fit if you want to get to know Colmar's history without working around a group's meeting time or a tour guide's pace. You can start in the morning or later in the afternoon, linger at a house you like, skip what doesn't interest you, and come back to the recordings another day. It also works well for families with kids and for anyone who'd rather see the town without a tour group."
+ },
+ "T023": {
+  "ctx": "section > div.wrap > p",
+  "en": "If you'd like to ask questions as you go or interact with a guide, a live guided tour is the better choice: the audio guide tells stories, but it can't answer questions."
+ },
+ "T024": {
+  "ctx": "section > div.wrap > h2",
+  "en": "How it works"
+ },
+ "T025": {
+  "ctx": "div.wrap > ol > li",
+  "en": "Buy the audio guide, and you'll get an email with activation instructions."
+ },
+ "T026": {
+  "ctx": "div.wrap > ol > li",
+  "en": "Install the TouringBee app on iOS or Android and activate your purchase."
+ },
+ "T027": {
+  "ctx": "div.wrap > ol > li",
+  "en": "Download the tour in advance, ideally over Wi-Fi. You only need an internet connection to buy, activate, and download; after that, the tour and map work offline."
+ },
+ "T028": {
+  "ctx": "div.wrap > ol > li",
+  "en": "Head to the starting point and follow the route on the map. The map shows where you are, and you start the recording at each stop yourself — nothing plays automatically."
+ },
+ "T029": {
+  "ctx": "section > div.wrap > p",
+  "en": "There's no guide waiting at the start, and the tour isn't tied to a set time slot: you decide when to begin. You can stop partway through and pick up where you left off later — your access lasts a year."
+ },
+ "T030": {
+  "ctx": "section > div.wrap > h2",
+  "en": "The route: where it goes and what you'll hear"
+ },
+ "T031": {
+  "ctx": "section > div.wrap > p",
+  "en": "The walk starts at Parc du Champ de Mars, runs through the historic center, and ends in Little Venice. You can complete the entire route on foot, with no transportation needed between stops. Once you finish, you can stay by the water or walk over to the covered market."
+ },
+ "T032": {
+  "ctx": "section > div.wrap > p",
+  "en": "The route takes you through the historic center, home to the House of Heads, Pfister House, St. Martin's Church, and other well-known sights. It doesn't cover everything worth seeing in town, though."
+ },
+ "T033": {
+  "ctx": "section > div.wrap > p",
+  "en": "You can easily find a list of Colmar's sights on your own. The audio guide offers something different: a ready-made route through the historic center, with stories about its past, its buildings, and its legends. You'll find out, for example, why Colmar once had its own currency and how the town is connected to Japanese animation. We'll save the rest for your walk."
+ },
+ "T034": {
+  "ctx": "section > div.wrap > h2",
+  "en": "What's included and what's not"
+ },
+ "T035": {
+  "ctx": "section > div.wrap > p",
+  "en": "For €9.99, you get:"
+ },
+ "T036": {
+  "ctx": "div.wrap > ul > li",
+  "en": "the audio guide in the app for iOS and Android;"
+ },
+ "T037": {
+  "ctx": "div.wrap > ul > li",
+  "en": "an offline map with the route;"
+ },
+ "T038": {
+  "ctx": "div.wrap > ul > li",
+  "en": "recordings for 27 stops;"
+ },
+ "T039": {
+  "ctx": "div.wrap > ul > li",
+  "en": "illustrations to help you recognize landmarks along the route;"
+ },
+ "T040": {
+  "ctx": "div.wrap > ul > li",
+  "en": "one year of access to the tour."
+ },
+ "T041": {
+  "ctx": "section > div.wrap > p",
+  "en": "You'll need your own smartphone for the walk. Headphones are worth bringing too, since they make listening easier. Museum tickets aren't included; you buy them separately if you decide to go inside."
+ },
+ "T042": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Before you go"
+ },
+ "T043": {
+  "ctx": "section > div.wrap > p",
+  "en": "Download the tour ahead of time so you don't have to rely on a signal, and make sure your phone is charged. Wear comfortable shoes: much of the old town is paved with cobblestones. If you plan to step into active churches, dress appropriately for a place of worship."
+ },
+ "T044": {
+  "ctx": "section > div.wrap > p",
+  "en": "You can start at any time. If you'd like to stop by the market, a church, or a museum along the way, check their opening hours first. The walk also fits easily into <a href=\"/one-day-in-colmar/\">a day in Colmar</a>: the old town in the morning, then a museum or a boat ride after lunch."
+ },
+ "T045": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Continue exploring"
+ },
+ "T046": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/\">Complete guide to Colmar</a> — everything to know before you go."
+ },
+ "T047": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/colmar-with-kids/\">Colmar with kids</a> — if you're traveling with children."
+ },
+ "T048": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/where-to-stay-in-colmar/\">Where to stay in Colmar</a> — if you decide to stay the night."
+ },
+ "T049": {
+  "ctx": "div.wrap > ul > li",
+  "en": "<a href=\"/best-time-to-visit-colmar/\">Best time to visit Colmar</a> — what the town is like each season."
+ },
+ "T050": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T051": {
+  "ctx": "section > div.wrap > h2",
+  "en": "Frequently asked questions"
+ },
+ "T052": {
+  "ctx": "div.faq > details > summary",
+  "en": "How long does the route take?"
+ },
+ "T053": {
+  "ctx": "div.faq > details > p",
+  "en": "Usually about an hour and a half. If you stop for photos or pop into churches, the market, or a café, plan on more time."
+ },
+ "T054": {
+  "ctx": "div.faq > details > summary",
+  "en": "Where does the route start?"
+ },
+ "T055": {
+  "ctx": "div.faq > details > p",
+  "en": "At Parc du Champ de Mars, and it ends in Little Venice."
+ },
+ "T056": {
+  "ctx": "div.faq > details > summary",
+  "en": "Do I need an internet connection?"
+ },
+ "T057": {
+  "ctx": "div.faq > details > p",
+  "en": "Only to buy, activate, and download the tour. During the walk, the tour and map work offline."
+ },
+ "T058": {
+  "ctx": "div.faq > details > summary",
+  "en": "Do I need to book a time?"
+ },
+ "T059": {
+  "ctx": "div.faq > details > p",
+  "en": "No. The tour isn't tied to a time slot: once it's activated, you start whenever you like, and your access lasts a year."
+ },
+ "T060": {
+  "ctx": "div.faq > details > summary",
+  "en": "What languages is the audio guide available in?"
+ },
+ "T061": {
+  "ctx": "div.faq > details > p",
+  "en": "English, French, German, Italian, Polish, Spanish, and Russian."
+ },
+ "T062": {
+  "ctx": "div.wrap > div.final > h2",
+  "en": "Walk Colmar with the stories in your ear"
+ },
+ "T063": {
+  "ctx": "div.wrap > div.final > p",
+  "en": "27 stops, an hour and a half, entirely at your own pace. One payment, works offline, with a year of access."
+ },
+ "T064": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Buy the audio guide — €9.99"
+ },
+ "T065": {
+  "ctx": "div.final > div.btns > a.btn",
+  "en": "Listen to the preview"
+ },
+ "T066": {
+  "ctx": "section > div.wrap > p.disclosure",
+  "en": "Some links on this page are affiliate links to Booking.com. If you book through them we may earn a commission at no extra cost to you. The TouringBee audio guide is our own product. See our <a href=\"/affiliate-disclosure/\">Affiliate Disclosure</a>."
+ },
+ "T067": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Explore"
+ },
+ "T068": {
+  "ctx": "ul > li > a.bokunButton",
+  "en": "Audio walking tour"
+ },
+ "T069": {
+  "ctx": "ul > li > a",
+  "en": "Christmas markets"
+ },
+ "T070": {
+  "ctx": "ul > li > a",
+  "en": "Colmar or Strasbourg"
+ },
+ "T071": {
+  "ctx": "ul > li > a",
+  "en": "Village Christmas markets"
+ },
+ "T072": {
+  "ctx": "ul > li > a",
+  "en": "All guides"
+ },
+ "T073": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Legal"
+ },
+ "T074": {
+  "ctx": "ul > li > a",
+  "en": "Privacy Policy"
+ },
+ "T075": {
+  "ctx": "ul > li > a",
+  "en": "Terms of Use"
+ },
+ "T076": {
+  "ctx": "ul > li > a",
+  "en": "Affiliate Disclosure"
+ },
+ "T077": {
+  "ctx": "ul > li > a",
+  "en": "Become an Affiliate"
+ },
+ "T078": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Contact"
+ },
+ "T079": {
+  "ctx": "ul > li > a",
+  "en": "info@touringbee.com"
+ },
+ "T080": {
+  "ctx": "ul > li > a",
+  "en": "Instagram"
+ },
+ "T081": {
+  "ctx": "ul > li > a",
+  "en": "YouTube"
+ },
+ "T082": {
+  "ctx": "div.fgrid > div > h4",
+  "en": "Languages"
+ },
+ "T083": {
+  "ctx": "ul > li > a",
+  "en": "English"
+ },
+ "T084": {
+  "ctx": "ul > li > a",
+  "en": "Français"
+ },
+ "T085": {
+  "ctx": "ul > li > a",
+  "en": "Deutsch"
+ },
+ "T086": {
+  "ctx": "ul > li > a",
+  "en": "Español"
+ },
+ "T087": {
+  "ctx": "ul > li > a",
+  "en": "Italiano"
+ },
+ "T088": {
+  "ctx": "ul > li > a",
+  "en": "Português"
+ },
+ "T089": {
+  "ctx": "ul > li > a",
+  "en": "Polski"
+ },
+ "T090": {
+  "ctx": "ul > li > a",
+  "en": "Русский"
+ },
+ "T091": {
+  "ctx": "footer > div.wrap > div.fbot",
+  "en": "© 2026 ColmarTour · A TouringBee project · Touringbee Limited, Ireland (reg. 660321)"
+ },
+ "T092": {
+  "ctx": "div.arthero > div.wrap > div.crumb",
+  "en": "<a href=\"/\">Colmar</a> › Self-Guided Colmar Walking Tour (Audio Guide)"
+ },
+ "T093": {
+  "ctx": "div.arthero > div.wrap > h1",
+  "en": "Colmar walking tour with an audio guide: how it works"
+ },
+ "T094": {
+  "ctx": "div.arthero > div.wrap > p.sub",
+  "en": "From Parc du Champ de Mars to Little Venice, at your own pace, with no tour group and plenty of stories about Colmar."
+ },
+ "T095": {
+  "ctx": "div.arthero > div.wrap > p.byline",
+  "en": "By Eugene · Updated October 2026"
+ },
+ "T096": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Colmar audio guide — €9.99"
+ },
+ "T097": {
+  "ctx": "div.wrap > div.btns > a.btn",
+  "en": "Stay in Colmar"
+ },
+ "T098": {
+  "ctx": "div.sticky#sticky > div.wrap > span",
+  "en": "Colmar Audio Guide · from €9.99 · offline · in English"
+ },
+ "T099": {
+  "ctx": "div.sticky#sticky > div.wrap > a.btn",
+  "en": "Buy now"
+ },
+ "T100": {
+  "ctx": "img alt (../img/product-colmar.webp)",
+  "en": "The TouringBee app showing the Colmar audio tour map over Little Venice"
+ },
+ "T101": {
+  "ctx": "<title> (SEO title, <=60 chars)",
+  "en": "Self-Guided Colmar Walking Tour (Audio Guide) | TouringBee"
+ },
+ "T102": {
+  "ctx": "meta description (SEO, <=155 chars)",
+  "en": "A self-guided walking tour of Colmar's old town with the TouringBee audio guide: how it works, what's included, and how to get ready."
+ },
+ "T103": {
+  "ctx": "og:title",
+  "en": "Colmar walking tour with an audio guide: how it works"
+ },
+ "T104": {
+  "ctx": "og:description",
+  "en": "A self-guided walking tour of Colmar's old town with the TouringBee audio guide: how it works, what's included, and how to get ready."
+ }
+}
