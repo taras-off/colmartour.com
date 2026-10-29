@@ -32,10 +32,11 @@ ARTS = {
     'things-to-do-in-colmar':    dict(img='tile-old-town.webp',      extra=['hotels'], date='2026-10-15'),
     'one-day-in-colmar':         dict(img='tile-koifhus.webp',       extra=['hotels'], date='2026-10-23'),
     'colmar-walking-tour':       dict(img='tile-maison-pfister.webp', extra=['hotels'], date='2026-10-23'),
+    'petite-venise-colmar':      dict(img='tile-fishermans-quay.webp', extra=['hotels'], date='2026-10-29'),
 }
 # links to articles that are not published yet: rendered as plain text (no href) until the target page exists.
 # When an article goes live, remove its path here and rebuild the articles that link to it.
-PENDING = {'/petite-venise-colmar/'}
+PENDING = set()
 # "Continue exploring" block: not part of the authored text, inserted at build time before the closing H2.
 RM_HEAD = {'en': 'Continue exploring', 'fr': 'Pour aller plus loin', 'de': 'Weiterlesen', 'es': 'Sigue leyendo',
            'it': 'Continua a leggere', 'pt': 'Continue a ler', 'pl': 'Czytaj dalej', 'ru': 'Читать дальше'}
@@ -63,7 +64,9 @@ READMORE = {
  'things-to-do-in-colmar': lambda l: [RM_ITEMS[l][0], KIDS[l], RM_ITEMS[l][1], RM_ITEMS[l][2], RM_ITEMS[l][4]],
  'one-day-in-colmar': lambda l: [RM_ITEMS[l][0], KIDS[l], RM_ITEMS[l][1], RM_ITEMS[l][2], RM_ITEMS[l][4]],
  'colmar-walking-tour': lambda l: [RM_ITEMS[l][0], KIDS[l], RM_ITEMS[l][1], RM_ITEMS[l][2], RM_ITEMS[l][4]],
+ 'petite-venise-colmar': lambda l: [RM_ITEMS[l][0], KIDS[l], RM_ITEMS[l][1], RM_ITEMS[l][2], RM_ITEMS[l][4]],
 }
+READMORE_AT_END = {'petite-venise-colmar'}
 MONTH = {'en': ('September', 'October'), 'fr': ('septembre', 'octobre'), 'de': ('September', 'Oktober'),
          'es': ('septiembre', 'octubre'), 'it': ('settembre', 'ottobre'), 'pt': ('setembro', 'outubro'),
          'pl': ('wrzesień', 'październik'), 'ru': ('сентябре', 'октябре')}
@@ -133,6 +136,8 @@ def build_page(slug, lang, md):
     rest = blocks[3:]
     if slug in READMORE:
         last = max(n for n, b in enumerate(rest) if b.startswith('## '))
+        if slug in READMORE_AT_END:  # no FAQ/closing section: put the block after the last section, before [FINAL CTA]
+            last = next(n for n, b in enumerate(rest) if b.strip() == '[FINAL CTA]')
         rest[last:last] = ['## ' + RM_HEAD[lang], '\n'.join('- ' + x for x in READMORE[slug](lang))]
     # ---- hero
     btns = [f'<a class="btn dark bokunButton" {BOKBTN}>{cval(lang, K["herobtn"])}</a>']
