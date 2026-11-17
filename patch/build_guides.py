@@ -87,6 +87,7 @@ for lang in ORDER:
 <meta property="og:locale" content="{LOC[lang]}">
 <meta property="og:url" content="{url}">
 <meta property="og:title" content="{heading}">
+<meta property="og:description" content="{first_h1}">
 <style>
 {css}
 </style>

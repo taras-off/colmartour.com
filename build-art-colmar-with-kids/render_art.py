@@ -18,7 +18,7 @@ LANGS = {
  'pl': dict(locale='pl_PL'), 'ru': dict(locale='ru_RU'),
 }
 ORDER = ['en', 'fr', 'de', 'es', 'it', 'pt', 'pl', 'ru']
-KEEP = re.compile(r'^/(img/|favicon|robots|sitemap|llms|en|fr|de|es|it|pt|pl|ru)(/|\.|$)')
+KEEP = re.compile(r'^/(img/|favicon[^/]*$|robots\.txt$|sitemap\.xml$|llms\.txt$|privacy-policy/|affiliate-disclosure/|(en|fr|de|es|it|pt|pl|ru)(/|$))')
 tpl = open(f'{BUILD}/template-art.html', encoding='utf-8').read()
 en = json.load(open(f'{BUILD}/content/en.json', encoding='utf-8'))
 def langnav(cur):

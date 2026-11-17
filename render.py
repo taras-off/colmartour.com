@@ -9,16 +9,16 @@ LANGS = {
     'en': dict(locale='en_US', name='English',    audio='en'),
     'fr': dict(locale='fr_FR', name='Français',   audio='fr'),
     'de': dict(locale='de_DE', name='Deutsch',    audio='de'),
-    'es': dict(locale='es_ES', name='Español',    audio='en'),
+    'es': dict(locale='es_ES', name='Español',    audio='es'),
     'it': dict(locale='it_IT', name='Italiano',   audio='it'),
     'pt': dict(locale='pt_PT', name='Português',  audio='en'),
     'pl': dict(locale='pl_PL', name='Polski',     audio='pl'),
-    'ru': dict(locale='ru_RU', name='Русский',    audio='en'),
+    'ru': dict(locale='ru_RU', name='Русский',    audio='ru'),
 }
 ORDER = ['en', 'fr', 'de', 'es', 'it', 'pt', 'pl', 'ru']
 BASE = 'https://colmartour.com'
 # internal paths that must NOT be language-prefixed
-KEEP = re.compile(r'^/(img/|favicon|robots|sitemap|llms|' + '|'.join(ORDER) + r')(/|\.|$)')
+KEEP = re.compile(r'^/(img/|favicon[^/]*$|robots\.txt$|sitemap\.xml$|llms\.txt$|privacy-policy/|affiliate-disclosure/|(en|fr|de|es|it|pt|pl|ru)(/|$))')
 
 tpl = open(f'{BUILD}/template.html', encoding='utf-8').read()
 
