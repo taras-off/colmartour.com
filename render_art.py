@@ -62,6 +62,18 @@ def jsonld(soup, lang):
       {"@type": "ListItem", "position": 2, "name": h1, "item": url}]},
     ]
     return json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False, indent=1)
+def bokun_lang(html, lang):
+    """Open the Bokun checkout in the page language (?lang=xx) on non-English pages."""
+    if lang == 'en':
+        return html
+    def fix(m):
+        u = m.group(2)
+        if 'lang=' in u:
+            return m.group(0)
+        u = u.replace('?', '?lang=%s&amp;' % lang, 1) if '?' in u else u + '?lang=' + lang
+        return '%s="%s"' % (m.group(1), u)
+    return re.sub(r'(href|data-src)="(https://widgets\.bokun\.io/online-sales/[^"]+)"', fix, html)
+
 def render(lang):
     data = json.load(open(f'{BUILD}/content/{lang}.json', encoding='utf-8'))
     out = tpl
@@ -85,6 +97,7 @@ def render(lang):
     tag.string = jsonld(soup, lang)
     soup.find('body').append(tag)
     out = str(soup)
+    out = bokun_lang(out, lang)
     d = f'{PUB}/{SLUG}' if lang == 'en' else f'{PUB}/{lang}/{SLUG}'
     os.makedirs(d, exist_ok=True)
     open(f'{d}/index.html', 'w', encoding='utf-8').write(out)

@@ -45,6 +45,18 @@ def prefix_links(html, lang):
     return re.sub(r'href=(["\'])(/[^"\']*)\1', lambda m: rep(m), html)
 
 
+def bokun_lang(html, lang):
+    """Open the Bokun checkout in the page language (?lang=xx) on non-English pages."""
+    if lang == 'en':
+        return html
+    def fix(m):
+        u = m.group(2)
+        if 'lang=' in u:
+            return m.group(0)
+        u = u.replace('?', '?lang=%s&amp;' % lang, 1) if '?' in u else u + '?lang=' + lang
+        return '%s="%s"' % (m.group(1), u)
+    return re.sub(r'(href|data-src)="(https://widgets\.bokun\.io/online-sales/[^"]+)"', fix, html)
+
 def render(lang):
     data = json.load(open(f'{BUILD}/content/{lang}.json', encoding='utf-8'))
     en = json.load(open(f'{BUILD}/content/en.json', encoding='utf-8'))
@@ -66,6 +78,7 @@ def render(lang):
               .replace('{{AUDIO_SRC}}',
                        f"https://touringbee.com/wp-content/uploads/colmart1_{cfg['audio']}_intro.mp3"))
     out = prefix_links(out, lang)
+    out = bokun_lang(out, lang)
     d = PUB if lang == 'en' else f'{PUB}/{lang}'
     os.makedirs(d, exist_ok=True)
     open(f'{d}/index.html', 'w', encoding='utf-8').write(out)
